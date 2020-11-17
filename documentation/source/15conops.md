@@ -1,36 +1,24 @@
 # Concept of Operations
 
 
-## The Model
+## The Ecosystem
 
-### Inputs
+## Github
 
-```
-butzer@IGSKMNCNLT01529 /cygdrive/k/90daytemp/butzer/fromStefanie
-$ ls -1a
-air_temperature
-MODIS_NDVI
-precipitation
-soilData
+### since everything in the cloud is EPHEMERAL- GITHUB is CRUCIAL
 
-Snowpack_initial_US.tif
-Snowpack_initial_US.tif
-SWE_initial_US.tif
+## Compute aka ec2 instance(s)
 
-'Input data to the VegET model.ipynb'
-```
+## Storage aka s3 buckets
 
-### Processing
+## Inputs
+### Public Data Sets
+
+## Processing
+
+## Outputs
 
 
-### Outputs
-
-
-### Questions
-
-- explain it to me like I'm 5
-- any documentation?
-- are we changing the inputs to use Landsat? 
-	- or has it always used Landsat?
+## Questions
 
 ## Pictures?

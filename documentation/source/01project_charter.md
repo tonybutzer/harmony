@@ -1,6 +1,12 @@
 <u> charter</u>
-# Project Charter PANGEO ET Model 
-## "Evapotranspiration Modeling in AWS using the PANGEO Architecture"
+# Project Charter Science Training for Cloud
+
+# Science Focused Detailed Training
+
+# Xarray
+# Visualization Python Libraries
+	- ### Dashboards
+
 
 
 ## Introduction: 
@@ -24,20 +30,13 @@ also consider govt contracts that include M$ Azure etc.
 
 ### Project Statement
 
-This project will explore the feasibility of porting the ET models into cloud compute instances likely leveraging the general PANGEO model and exploiting the "xarray" abstraction and multi-dimensional data model and slicing methods.
-
-This sounds fairly simple and straight forward - however there is significant complexity encapsulated in this project.  The team's goal will be to pilot this Science model and then look for ways to simplify the complexity and create a python code set that can be used in any cloud platform.
-
-The project team shall exploit prior-art where possible and work to simplify many of the arduous/tedious steps, especially in creating and decommissioning elastic infrastructure.
+This project will provide comprehensive and sometimes custom training to any or all USGS/EROS Science Teams and Individuals.
 
 ### Concept
 
-```
-NOTE: Need to build some concept of operations pages also 
+The goal is to build a curriculum and code examples for spring-boarding projects into the AWS cloud.
 
-but here we just need to define what we are building
-```
-
+Learn and apply lessons from the ET Case Study
 System is defined to be the ET model system ( Data, Code, Infrastructure, and Monitoring) subcomponents.
 
 - The system shall run in AWS
@@ -102,27 +101,8 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 	- first ad-hoc model test case - Delaware - "Liberty and Independence" - my motto as well.
 	- define scalable production options and notional architecture [perhaps lightweight CDR and ORR]
 
-### Conops Generation
-
-- define AOI
-	- Delaware River Basin
-	- Great Lakes 10 degree Tile
-	- 48 Status USA
-	- All of North America - wow - go Steffi
-- we focus on the NDVI Modis - with an eye on Landsat ?
-	- average daily observeations of NDVI over 2001-2018
-	- yearly time series xarrays?
-	- pixel math
-	- cloud masking?
-	- pruning of data based on qa or cloud cover?
-	- NDVI, NDWI etc ....
-	- Soils data preparation
-	- NDVI plus static data tifs
-	- numpy arrays 1st - then xarrays to exploit dask parallel supercomputers
-
 ### Data Prepare
 
-See section below - still WIP
 
 
 ### Code Packaging and Evaluation
@@ -150,8 +130,12 @@ See section below - still WIP
 
 ## Staffing, Roles, Skills, Responsibilities
 
+## Instructors
 
-## Staff Contact List
+## Students
+
+
+## ET Staff Contact List
 
 ```bash
 
@@ -220,48 +204,6 @@ KBR - Sioux Falls
 butzer@contractor.usgs.gov
 ```
 
-### Terry Sohl - Principle Investigator
-1. Specializing in Land use/change modeling
-2. development of the FORE-SCE (FOREcasting SCEnarios of land-use change) modeling framework
-3. Published Scientific Author
-4. representative for the USGS EarthMAP initiative
-### Ward Sanford - Co-Principle Investigator
-1. Specializing in regional groundwater flow and transport and water budget
-2. Published Scientific Author
-### Gabriel Senay – Co-Principle Investigator/Project Lead
-1. Specializing in Water Cycle modeling and predictive models
-2. Published Scientific Author
-3. Lives to integrate land cover and hydrologic modeling.
-4. Inventor of the VegET and SSEBop ET model
-### Stefanie Kagone - Research Scientist/Team Lead 
-1. Experienced VegET modeler and Python coder
-2. Highly Responsive Communicator and Motivating Force
-3. Published Scientific Author
-### Kul Khand - Reseach Scientist
-1. Experienced hydrologic modeler
-2. Published Scientific Author
-3. Voted best name for a colleague in the WaterSMART project
-4. He is a Jackrabbit.
-5. Jumped from the Mountains of Nepal to the plains of South Dakota
-	- He had to walk up hill to school for an hour -- both ways. :-)
-> For me in particular, most of my work is involved in studying how the global change, the land cover change specifically, is impacting water resources ... and finding scientific solutions to sustain the available water resources.”
-
-### Darin Schulte - Research Scientist
-1. Python Coding
-2. Operation model experience in the cloud
-3. GitHub knowledge
-4. Python Skills
-5. VegET expertise
-6. Works in a liberating Academic University Environment - (```Valued Perspective```)
-7. Hopes to attend the August Open Data Cube Forum 2020 at EROS
-	- This Workshop promises to unleash some ```revolutionary``` capabilities in the cloud for SCIENCE!
-	- This Workshop will be well attended by an enthusiatic cadre of International World Class Scientists
- 
-### Gabe Parrish - Remote Sensing Scientist
-1. Experienced in Jupyter Notebooks - completed the workshop training
-2. Markdown documentation skills
-3. open source coder
- 
 
 ### Tony Butzer - Open Data Cube Cloud Engineer
 
@@ -280,8 +222,6 @@ butzer@contractor.usgs.gov
 
 
 
-# TONY TONY TONY - fix below NOW!
-
 ## Major Requirements 
 
 1. Supports Science Hackathons
@@ -291,7 +231,10 @@ butzer@contractor.usgs.gov
 
 ### Deliverables: 
 
-1. Github repos 
+1. December 1 - AWS Onboarding - Hosted by Neal Pastick
+
+
+#### Cloud Examples from github - treasure chest
 	- CFT templates
 	- terraform examples
 	- ipynb files
@@ -303,58 +246,13 @@ butzer@contractor.usgs.gov
 5. JupyterNotebook Container/Pod/Service
 
 
-#### Companion Items
-1. Data Lake of Collection 2 Landsat
-2. TBD.
-
-## Deliverables
-### PANGEO.CHS.USGS.GOV Evaluation Gap Analysis WhitePaper
-1. What libraies need to be added 
-2. How are companion micro-services or database services hooked into these one size pangeo environment?
-3. Will USGS add binder as a capability for personalization and customization?
-
-### ET AWS Code Base - Running Model
-1. Feasibility Analysis of Xarray meets ET
-1. Mechanisms for transferring companion data into the cloud.
-1. Small Prototype
-2. Scaling and Stress Testing The Model
-3. How to move to production
-
-### White Paper CONOPS - Scaling ET in AWS for Production
-
-### Cloud Portability Analysis
-
-### GEE versus AWS for Scientific Discovery
-
-
-
-#### List of deliverables: 
-- if deliverables are already defined, this list contains details about each deliverable—what it is and what its success criteria is
-
-- describe the major stakeholder requirements or key project deliverables depending on how you choose to track your deliverables
-
 ## Budget: 
 - cost estimate, information about spending authority
-
-## Schedule or Milestones: 
-- when will the project be complete, and what are the major milestones?
-
-1. Get Kubernetes Running in AWS
-	1. Development cluster for butzer - no autoscale
-	2. Development Cluster - for Pegah - wip
-
-2. Get Jupyter Hub Working in the above K8s Environment
-	1. Single Pod deployment
-	2. Helmchart deployment based on Pangeo
-		1. Web site here:
-
-3. Collate Jupyter Notebooks in Github Repo
 
 ## Constraints and Assumptions: 
 
 1. Funded as part of LSAA and OpenDataCube and Science (Doucette) 
 	- initial incubation - not an issue - if the story is compelling - long term will not be an issue either
-2. Brief the stakeholders when we have something concrete to say
 
 
 ### Stakeholders
@@ -395,7 +293,6 @@ butzer@contractor.usgs.gov
 	- John Hedman - AWS Consultant
 	
 3. Tony Butzer - Jupyter Hub and Jupyter Notebook - facilitator
-4. Rizbi Hassan - Notebook Content Management
 
 ## Approvals: 
 - a space for stakeholders to record their approval (or disapproval) of the charter 
@@ -403,15 +300,11 @@ butzer@contractor.usgs.gov
 ## Scheduling documents: 
 - a timeline, calendar, or other document that illustrates the project schedule with details about each milestone or phase
 
-This project will use agile techniques with Rocket Chat and perhaps a Kanban
+This project will use agile techniques with M$ Teams Chat and perhaps a Kanban
 
-[Kanban](http://10.12.66.180:8080)
     
 ## Communication plan: 
 - this includes details about how each person involved will be kept informed about progress, changes, etc. (Here’s how to create a communication plan)
 
-1. Weekly Meetings at least during incubation
-2. ET PANGEO website - records details - like an engineering notebook
-	- promotes wider collaboration
-	- saves on keystrokes
+1. Perhaps 1 hour training sessions weekly or every fortnight
 3. more to be defined ....

@@ -5,4 +5,4 @@ html:
 
 
 git:
-	(cd /opt/et && make)
+	(cd ../../ && make publish)
