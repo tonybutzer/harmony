@@ -63,4 +63,6 @@
 
 ## References
 
-
+- https://lpdaac.usgs.gov/resources/e-learning/
+- https://registry.opendata.aws/landsat-8/
+- https://docs.opendata.aws/landsat-pds/readme.html
