@@ -5,7 +5,7 @@
 # Project Initiation, Kickoff, and Approach
 
 - Jump in with both feet approach.
-- Gabriel Senay, Stffi Kagone - trail blazers
+- Gabriel Senay, Steffi Kagone - trail blazers
 - Neal Pastick as trail blazer
 - Continuous Training - Train The trainer
     - Example Steffi and Gabe Parish now writing visualizations directly
@@ -25,7 +25,7 @@
 ## Headlines
 
 - Netflix Delivers Billions of Hours of Content Globally by Running on AWS 
-- 
+- Steffi Kagone does 150 days of work in just THREE!
 
 ## Procurement delays not applicable
 
