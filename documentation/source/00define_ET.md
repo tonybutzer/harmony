@@ -66,3 +66,5 @@
 - https://lpdaac.usgs.gov/resources/e-learning/
 - https://registry.opendata.aws/landsat-8/
 - https://docs.opendata.aws/landsat-pds/readme.html
+- https://corteva.github.io/rioxarray/stable/examples/clip_box.html
+- https://corteva.github.io/rioxarray/stable/examples/convert_to_raster.html
