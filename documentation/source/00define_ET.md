@@ -47,15 +47,45 @@
 - Project Specific Specialities
 	- SageMaker and ML
 
+## Students
 
-# Instructors Live
+```
+Pastick, Neal (Contractor) J
+
+Postma, Kory (Contractor)
+
+Bunde, Brett (Contractor)
+
+Danielson, Patrick (Contractor)
+
+Butzer, Tony (Contractor)
+
+Dahal, Devendra (Contractor)
+
+Wylie, Bruce K
+
+Rover, Jennifer
+
+Zhou, Qiang (Contractor)
+
+Rigge, Matthew B
+
+Boyte, Stephen
+
+Smith, Kelcy (Contractor) L
+
+Anthony, Michelle (Contractor) L
+```
+
+
+## Instructors Live
 
 - Tony Butzer
 - Nathan Roberts
 - Aaron Friez
 - Rich Signell
 
-# Instructors by Example
+## Instructors by Example
 - Ryan Abernathey - PANGEO
 - Chris Holmes - COGS and STAC
 - Matt Hansen - STAC

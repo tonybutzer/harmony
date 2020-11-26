@@ -5,7 +5,7 @@ html:
            ${Image} sphinx-build source build/html
 
 webServer:
-	docker run --name et-web -p 80:80 -v `pwd`/build/html:/usr/share/nginx/html:ro -d nginx
+	docker run --name harmony-web -p 80:80 -v `pwd`/build/html:/usr/share/nginx/html:ro -d nginx
 
 
 git:

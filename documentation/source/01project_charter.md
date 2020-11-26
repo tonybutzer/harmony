@@ -1,17 +1,19 @@
 <u> charter</u>
-# Project Charter Science Training for Cloud
 
-# Science Focused Detailed Training
+# ET Case Study Project Charter
 
-# Xarray
-# Visualization Python Libraries
-	- ### Dashboards
+## Prior Art
+### Science Focused Detailed Training
+
+### Xarray
+### Visualization Python Libraries
+- Dashboards
 
 
 
-## Introduction: 
+### ET Case Introduction: 
 
-- The ET Science Team has successfully demonstrated the ability to globally scale their models using cloud platforms. Notably Google Earth Engine.
+- The (evaporation) ET Science Team has successfully demonstrated the ability to globally scale their models using cloud platforms. Notably Google Earth Engine.
 	- However there are trade-offs and some disincentives for continuing to use GEE.
 	- AWS will soon house the Landsat Collection-2 data set and allow direct access to pixels, metadata and pixelqa data.
 	- This environment should lead to efficiencies in creating ET products and this research project seeks to explore and document these efficiencies.
@@ -28,7 +30,7 @@ also consider govt contracts that include M$ Azure etc.
 > A project charter is a formal project authorization which documents the shared understanding of a project’s scope, development, and objectives, while also defining the roles and responsibilities of each party involved.
 
 
-### Project Statement
+### General Project Statement
 
 This project will provide comprehensive and sometimes custom training to any or all USGS/EROS Science Teams and Individuals.
 
@@ -51,12 +53,11 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 
 2. This system should be able flexible and in some cases use other sensor data in lieu of the data used to prototype the system.
 
-## Success Criteria: 
-- define the project success and list critical success factors
+### Success Criteria: 
 
 1. The architecture choices and code base used for the prototype ET modeling application should directly map to a routine, periodic, production capability that leverages cloud services and exports products in an easily exploitable way.
 
-## Business Case;  The BIG WHY!
+### Business Case;  The BIG WHY!
 
 ### Population Growth and Better Resource Management
 
@@ -82,7 +83,7 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 2. The USGS is also exploring PANGEO incubation environments
 3. Collection-2 will live in the cloud in Oregon - we need to understand this new Landsat Data Access Model.
 
-## Key Calendar Event Watch
+### Key Calendar Event Watch
 
 1. Jupyter Pangeo Workshop 1 - Pieschke/Roberts - December 2019
 3. Persistent Pangeo Sandbox (CHS Hosted) (EarthMap Funded) February 11, 2019
@@ -93,19 +94,7 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 5. Collection-2 Public Release with STAC catalog and STAC API/Service - May 15, 2020
 6. Open Data Cube Science Workshop at EROS - hosted by Alex Leith and CEOS's Brian Killough - June 15, 2020 `[Jupyter, AWS, ODC, Collection-2 DEEP DIVE]`
 
-## Major Milestones
-
-### Project Initiation
-- define phase strategy
-	- prototype, feasibility study, incubation
-	- first ad-hoc model test case - Delaware - "Liberty and Independence" - my motto as well.
-	- define scalable production options and notional architecture [perhaps lightweight CDR and ORR]
-
-### Data Prepare
-
-
-
-### Code Packaging and Evaluation
+### Code Packaging and Evaluation ET example
 
 	- Initial github repo 
 	- Organizing the parts in to libraries
@@ -116,41 +105,17 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 		- xarrays, numpy, matplot, seaborn ... ... ...
 
 
-### Jupyter Hub Infrastructure
+### Jupyter Hub Infrastructure mini-pangeo construction
 
 - Building an infrastructure test-bed
 	- jupyter labs, notebook and hub capable
-	- ODC libraries work
-- Indexing 
-	- postgres ODC Index
-	- STAC service
-	- Companion services in same VPC/network broadcast domain
-		- Docker containers with projected port access
 
-
-## Staffing, Roles, Skills, Responsibilities
-
-## Instructors
-
-## Students
 
 
 ## ET Staff Contact List
 
 ```bash
 
-Terry Sohl
-Principle Investigator
-U.S. Geological Survey EROS Center, 
-Sioux Falls, SD, 57198, USA 
-<u>sohl@usgs.gov</u>
- 
-Ward Sanford
-Co-Principle Investigator
-Water Resources Mission Area
-12201 Sunrise Valley Dr, Reston, VA 20192
-wsanford@usgs.gov
- 
 Gabriel Senay
 Co-Principle Investigator
 U.S. Geological Survey (USGS), Earth Resources Observation and Science (EROS) Center, 
@@ -164,12 +129,6 @@ ASRC Federal Data Solutions LLC, Contractor to the U.S. Geological Survey EROS C
 Sioux Falls, SD, 57198, USA 
 skagone@contractor.usgs.gov
  
-Kul Khand
-Research Scientist
-ASRC Federal Data Solutions LLC, Contractor to the U.S. Geological Survey EROS Center, 
-Sioux Falls, SD, 57198, USA 
-kkhand@contractor.usgs.gov
- 
 Darin Schulte PhD, MLA
 Research Scientist
 Natural Resources Ecology Laboratory
@@ -181,21 +140,6 @@ Remote Sensing Scientist
 Innovate!, Inc., TSSC Contractor to the U.S. Geological Survey EROS Center, 
 Sioux Falls, SD 57198
 gparrish@contractor.usgs.gov
-
-Gregory Rouze
-Remote Sensing Scientist II / Technical Support Services Contract (TSSC)
-KBR Contractor to the USGS Earth Resources Observation and Science (EROS) Center 
-Web: https://www.usgs.gov/centers/eros
-Office: 605-594-6840
-
-
-________________________________________
-Jordan Dornbierer
-Scientist | Technical Support Services Contract (TSSC)
-KBR Contractor to the USGS Earth Resources 
-Observation and Science (EROS) Center | Web: https://www.usgs.gov/centers/eros
-Office: +1 605.594.2810 | jdornbierer@contractor.usgs.gov
-________________________________________
 
 
 Tony Butzer
@@ -215,14 +159,9 @@ butzer@contractor.usgs.gov
 6. Cloud computing enthusiast
 7. Loyal EROS employee since the 80's
 
-#### Weaknesses
-1. Lack of Scientific Background
-2. Low Tolerance for metawork and obstacles.
-3. His brain wanders and won't shutoff. If only he could harness it for good.
 
 
-
-## Major Requirements 
+### Major Requirements for mini-pangeos
 
 1. Supports Science Hackathons
 2. Highly repeatable
@@ -231,25 +170,24 @@ butzer@contractor.usgs.gov
 
 ### Deliverables: 
 
-1. December 1 - AWS Onboarding - Hosted by Neal Pastick
+1. December 1 - AWS Onboarding - Hosted/Genesis by Neal Pastick
 
 
 #### Cloud Examples from github - treasure chest
-	- CFT templates
 	- terraform examples
 	- ipynb files
 	- tools for installing python libraries
 	-
 2. Web based project documentation
-3. EKS cluster in the dev environment
-4. Jupyterhub Container/Pod/Service
+3. EKS cluster in the dev environment - move to deployment - this focus is on science development environments
+4. Jupyterhub Container/Pod/Service - focus on pure docker - skip the complicated abstractions in K8s
 5. JupyterNotebook Container/Pod/Service
 
 
-## Budget: 
+### Budget: 
 - cost estimate, information about spending authority
 
-## Constraints and Assumptions: 
+### Constraints and Assumptions: 
 
 1. Funded as part of LSAA and OpenDataCube and Science (Doucette) 
 	- initial incubation - not an issue - if the story is compelling - long term will not be an issue either
@@ -272,38 +210,15 @@ butzer@contractor.usgs.gov
 
 - what are the project’s known and unknown parameters at this point in time?
 
-## Summary of Risks: 
+### Summary of Risks: 
 - a high-level overview of major threats to the project’s success
 
 1. Kubernetes is very complicated
 2. Security Items will need to be addressed - likely in stages
 3. Attention Span risk - the amount of work and the pace of change can vector resources in unexpected ways.
 
-## External Subject Matter Option List
-
-- list who will work on the project, who oversees the project, and outline their roles
-
-1. Renee Pieschke - PRODUCT MANAGER - strategic advisor - Collection-2 Expert
-	- Rich Signell - Visionary - PANGEO expertise
-	- Nathan Roberts - cloud data access, xarray and dask
-2. CHS Team AWS Cloud meets FedRAMP
-	- Pegah Lashgarlou - EKS/K8s expert and administrator
-	- Sam Congdon - EKS Consultant
-	- Bill Howe - AWS Consultant
-	- John Hedman - AWS Consultant
-	
-3. Tony Butzer - Jupyter Hub and Jupyter Notebook - facilitator
-
-## Approvals: 
-- a space for stakeholders to record their approval (or disapproval) of the charter 
-
-## Scheduling documents: 
-- a timeline, calendar, or other document that illustrates the project schedule with details about each milestone or phase
-
-This project will use agile techniques with M$ Teams Chat and perhaps a Kanban
-
     
-## Communication plan: 
+### Communication plan: 
 - this includes details about how each person involved will be kept informed about progress, changes, etc. (Here’s how to create a communication plan)
 
 1. Perhaps 1 hour training sessions weekly or every fortnight

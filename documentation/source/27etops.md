@@ -1,4 +1,4 @@
-# ET OPERATIONS etops
+# DEVOPS details
 
 ## docker and docker logs
 

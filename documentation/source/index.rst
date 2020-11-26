@@ -13,6 +13,7 @@ Welcome to AWS Onboarding Training
    00define_ET.md
    00status.md
    01project_charter.md
+   02neal_case_study.md
    10project_plan
    12wbs.md
    15conops.md
