@@ -14,7 +14,7 @@
 - weekly - tuesdays at noon?
 - odd weeks will be professor office hours 
 	- independent labs
-	- custom probems
+	- custom problems
 		- moving and finding science data assets to/from AWS
 		- python package wrangling
 		- etc tbd ...
