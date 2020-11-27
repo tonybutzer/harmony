@@ -16,6 +16,7 @@ Welcome to AWS -- PANGEO Onboarding Training
    02neal_case_study.md
    10project_plan
    12cloud.md
+   13FAQ.md
    14project_plan
 .. 15conops.md
 .. 18sandbox.md
