@@ -1,5 +1,23 @@
 # DEVOPS details
 
+- you don't have to be a cloud devops engineer - just have one on your team
+	- or phone a friend - tony butzer
+
+# DEVOPS WEEKLY
+
+- Class number 1
+	- create mini-pangeo
+
+## Create Mini-Pangeo
+
+- add devops/tfinfra to git repo harmony
+- terraform apply butzer-neal-mini-pangeo
+- create another-one  butzer-neal-mini-pangeo-demo-only-nuke-me
+- like the cooking show - where one is already baked
+- tljh install 
+- create users from notebook
+	- http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
+
 ## docker and docker logs
 
 - see github repo 

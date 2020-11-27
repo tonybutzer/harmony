@@ -22,6 +22,10 @@
 	
 ![](./Assets/early-adopt.PNG)
 
+# Who is this class not for:
+- Those close to retirement
+- Those that don't mind driving cabs in an Uber world
+
 ---
 # Vision
 

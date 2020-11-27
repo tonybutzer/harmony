@@ -7,6 +7,7 @@
 		- terraform 
 		- the littleist jupyter hub - intro
 	- Neal wanted a kanban too/also
+	- SEE DEVOPS WEEKLY
 1. Lab
 2. Delaware River Basin AOI
 	- How to display AOI in Jupyter
