@@ -28,6 +28,11 @@
 
 ## Computers and Website
 
+A compute in the cloud is the same as a computer in EROS's CR2!
+- let me say that again
+	- A computer in the cloud is the **SAME** as a computer in EROS's CR2!
+	- linux is linux wherever it swims
+
 ```
 The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 10.12.69.216
