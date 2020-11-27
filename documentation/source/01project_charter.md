@@ -10,8 +10,8 @@
 ## Technology Musts
 You must use these:
 
-### These have been selected with prejudice fromover 40 years of playing with tech!
-- These have been selected with prejudice fromover 40 years of playing with tech!
+### These have been selected with prejudice from over 40 years of playing with tech!
+- These have been selected with prejudice from over 40 years of playing with tech!
 
 #### Key Technologies that Allow Scaling
 
