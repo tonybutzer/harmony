@@ -9,6 +9,17 @@
 - A scientist that wants to move at a faster pace than currently afforded
 - A technical support person that wants to do their job way more efficiently and effectively.
 
+## When? -- Class Schedule
+
+- weekly - tuesdays at noon?
+- odd weeks will be professor office hours 
+	- independent labs
+	- custom probems
+		- moving and finding science data assets to/from AWS
+		- python package wrangling
+		- etc tbd ...
+	
+
 ---
 # Vision
 
