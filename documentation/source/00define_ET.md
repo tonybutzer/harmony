@@ -66,6 +66,8 @@ I am looking for people who do Python in Jupyter to Join Forces
 - I am hiring an SDSU Intern to do visualizations - fun job :-)
 - I am hoping to have another .25 FTE
 - but I really could use even more resources to make the cloud a better world for scientists
+- I want to meet Alemayehu and compare cloud notes and discuss making more people love Jupyter
+	- even if they don't see/love the notebook
 
 ---
 ## github
