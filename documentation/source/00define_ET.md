@@ -8,6 +8,7 @@
 - A scientist that wants to migrate from Windows to Linux
 - A scientist that wants to move at a faster pace than currently afforded
 - A technical support person that wants to do their job way more efficiently and effectively.
+- You are an early adopter of cloud technologies and can envision the utility it will bring to your science.
 
 ## When? -- Class Schedule
 
