@@ -10,6 +10,8 @@
 ## Technology Musts
 You must use these:
 
+### These have been selected with prejudice fromover 40 years of playing with tech!
+
 #### Key Technologies that Allow Scaling
 
     ## AWS Cloud
