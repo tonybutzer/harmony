@@ -37,6 +37,7 @@
 - "Day in the Life of a New Cloud Science Project"
 - " ET Case Study"
 - "permaFrost case study"
+- Ten things to do immediately with your new CHS CUSTOM ACCOUNT
 
 
 ---
