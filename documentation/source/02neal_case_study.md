@@ -37,6 +37,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 ## Project Simple View
 
 ### Infrastructure Devops - Tony
+- create github `new` repo `always begin with a fresh github repo`
 - create web host
 	- create website  - DONE!!!
 	- create kanboard - WIP!!!
