@@ -45,8 +45,17 @@
 - everything can be instantly recreated from a github repo TEXT file
 	- i think that is really cool!!!!!
 
+### Pets Service Model
 
-[Cattle Article Click Here](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
+In the pets service model, each pet server is given a loving names like zeus, ares, hades, poseidon, and athena. They are “unique, lovingly hand-raised, and cared for, and when they get sick, you nurse them back to health”. You scale these up by making them bigger, and when they are unavailable, everyone notices.
+
+Examples of pet servers include mainframes, solitary servers, load balancers and firewalls, database systems, and so on.
+
+### Cattle Service Model
+
+In the cattle service model, the servers are given identification numbers like web01, web02, web03, web04, and web05, much the same way cattle are given numbers tagged to their ear. Each server is “almost identical to each other” and “when one gets sick, you replace it with another one”. You scale these by creating more of them, and when one is unavailable, no one notices.
+
+- from --> https://joachim8675309.medium.com/devops-concepts-pets-vs-cattle-2380b5aab313
 
 
 ## Bucket Permissions

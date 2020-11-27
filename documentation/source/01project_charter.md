@@ -107,7 +107,7 @@ System is defined to be the ET model system ( Data, Code, Infrastructure, and Mo
 2. Open Data Cube Annual Hackathon - February 2020 in Canberra, Australia
 3. ET Pangeo Project Kickoff `[THIS PROJECT]` - February 2020
 4. USGS -- GeoScience Annual Planning and Collaboration Group - big wigs pontificate - April 26-30, Annapolis MD. `[Doucette, Labahn, Jenn Lacey, Butzer]`
-5. PANGEO/pangeo.chs.usgs.gov open for use -- **May 1, 2010** - thanks Rich
+5. PANGEO/pangeo.chs.usgs.gov open for use -- **May 1, 2020** - thanks Rich
 5. Collection-2 Public Release with STAC catalog and STAC API/Service - May 15, 2020
 6. Open Data Cube Science Workshop at EROS - hosted by Alex Leith and CEOS's Brian Killough - June 15, 2020 `[Jupyter, AWS, ODC, Collection-2 DEEP DIVE]`
 
