@@ -9,6 +9,7 @@
 - A scientist that wants to move at a faster pace than currently afforded
 - A technical support person that wants to do their job way more efficiently and effectively.
 
+---
 # Vision
 
 - Make Science Easy and Fun.
@@ -17,6 +18,7 @@
 
 - Document AWS open source python tools for science
 
+---
 ## Other Titles
 
 - Harmony - for lots of reasons
@@ -26,6 +28,7 @@
 - "permaFrost case study"
 
 
+---
 ## Computers and Website
 
 A compute in the cloud is the same as a computer in EROS's CR2!
@@ -42,12 +45,15 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 
 ```
 
+---
 ## github
 
 - https://github.com/tonybutzer/harmony
 
+---
 ## KANBAN - kanboard - tony?
 
+---
 # Overview
 
 - Project Initiation and Student Roadmap
@@ -85,6 +91,7 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 - Project Specific Specialities
 	- SageMaker and ML
 
+---
 ## Students
 
 - I will interview each student to find out how they want to apply this training
