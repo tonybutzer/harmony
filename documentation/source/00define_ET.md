@@ -90,6 +90,8 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 - I will interview each student to find out how they want to apply this training
 	- essentially their personal/custom goals for the AWS cloud.
 
+---
+
 - http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
 
 ```
