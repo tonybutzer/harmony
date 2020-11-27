@@ -8,6 +8,18 @@
 		- the littleist jupyter hub - intro
 	- Neal wanted a kanban too/also
 	- SEE DEVOPS WEEKLY
+
+## Teams Note
+Hey Class: - the course website is starting to take shape and is here:
+- http://10.12.69.216/
+	
+we will fill in more color/detail as we go through our CASE Studies.
+- our companion github repo is here - can't live in the cloud without github/dockerhub.
+- https://github.com/tonybutzer/harmony
+- this is also where our cache of notebooks will live - like this one:
+- https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
+	- See you all on tuesday December 1st at 12 NOON 
+---
 1. Lab
 2. Delaware River Basin AOI
 	- How to display AOI in Jupyter
