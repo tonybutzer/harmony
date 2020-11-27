@@ -3,6 +3,10 @@
 # Week by Week Class Summaries
 
 1. Introduction and Basic Cloud Tour 
+	- Neal's team won a free mini-pangeo
+		- terraform 
+		- the littleist jupyter hub - intro
+	- Neal wanted a kanban too/also
 1. Lab
 2. Delaware River Basin AOI
 	- How to display AOI in Jupyter
