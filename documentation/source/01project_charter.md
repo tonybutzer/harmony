@@ -5,6 +5,19 @@
 ## Prior Art
 ### Science Focused Detailed Training
 
+
+## Technology Musts
+You must use these:
+
+#### Key Technologies that Allow Scaling
+
+    ## AWS Cloud
+    #### Linux/Terraform
+    #### Docker
+    ## Jupyter
+    #### PANGEO, Open Data Cube and The BROWSER
+    #### Python and github
+
 ### Xarray
 ### Visualization Python Libraries
 - Dashboards

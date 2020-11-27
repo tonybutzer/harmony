@@ -23,7 +23,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 
 ## Project Setup and Conceptualizing
 
-## Project Initiation
+## Project Initiation - Neal
 1. Develop Charter
 2. Get Staffing Aligned
 3. Initial low cost base infrastructure
@@ -34,11 +34,51 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 
 ## Project Simple View
 
+### Infrastructure Devops - Tony
+- create web host
+	- create website
+	- creat kanboard
+- create mini-pangeo
+	- add users from student/neal's team list
+	- post mini-pangeo instructions with usernames and password harmony
+		- warn users about the ephemeral nature of the cloud
+
+## Veget Project drb 10 degree tile
+### Define AOI
+- shapefiles
+- geojson files
+- visualize AOI on a map
 ### Data Inputs
+### Data List
+- Public - pre-wrangled ARD Data Sets
+- NetAPP Local Assets to be pushed
+	- precipitaion
+	- MODIS NDVI
+	- temperature
+	- more to come ...
+		
+### Data Wangling Strategy
 
 ### Processing/Modeling
 
 ### Data Outputs
+
+## Permafrost Project 
+### Define AOI
+- shapefiles
+- geojson files
+- visualize AOI on a map
+### Data Inputs
+### Data List
+- Public - pre-wrangled ARD Data Sets
+- NetAPP Local Assets to be pushed
+		
+### Data Wangling Strategy
+
+### Processing/Modeling
+
+### Data Outputs
+
 
 ## Project Strategy
 

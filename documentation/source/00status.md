@@ -14,6 +14,7 @@
 
 ## Use the cloud for EVERYTHING
 - website
+- kanban
 - jupyter hub  - mini-pangeos
 - all your data storage
     - move from clunky Netapps and archaic windows storage architectures
@@ -21,6 +22,13 @@
 - collaborate like hell
 
 # Why
+
+## Fore selfish reasons
+
+- Impress your friends
+- looks nice on the resume
+- its more fun
+- you don't have to deal with people you don't like
 
 ## Headlines
 
@@ -37,6 +45,7 @@
 - Used to be mandates as a top down push
 - Now science customer pull
 - cost efficiencies
+- It is irresponsible not to use the cloud
 
 ## Open Source Advantages
 - numerous articles on why open source

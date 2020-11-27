@@ -15,7 +15,6 @@ Welcome to AWS Onboarding Training
    01project_charter.md
    02neal_case_study.md
    10project_plan
-   12wbs.md
    15conops.md
    18sandbox.md
    20infra.md
@@ -33,6 +32,7 @@ Welcome to AWS Onboarding Training
    99tony_notes.md
    99tricks.md
    99email.md
+   12wbs.md
 
 Indices and tables
 ==================

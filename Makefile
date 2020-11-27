@@ -1,6 +1,6 @@
 all: readme gitbig
 readme:
-	cat README.md
+	cat Readme.md
 	echo see Makefile
 
 

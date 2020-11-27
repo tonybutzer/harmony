@@ -9,6 +9,31 @@
 
 - Document AWS open source python tools for science
 
+## Other Titles
+
+- Harmony - for lots of reasons
+- "Deep Dive into PANGEO"
+- "Day in the Life of a New Cloud Science Project"
+- " ET Case Study"
+- "permaFrost case study"
+
+
+## Computers and Website
+
+```
+The INSTANCE butzer-harmony-neal-web is running -- t2.micro
+10.12.69.216
+
+
+### also need a mini-pangeo -- aka the littleist jupyter hub HERE - action - whole class and tony
+
+```
+
+## github
+
+- https://github.com/tonybutzer/harmony
+
+## KANBAN - kanboard - tony?
 
 # Overview
 
@@ -48,6 +73,8 @@
 	- SageMaker and ML
 
 ## Students
+
+- http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
 
 ```
 Pastick, Neal (Contractor) J
