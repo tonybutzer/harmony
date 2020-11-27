@@ -39,9 +39,9 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 ### Infrastructure Devops - Tony
 - create github `new` repo `always begin with a fresh github repo`
 - create web host
-	- create website  - DONE!!!
-	- create kanboard - WIP!!!
-- create mini-pangeo - to be done in CLASS
+	- create website  `- DONE!!!`
+	- create kanboard `- WIP!!!`
+- create mini-pangeo - to be done in CLASS `- WEEK 1`
 	- add users from student/neal's team list
 	- post mini-pangeo instructions with usernames and password harmony
 		- warn users about the ephemeral nature of the cloud
