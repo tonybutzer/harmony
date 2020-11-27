@@ -15,6 +15,7 @@ Welcome to AWS Onboarding Training
    01project_charter.md
    02neal_case_study.md
    10project_plan
+   12cloud.md
    15conops.md
    18sandbox.md
    20infra.md
@@ -24,7 +25,6 @@ Welcome to AWS Onboarding Training
    35data_wrangle.md
    40Code.md
    45scaling.md
-   50cloud.md
    70nps_synergy.md
    80scrum.md
    90ODC_synergy.md

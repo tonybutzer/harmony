@@ -37,12 +37,15 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 
 ### Infrastructure Devops - Tony
 - create web host
-	- create website
-	- creat kanboard
-- create mini-pangeo
+	- create website  - DONE!!!
+	- create kanboard - WIP!!!
+- create mini-pangeo - to be done in CLASS
 	- add users from student/neal's team list
 	- post mini-pangeo instructions with usernames and password harmony
 		- warn users about the ephemeral nature of the cloud
+		- github is your friend
+			- use any repository you feel comfortable
+			- does repository rhyme with suppository?
 
 ## Veget Project drb 10 degree tile
 ### Define AOI

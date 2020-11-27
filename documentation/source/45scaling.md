@@ -1,4 +1,5 @@
-# Scaling
+## Scaling - more to come 
+- integrate with processing production in class
 
 ## pure simple threads scaling 101
 
