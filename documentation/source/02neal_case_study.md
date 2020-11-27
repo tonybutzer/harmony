@@ -5,6 +5,7 @@
 ## Project Overview
 
 Neal is the lead scientist for a group of folks ... yada yada yada
+Neal has been using GEE and has been "Motivated" to use CHS. :-)
 
 1. Study evaporation in a 10 degree by 10 degree AOI in the Delaware River Basin (drb)
 2. Study changes in permafrost in Alaska
