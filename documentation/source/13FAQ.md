@@ -34,3 +34,4 @@
 -  Roger Auch would be a good one to work with. He has pages of speadsheets, 
 	- great for a case study using pandas  dataframe automations!
 	- we also have a huc-12 spreadsheet that could be pandas and a direct viz app as well.
+- take the student notbook and add another class based on snow-white and the 7 dwarfs - then rework as s dashboard to illustrate apps for the jupyter-shy tribe.

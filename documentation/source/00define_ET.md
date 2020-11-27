@@ -19,6 +19,7 @@
 		- python package wrangling
 		- etc tbd ...
 	
+![](./Assets/early-adopt.PNG)
 
 ---
 # Vision
