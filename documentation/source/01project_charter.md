@@ -23,6 +23,11 @@ You must use these:
     #### Python and github
 
 ### Xarray
+- learning this is necessary for any data scientist
+- the devops and python geeks can deliver you your pixels and metadata in an xarray
+- BUT the xarray and above is where the science happens - technogeeks no do no science.
+- Many of the next breakthroughs in science will be showcased with an xarray backbone
+
 ### Visualization Python Libraries
 - Dashboards
 
