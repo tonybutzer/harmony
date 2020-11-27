@@ -18,7 +18,7 @@
 1. elasticity and quick to scale
 2. ephemeral - break it and rebuild 
 3. economies of scale
-4. many details are now someone elses problems
+4. many details are now someone else's problems
 	- os patching
 5. no down time
 6. ubiquitous access
