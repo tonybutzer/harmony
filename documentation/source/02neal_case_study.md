@@ -92,6 +92,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 	- unique - because its a cattle versus pets approach
 	- ephemeral - sounds scary - you mean things evaporate
 	- github suddenly becomes even more important
+	- does the name Pavlov ring a bell?
 - use self documenting code for everything - "yeah right"
 
 

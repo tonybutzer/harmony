@@ -19,3 +19,10 @@
 		- docker based
 		- great for pure jupyter training
 		- sponsored environment
+
+- I assume we can use R in the notebooks as well?
+
+	- yes you can use R 
+	- however my focus will be on **python**
+	- we may have to have a splinter group that does R 
+	- Pete was considering mandating python learning.
