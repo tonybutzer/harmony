@@ -1,5 +1,19 @@
 <u>status</u>
 
+# Week by Week Class Summaries
+
+1. Introduction and Basic Cloud Tour 
+1. Lab
+2. Delaware River Basin AOI
+	- How to display AOI in Jupyter
+		- geojson and shapefile
+		- folium
+2. LAB
+3. Organizing our DATA Inputs in the Cloud
+	- Fundamentals of S3
+	- S3 is an object store
+		- mostly not a big deal - but sometimes ...
+
 ---
 
 # Project Initiation, Kickoff, and Approach
