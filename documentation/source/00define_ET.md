@@ -1,6 +1,14 @@
 ---
 <u>define</u>
 
+# Expected Audience 
+
+- A project scientist that wants to easily exploit AWS
+- Anyone wanting to get good at Jupyter
+- A scientist that wants to migrate from Windows to Linux
+- A scientist that wants to move at a faster pace than currently afforded
+- A technical support person that wants to do their job way more efficiently and effectively.
+
 # Vision
 
 - Make Science Easy and Fun.
