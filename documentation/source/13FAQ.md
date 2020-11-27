@@ -9,7 +9,7 @@
 		- emphasis on pure docker - simpler
 		- costs directed at the projects budget
 
-	- .
+	- 
 	- PANGEO.usgs.gov
 		- managed service
 		- scalable
