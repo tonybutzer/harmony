@@ -38,9 +38,16 @@
 
 ## Cattle versus Pets
 
+- all compute servers and docker containers are disposable at a moments notice
+- this is actually a really good thing
+- decouple compute from code
+- everything lives in the cloud
+- everything can be instantly recreated from a github repo TEXT file
+	- i think that is really cool!!!!!
 
-[Article Here](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
-)
+
+[Cattle Article Click Here](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
+
 
 ## Bucket Permissions
 
