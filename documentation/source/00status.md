@@ -13,6 +13,11 @@
 	- Fundamentals of S3
 	- S3 is an object store
 		- mostly not a big deal - but sometimes ...
+	- Data Wrangling
+	- Slow Data Transfers
+		- ssh and scp
+	- VPN do's and dont's 
+3. LAB
 
 ---
 
