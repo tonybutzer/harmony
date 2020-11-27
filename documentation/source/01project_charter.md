@@ -6,6 +6,7 @@
 ### Science Focused Detailed Training
 
 
+# Jupyter For Everything
 ## Technology Musts
 You must use these:
 
