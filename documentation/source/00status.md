@@ -23,7 +23,7 @@
 
 # Why
 
-## Fore selfish reasons
+## For selfish reasons
 
 - Impress your friends
 - looks nice on the resume
