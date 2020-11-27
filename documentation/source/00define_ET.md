@@ -56,6 +56,14 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 
 ```
 
+## Human Resources
+
+I am looking for people who do Python in Jupyter to Join Forces
+
+- I am hiring an SDSU Intern to do visualizations - fun job :-)
+- I am hoping to have another .25 FTE
+- but I really could use even more resources to make the cloud a better world for scientists
+
 ---
 ## github
 
