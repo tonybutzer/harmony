@@ -7,6 +7,7 @@
 		- comes with Tony for custom devops and training
 		- user group is project specific
 		- emphasis on pure docker - simpler
+		- costs directed at the projects budget
 	- PANGEO.usgs.gov
 		- managed service
 		- scalable
@@ -14,3 +15,5 @@
 		- dask based
 		- kubernetes based
 		- docker based
+		- great for pure jupyter training
+		- sponsored environment
