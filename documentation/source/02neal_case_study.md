@@ -30,8 +30,9 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 3. Initial low cost base infrastructure
 	- compute - basic webserver and admin box - devops
 	- storage - just planning at this stage
-4. Apply for a CHS Custom Environment and Account [AWS Cloud] - could be fun
-	- mapped to my projects budget
+4. Apply for a CHS Custom Environment and Account [AWS Cloud] 
+	- Using Randy Sunne's process = some approval gates will happen **sigh** 
+	- mapped to my projects budget - however that accounting stuff works
 
 ## Project Simple View
 
