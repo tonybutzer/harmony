@@ -43,6 +43,7 @@
 ## Other Titles
 
 - Harmony - for lots of reasons
+- "Custom cloud training for the eclectic USGS/EROS science team"
 - "Deep Dive into PANGEO; pangeo bootcamp"
 - "One size fits all PANGEO training FAILED to make a big enough impact!"
 - "Day in the Life of a New Cloud Science Project"
