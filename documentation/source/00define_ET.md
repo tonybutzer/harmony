@@ -69,6 +69,21 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 
 ```
 
+## A Tale of Two Computers
+- We will use exactly two computers in this class - they will live happily in the CHS/AWS cloud
+	- until we terminate them - ha ha ha - these are cattle not pets - don't get attached - attachment leads to dukkha!
+- they will have:
+	- two names
+		- butzer-harmony-neal-web
+		- butzer-harmony-neal-mini-pangeo-dev-prod-box
+	- two ip address
+		- 10.12.69.216 --- ### VPN Access Only
+		- 10.12.6x.yyy - tbd also need the VPN and ssh and or jupyter to access
+	- two AWS instance types (leased):
+		- t2.micro - small and cheap
+		- t3a-2xlarge - bigger and our workhorse
+		
+
 ## Human Resources
 
 I am looking for people who do Python in Jupyter to Join Forces
