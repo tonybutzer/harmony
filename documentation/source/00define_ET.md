@@ -228,14 +228,32 @@ So, there are several aspects that I'm interested in.
 - And oh, Neal I have your web computer stood up - it took 2 minutes with terraform and docker - you're welcome
 - i'll get you logged in whenever you are ready - and give you a quick tour
 
-**COMPUTER 1 - Web server PLUS**
+**COMPUTER 1 - Web server; admin box; PLUS**
 - instance type - t2.micro - free tier - no money needed
-- 
+	- 1 cpu
+	- 1 gig memory 
+	- tiny but powerful
+	- and essential free no charge - on the house - drinks are on me ... :-)
+
+#### COMPUTER 2 - Development/Test/Production/Scaling101
+- I'll build you a better one on tuesday
+	- 8 CPUs
+	- 32 Gig Memory
+	- 200 Gig Disk
+	- Infinite s3 storage
+	- $200/month - also on me until you get your CHS account - we will move it there
+		- I use AMD processors since they are cheaper than intels
+		- instance type is t3a-2xlarge - these AWS names - wow!
+
+- We will stand up a Jupyter Hub there - just cause it offers us so much in the way of collaboration
+	- I have several geeks that like Jupyter we can leverage these folks
+	- We will also build our docker pipeline with python on this machine - and scale bigger - if we need to - UNLIKELY.
+	- You will have to be the sage in SageMaker - intellegence even the artificial type is not in my brain space.
 
 
 ### Bruce
 - As a leader of a team of scientists I want to better understand the cloud and avoid any misunderstandings or pitfalls.
-- I want to create a path from our current technology stack to a future one that more and more has pressure from the cloud crowd
+- I want to create a path from our current technology stack to a future one given that more and more has pressure from the cloud crowd
 - My boss is suggesting we exmine cloud technologies for my science initiatives
 - Many proposals and in some cases our competitors will use cloud technologies - I don't want to be left behind
 - I am not sure we have all of the management structures in place to accomodate things like the cloud
