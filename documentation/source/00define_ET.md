@@ -225,6 +225,14 @@ So, there are several aspects that I'm interested in.
 - Jupyter is a great communication tool and very versatile even without python.
 - My experience is that when efficient approaches are taken - those that remove too many choices - project milestones fall like dominoes. - Its easy to get distracted these days - so this requires discipline and intelligence.
 
+- And oh, Neal I have your web computer stood up - it took 2 minutes with terraform and docker - you're welcome
+- i'll get you logged in whenever you are ready - and give you a quick tour
+
+**COMPUTER 1 - Web server PLUS**
+- instance type - t2.micro - free tier - no money needed
+- 
+
+
 ### Bruce
 - As a leader of a team of scientists I want to better understand the cloud and avoid any misunderstandings or pitfalls.
 - I want to create a path from our current technology stack to a future one that more and more has pressure from the cloud crowd
