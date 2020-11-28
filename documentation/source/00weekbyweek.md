@@ -1,5 +1,13 @@
 <u>status</u>
 
+# Prerequisites - Suggested Reading/Viewing
+
+![](https://github.com/tonybutzer/etscrum/blob/main/00-presentation/ard/abernathey-is-right.PNG)
+
+---
+- The Future of Data-driven Discovery in the Cloud - Ryan Abernathey (Columbia University)
+	- https://www.youtube.com/watch?v=7kDYfUe0Zhw
+
 # Week by Week Class Summaries
 
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
