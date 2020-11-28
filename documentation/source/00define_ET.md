@@ -200,7 +200,7 @@ Anthony, Michelle (Contractor) L
 
 ### Comment
 - Its great that we have a good cross-section of roles represented in this class
-- management - scientist - computer scientists - EXACTLY what is needed - its a partnership
+- management - scientists - computer scientists - EXACTLY what is needed - its a partnership
 - this should be a safe space - lets keep it that way
 
 ### Steffi
