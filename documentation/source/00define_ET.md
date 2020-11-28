@@ -43,6 +43,7 @@
 ## Other Titles
 
 - Harmony - for lots of reasons
+- "Stop Building Dark Repositories; Dark Repositories Suck"
 - "Custom cloud training for the eclectic USGS/EROS science team"
 - "Deep Dive into PANGEO; pangeo bootcamp"
 - "One size fits all PANGEO training FAILED to make a big enough impact!"
@@ -230,6 +231,7 @@ So, there are several aspects that I'm interested in.
 - Docker is the deployment tool - as a leader you should demand docker in your projects - and EROS has plenty of docker experts and we will be growing these daily.
 - As a researcher - notebooks and now dashboards will make sharing your work easier
 - Data asset sharing in the cloud is way easier than portals, ftp, http, machine to machine etc - and this capability will explode in the next 3 years - lets be ready and let's share the burden
+- Eliminate the waste of replication inherent in "Dark Repositories"
 - People complain about human silos and fiefdoms - in the cloud and with tools like M$ Teams we have the ability to complain by creating a healthy collaborative space free from over management and segmentation.
 - Thanks for sitting in on these classes/discussions its important that we span some of the natural chasms in an organization
 
