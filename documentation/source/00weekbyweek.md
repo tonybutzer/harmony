@@ -20,8 +20,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 - https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
 	- See you all on tuesday December 1st at 12 NOON 
 ---
-1. Lab
-2. Delaware River Basin AOI
+1. WEEK TWO - Lab & Random Cloud Questions
+2. WEEK THREE - Delaware River Basin AOI
 	- How to display AOI in Jupyter
 		- geojson and shapefile
 		- folium
