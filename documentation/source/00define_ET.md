@@ -43,7 +43,7 @@
 ## Other Titles
 
 - Harmony - for lots of reasons
-- "Deep Dive into PANGEO"
+- "Deep Dive into PANGEO; pangeo bootcamp"
 - "Day in the Life of a New Cloud Science Project"
 - " ET Case Study"
 - "permaFrost case study"
