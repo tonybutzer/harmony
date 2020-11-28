@@ -13,6 +13,7 @@
 - A scientist that wants to move at a faster pace than currently afforded
 - A technical support person that wants to do their job way more efficiently and effectively.
 - You are an early adopter of cloud technologies and can envision the utility it will bring to your science.
+- You are a very lazy scientist - there are lots of tools here to make the lazy scientist happy
 
 ## When? -- Class Schedule
 
