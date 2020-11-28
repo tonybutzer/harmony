@@ -211,11 +211,11 @@ Anthony, Michelle (Contractor) L
 **RESPONSE**
 - Problem solved - next problem - "Ross Perot"
 
-- we were able to collaborate with Universities
-- we were easily able to share our output products with Ward Sanford, Wesley Zell and Gabriel Senay
-- we started writing visualizations
-- we think we can do so much more with just a tiny bit more staff
-- the cloud infrastructure is vast if not infinite - the sky/cloud is the limit
+	- we were able to collaborate with Universities
+	- we were easily able to share our output products with Ward Sanford, Wesley Zell and Gabriel Senay
+	- we started writing visualizations
+	- we think we can do so much more with just a tiny bit more staff
+	- the cloud infrastructure is vast if not infinite - the sky/cloud is the limit
 
 ### Jennifer
 So, there are several aspects that I'm interested in. 
