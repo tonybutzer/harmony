@@ -8,6 +8,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 - Neal has been using GEE and has been "Motivated" to use CHS. :-)
 
 1. Study evaporation in a 10 degree by 10 degree AOI in the Delaware River Basin (drb)
+	- Neal wants to review the ET project and apply lessons learned albeit on an accelerated path
 2. Study changes in permafrost in Alaska
 
 
@@ -18,6 +19,14 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 
 - Danny Howard
 - Bruce Wylie
+
+
+## Project Success Recipe
+- take one scientist with science problem/model
+- fold in one cloud Sherpa
+- add one cloud computer and one cloud bucket
+- bring to rapid boil
+- let stand and enjoy with German chocolate and drak red wine.
 
 
 # Neal's Project Plan and WBS
