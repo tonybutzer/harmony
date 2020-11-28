@@ -15,9 +15,11 @@ Hey Class: - the course website is starting to take shape and is here:
 	
 we will fill in more color/detail as we go through our CASE Studies.
 - our companion github repo is here - can't live in the cloud without github/dockerhub.
-- https://github.com/tonybutzer/harmony
+	- https://github.com/tonybutzer/harmony
+
 - this is also where our cache of notebooks will live - like this one:
-- https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
+	- https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
+	- https://nbviewer.jupyter.org/github/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
 	- See you all on tuesday December 1st at 12 NOON 
 ---
 1. WEEK TWO - Lab & Random Cloud Questions
