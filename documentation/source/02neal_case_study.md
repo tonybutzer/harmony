@@ -52,7 +52,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 	- create kanboard `- WIP!!!`
 - create mini-pangeo - to be done in CLASS `- WEEK 1`
 	- add users from student/neal's team list
-		- https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
+		- https://nbviewer.jupyter.org/github/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
 	- post mini-pangeo instructions with usernames and password harmony
 		- warn users about the ephemeral nature of the cloud
 		- github is your friend
