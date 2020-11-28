@@ -188,7 +188,7 @@ Anthony, Michelle (Contractor) L
 
 ### Jennifer
 So, there are several aspects that I'm interested in. 
-- One, as lead for LCMAP applications, are tools for the user community to use once LCMAP is in the cloud. My initial thoughts are mostly visualization. 
+- One, as lead for LCMAP applications, our tools for the user community to use once LCMAP is in the cloud. My initial thoughts are mostly visualization. 
 - There might also be workflows in py that we could move to a noteboook.
 - Also, I have an interest from just a research perspective.
 
