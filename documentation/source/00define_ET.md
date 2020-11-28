@@ -187,6 +187,12 @@ Anthony, Michelle (Contractor) L
 **RESPONSE**
 - Problem solved - next problem - "Ross Perot"
 
+- we were able to collaborate with Universities
+- we were easily able to share our output products with Ward Sanford, Wesley Zell and Gabriel Senay
+- we started writing visualizations
+- we think we can do so much more with just a tiny bit more staff
+- the cloud infrastructure is vast if not infinite - the sky/cloud is the limit
+
 ### Jennifer
 So, there are several aspects that I'm interested in. 
 - One, as lead for LCMAP applications, our tools for the user community to use once LCMAP is in the cloud. My initial thoughts are mostly visualization. 
@@ -220,6 +226,12 @@ So, there are several aspects that I'm interested in.
 - My experience is that when efficient approaches are taken - those that remove too many choices - project milestones fall like dominoes. - Its easy to get distracted these days - so this requires discipline and intelligence.
 
 ### Bruce
+- As a leader of a team of scientists I want to better understand the cloud and avoid any misunderstandings or pitfalls.
+- I want to create a path from our current technology stack to a future one that more and more has pressure from the cloud crowd
+- My boss is suggesting we exmine cloud technologies for my science initiatives
+- Many proposals and in some cases our competitors will use cloud technologies - I don't want to be left behind
+- I am not sure we have all of the management structures in place to accomodate things like the cloud
+- I want EROS to be a world class data center on the prairie where we take a leadership role in integrating science with technology as a shared responsibility and we live that vision.
 
 ### ...more to come ...
 
