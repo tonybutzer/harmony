@@ -3,6 +3,10 @@
 
 # Expected Audience 
 
+- A scientist that wants Landsat and/or Sentinel at their findertips and wants to provide their output/product to a wide range of customers
+- A scientist that wants to easily share models and papers with individuals inside and ouside of USGS.
+- A young python programmer that wants to make an impact on the world
+
 - A project scientist that wants to easily exploit AWS
 - Anyone wanting to get good at Jupyter
 - A scientist that wants to migrate from Windows to Linux
@@ -171,6 +175,52 @@ Anthony, Michelle (Contractor) L
 - Chris Holmes - COGS and STAC
 - Matt Hansen - STAC
 - Scott Henderson - Landsat and Sentinel Jupyter Examples
+
+## Student Individual Goals:
+
+### Steffi
+- My model runs pitifully slow in on-prem gear
+- The ARc tools are starting to show their age and they are expensive
+- I can't easily procure the tools and infrastructure I need to achieve my audacious goals.
+
+**RESPNONSE**
+- Problem solved - next problem - "Ross Perot"
+
+### Jennifer
+So, there are several aspects that I'm interested in. 
+- One, as lead for LCMAP applications, are tools for the user community to use once LCMAP is in the cloud. My initial thoughts are mostly visualization. 
+- There might also be workflows in py that we could move to a noteboook.
+- Also, I have an interest from just a research perspective.
+
+**RESPONSE**
+- You have several of the same goals/needs as Steffi Kagone
+- She wanted better/faster pipelines
+- Jupyter is just the prototyping and developing tool - not everyone has to be proficient in jupyter
+- Docker is the deployment tool - as a leader you should demand docker in your projects - and EROS has plenty of docker experts and we will be growing these daily.
+- As a researcher - notebooks and now dashboards will make sharing your work easier
+- Data asset sharing in the cloud is way easier than portals, ftp, http, machine to machine etc - and this will explode in the next 3 years - lets be ready and let's share the burden
+- People complain about human silos and fiefdoms - in the cloud and with tools like M$ Teams we have the ability to complain by creating a healthy collaborative space free from over management and segmentation.
+- Thanks for sitting in on these classes/discussions its important that we span some of the natural chasms in an organization
+
+### Qiang
+
+### Neal
+- Understand the differences of GEE and AWS opensource
+- Determine if Open Data Cube is useful to my science
+- Stay warm - but not too warm to melt my permafrost.
+- I am getting approval to stand up a CHS CUSTOM ACCOUNT - how do I effectively use that and can you help me with some of the devops and dataops aspects in AWS
+- I think AWS has a ton of services how do I wade through all that - It looks like decision fatigue to me.
+
+**RESPONSE**
+- Yes I can help you with many of the cloud questions you will have - both directly and by finding the right technical resource at the right time - this is disruptive technology and a little fast paced - EROS may need to adapt its staffing models accordingly; There could be some cultural change risk there.
+- Another answer is lets jump in and find out - the cloud is pay as go and ephemeral - its not hard to start up or shutdown - try that with on-prem gear.
+- This class is really a project roadmap for your project and should help you answer some if not all the questions in the process. We will start with essentially one computer and one simple, scalable storage bucket and we can build and run your entire project with just these few elements. The AWS catalog is big and frightening - we will use just two services in my approach to the cloud.
+- Jupyter is a great communication tool and very versatile even without python.
+- My experience is that when efficient approaches are taken - those that remove too many choices - project milestones fall like dominoes. - Its easy to get distracted these days - so this requires discipline and intelligence.
+
+### Bruce
+
+### ...more to come ...
 
 ## References
 

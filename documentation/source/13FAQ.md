@@ -1,5 +1,13 @@
 # FAQ Frequently Asked Questions
 
+- How do I integrate my Desktop Tools - ARC and QGIS with the cloud?
+	- Its not easy - Tony and Rich (and others) are working on solutions
+	- You can sample data and selectively xfer it to your desktop or netapp
+	- we need to build better dashboards in the cloud - I think they are coming - but this has to be addressed for science adoption of the cloud
+	- we will explore some of the ways you mitigate this in this class
+
+	
+
 - What is the difference between a mini-pangeo and pangeo.usgs.gov?
 	- mini-pangeo
 		- project based
