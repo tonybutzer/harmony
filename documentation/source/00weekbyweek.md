@@ -2,11 +2,18 @@
 
 # Prerequisites - Suggested Reading/Viewing
 
+## Pangeo, COGS and maybe Stac
+
 ![](https://github.com/tonybutzer/etscrum/raw/main/00-presentation/ard/abernathey-is-right.PNG)
 
 ---
 - The Future of Data-driven Discovery in the Cloud - Ryan Abernathey (Columbia University)
 	- https://www.youtube.com/watch?v=7kDYfUe0Zhw
+
+
+## COGs and ARD
+- https://medium.com/planet-stories/cloud-native-geospatial-part-2-the-cloud-optimized-geotiff-6b3f15c696ed
+- https://medium.com/planet-stories/towards-on-demand-analysis-ready-data-f94d6eb226fc
 
 # Week by Week Class Summaries
 
