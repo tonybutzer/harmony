@@ -281,7 +281,7 @@ So, there are several aspects that I'm interested in.
 ### ...more to come ...
 
 ## Questions, Suggestions, Improvements
-- Just start a chat with tony butzer anytime - I will add the question and maybe the solution to this web-training-student-teacher-guide-roadmap-sphinx-thingy.
+- Just start a chat with tony butzer anytime - I will add the question and maybe the solution to this pangeo-cloud-web-training-student-teacher-guide-roadmap-sphinx-thingy.
 
 ## References
 
