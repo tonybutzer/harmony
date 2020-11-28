@@ -184,7 +184,7 @@ Anthony, Michelle (Contractor) L
 - The ARc tools are starting to show their age and they are expensive
 - I can't easily procure the tools and infrastructure I need to achieve my audacious goals.
 
-**RESPNONSE**
+**RESPONSE**
 - Problem solved - next problem - "Ross Perot"
 
 ### Jennifer
