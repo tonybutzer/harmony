@@ -295,3 +295,15 @@ So, there are several aspects that I'm interested in.
 - https://docs.opendata.aws/landsat-pds/readme.html
 - https://corteva.github.io/rioxarray/stable/examples/clip_box.html
 - https://corteva.github.io/rioxarray/stable/examples/convert_to_raster.html
+
+## Like Button
+
+```
+sponsors=['Pete Doucette', 'Doug Jaton', 'Steve LaBahn', 'Gabriel Senay']
+my_class='Tonys Pangeo Useful School'
+
+if 'Useful' in my_class:
+	send_thankyou_email(sponsors)
+else:
+	pass
+```
