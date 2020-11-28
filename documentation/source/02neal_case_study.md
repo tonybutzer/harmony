@@ -26,7 +26,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 - fold in one cloud Sherpa
 - add one cloud computer and one cloud bucket
 - bring to rapid boil
-- let stand and enjoy with German chocolate and drak red wine.
+- let stand and enjoy with German chocolate and dark red wine.
 
 
 # Neal's Project Plan and WBS

@@ -248,15 +248,15 @@ So, there are several aspects that I'm interested in.
 - We will stand up a Jupyter Hub there - just cause it offers us so much in the way of collaboration
 	- I have several geeks that like Jupyter we can leverage these folks
 	- We will also build our docker pipeline with python on this machine - and scale bigger - if we need to - UNLIKELY.
-	- You will have to be the sage in SageMaker - intellegence even the artificial type is not in my brain space.
+	- You will have to be the sage in SageMaker - intelligence even the artificial type is not in my brain space.
 
 
 ### Bruce
 - As a leader of a team of scientists I want to better understand the cloud and avoid any misunderstandings or pitfalls.
-- I want to create a path from our current technology stack to a future one given that more and more has pressure from the cloud crowd
-- My boss is suggesting we exmine cloud technologies for my science initiatives
+- I want to create a path from our current technology stack to a future one given that more and more pressure is being exerted from the cloud crowd
+- My boss is suggesting we examine cloud technologies for my science initiatives
 - Many proposals and in some cases our competitors will use cloud technologies - I don't want to be left behind
-- I am not sure we have all of the management structures in place to accomodate things like the cloud
+- I am not sure we have all of the management structures in place to accommodate things like the cloud
 - I want EROS to be a world class data center on the prairie where we take a leadership role in integrating science with technology as a shared responsibility and we live that vision.
 
 ### ...more to come ...
