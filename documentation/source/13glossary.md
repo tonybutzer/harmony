@@ -46,6 +46,9 @@ For more info talk to THE GOOGLE.
 > DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. [https://aws.amazon.com/devops/what-is-devops/](https://aws.amazon.com/devops/what-is-devops/)
 
 
+- **focused and diffuse thinking**
+> In her book A Mind for Numbers, Barbara Oakley calls these two different ways of approaching a problem “focused thinking” and “diffuse thinking.” She claims that both of them are crucial for analytical and creative thinking, and that switching between the two modes is a great way to get unstuck when you’re facing a difficult problem.
+> Diffuse thinking happens when you let your mind wander freely, making connections at random. The diffuse mode of thinking does not happen in any one area of the brain, but rather all over. The challenge for all is to cultivate an efficient state of mind, depending on what we wish to accomplish.
 
 ---
 - **Imposter Syndrome:**
