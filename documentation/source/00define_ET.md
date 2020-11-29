@@ -35,6 +35,7 @@
 	- Partners - Managers, Stakeholders
 - Some folks will fit into multiple Threads - that's ok
 - In the cloud we have tools that can serve each of these elements as well as hybrids
+- Gabriel Senay is a fabulous scientist that delegates all his Jupyter work.
 
 ---
 # Vision
