@@ -13,7 +13,6 @@
 - A scientist that wants to move at a faster pace than currently afforded
 - A technical support person that wants to do their job way more efficiently and effectively.
 - You are an early adopter of cloud technologies and can envision the utility it will bring to your science.
-- You are a very lazy scientist - there are lots of tools here to make the lazy scientist happy
 
 ## When? -- Class Schedule
 
@@ -27,9 +26,15 @@
 	
 ![](./Assets/early-adopt.PNG)
 
-# Who is this class not for:
-- Those close to retirement
-- Those that don't mind driving cabs in an Uber world
+
+## How can the cloud serve the diverse/byzantine EROS Science Division?
+
+- In our Open Data Cube Hackathons - we divide the group into threads:
+	- Developers
+	- Users - Scientists?
+	- Partners - Managers, Stakeholders
+- Some folks will fit into multiple Threads - that's ok
+- In the cloud we have tools that can serve each of these elements as well as hybrids
 
 ---
 # Vision
@@ -298,6 +303,8 @@ So, there are several aspects that I'm interested in.
 - https://docs.opendata.aws/landsat-pds/readme.html
 - https://corteva.github.io/rioxarray/stable/examples/clip_box.html
 - https://corteva.github.io/rioxarray/stable/examples/convert_to_raster.html
+- https://www.usgs.gov/core-science-systems/nli/landsat
+- https://www.usgs.gov/core-science-systems/nli/landsat/landsat-collection-2
 
 ## Like Button
 
