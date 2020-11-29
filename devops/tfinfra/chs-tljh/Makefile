@@ -1,19 +1,12 @@
 init:
-	terraform init
+	docker run -i -t -v `pwd`/:/tfinfra tbutzer/terraform terraform init
 
 apply:
-	terraform apply
+	docker run -i -t -v `pwd`/:/tfinfra tbutzer/terraform terraform apply
 
 destroy:
-	terraform destroy
-	./renameDefunct.sh butzer-master-honker
+	docker run -i -t -v `pwd`/:/tfinfra tbutzer/terraform terraform destroy
+	./renameDefunct.sh butzer-harmony-neal-mini-pangeo-dev-prod-box
 
 bash:
 	docker run -i -t -v `pwd`/:/tfinfra tbutzer/terraform bash
-
-ipshow:
-	terraform show |egrep  'Name|private_ip|nstance'
-
-
-git:
-	(cd /opt/k8s101; make)

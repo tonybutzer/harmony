@@ -17,7 +17,7 @@ resource "aws_instance" "master" {
   iam_instance_profile                    ="${var.iam_role}"
 
   security_groups = ["${var.security_group_ssh}", "${var.security_group_ping}", "${var.security_group_web}"]
-  root_block_device {volume_size = 40}
+  root_block_device {volume_size = 240}
 
   user_data                   = "${file("files/os_boot.sh")}"
 
