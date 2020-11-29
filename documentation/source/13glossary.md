@@ -93,3 +93,6 @@ $ scp bob_ross.PNG ubuntu@`resolv hweb`:.
 
 ---
 - **Yak Shaving**
+
+> **Yak shaving** refers to a task, that leads you to perform another related task and so on, and so on — all distracting you from your original goal. This is sometimes called “going down the rabbit hole.” Let's look at this real-world example
+![](https://www.google.com/search?q=define+yak+shaving&client=firefox-b-1-d&sxsrf=ALeKk03Ia6baANmC6dmkmEpyqSGmmTk6fg:1606664237293&tbm=isch&source=iu&ictx=1&fir=KiocHpFT2gF8ZM%252CB0Ji1_VeRwjWwM%252C_&vet=1&usg=AI4_-kSIGhKqEYSqKlvCrauy9f2dMNq9wg&sa=X&ved=2ahUKEwjyhYzZiqjtAhXJRjABHS5qAVsQ9QF6BAgGEAM#imgrc=KiocHpFT2gF8ZM)
