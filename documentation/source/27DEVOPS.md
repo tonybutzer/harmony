@@ -38,6 +38,18 @@ sign in hub as ubuntu
 
 
 
+#### techno-babble
+
+
+```
+ubuntu@gahub1:/opt/et/pkg/tljh$ more bootstrapTheHub.sh
+#! /bin/bash
+
+curl https://raw.githubusercontent.com/jupyterhub/the-littlest-jupyterhub/master/bootstrap/bootstrap.py \
+  | sudo python3 - \
+    --admin ubuntu
+```
+
 
 
 

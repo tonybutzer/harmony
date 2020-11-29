@@ -54,6 +54,7 @@
 - "Custom cloud training for the eclectic USGS/EROS science team"
 - "Deep Dive into PANGEO; pangeo bootcamp"
 - "One size fits all PANGEO training FAILED to make a big enough impact!"
+- "PANGEO its way more than just notebooks"
 - "Day in the Life of a New Cloud Science Project"
 - " ET Case Study"
 - "permaFrost case study"
@@ -89,7 +90,7 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 		-
 	- **two ip address**
 		- 10.12.69.216 --- ### VPN Access Only
-		- 10.12.6x.yyy - tbd also need the VPN and ssh and or jupyter to access
+		- 10.12.69.233 - tbd also need the VPN and ssh and or jupyter to access
 		-
 	- **two AWS instance types (leased):**
 		- t2.micro - small and cheap
