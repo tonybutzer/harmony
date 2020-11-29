@@ -19,10 +19,10 @@ Welcome to AWS -- PANGEO Onboarding Training
    13FAQ.md
    13glossary.md
    14project_plan
+   27DEVOPS.md
 .. 15conops.md
 .. 18sandbox.md
 .. 20infra.md
-.. 27etops.md
 .. 30Data.md
 .. 33data_discovery.md
 .. 35data_wrangle.md

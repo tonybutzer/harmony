@@ -10,13 +10,37 @@
 
 ## Create Mini-Pangeo
 
-- add devops/tfinfra to git repo harmony
+- add devops/tfinfra to git repo harmony `done`
 - terraform apply butzer-neal-mini-pangeo
 - create another-one  butzer-neal-mini-pangeo-demo-only-nuke-me
 - like the cooking show - where one is already baked
 - tljh install 
 - create users from notebook
 	- http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
+
+
+### tljh install
+cd /opt/et/pkg/tljh
+
+    make services
+
+    make all
+
+sign in hub as ubuntu
+
+    cd files
+
+        make et-depends
+
+    then add users from users.txt in pkg/tljh
+
+    set user passsword (this project rocks)
+
+
+
+
+
+
 
 ## docker and docker logs
 
