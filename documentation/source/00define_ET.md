@@ -214,6 +214,22 @@ Anthony, Michelle (Contractor) L
 - management - scientists - computer scientists - EXACTLY what is needed - its a partnership
 - this should be a safe space - lets keep it that way
 
+### Tony
+- I want to demystify the cloud.
+- I want to accelerate science to keep up with the earth and human challenges we face
+
+**RESPONSE**
+
+- I think you should partner with Rich Signell and help him with his new project incubator concept
+- Here is a recent note from Rich:
+> We didn't have a name yet.   I'm supposed to propose a plan  to our program council on Dec 14.   It would be good to have a name by then.   Some of the ones words we could use to form a name are:
+Open, Scalable, Framework, Reproducible, Architecture, Incubator, Lab, Cloud, Analysis, Visualization
+ 
+- Scalable Analysis Framework for the Earth (SAFE)
+- Scalable Cloud Architecture
+
+
+
 ### Steffi
 - My Evapo model runs pitifully slow in on-prem gear
 - The ARc tools are starting to show their age and they are expensive
