@@ -81,8 +81,8 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 	- until we terminate them - ha ha ha - these are cattle not pets - don't get attached - attachment leads to dukkha!
 - they will have:
 	- **two names**
-		- butzer-harmony-neal-web
-		- butzer-harmony-neal-mini-pangeo-dev-prod-box
+		- butzer-harmony-neal-web -- **webserver; admin box; webapps**
+		- butzer-harmony-neal-mini-pangeo-dev-prod-box -- **mini-pangeo; simple docker scaling machine**
 		-
 	- **two ip address**
 		- 10.12.69.216 --- ### VPN Access Only
