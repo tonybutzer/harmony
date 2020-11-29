@@ -37,6 +37,7 @@ For more info talk to THE GOOGLE.
 
 
 
+---
 - **DevOps**
 > DevOps Model Defined
 
@@ -45,6 +46,7 @@ For more info talk to THE GOOGLE.
 
 
 
+---
 - **Imposter Syndrome:**
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
 
@@ -75,3 +77,6 @@ For more info talk to THE GOOGLE.
 $ scp bob_ross.PNG ubuntu@`resolv hweb`:.
 ```
 ![](./Assets/bob_ross.PNG)
+
+---
+- **Yak Shaving**
