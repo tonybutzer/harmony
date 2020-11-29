@@ -24,8 +24,7 @@
 		- python package wrangling
 		- etc tbd ...
 	
-.. ![](./Assets/early-adopt.PNG)
-<img src="./Assets/early-adopt.PNG" width=40%>
+<img src="./Assets/early-adopt.PNG" width="40%">
 
 
 ## How can the cloud serve the diverse/byzantine EROS Science Division?
