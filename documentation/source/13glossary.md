@@ -6,7 +6,7 @@
 - **COG**
 > What are Cloud Optimized GeoTIFFs (COGs)?
 
-A **Cloud Optimized GeoTIFF (COG)** is a GeoTIFF file with an internal organization that enables more efficient workflows in the cloud environment.  It does this by leveraging the ability of clients issuing HTTP GET range requests to ask for just the parts of a file they need.
+> A **Cloud Optimized GeoTIFF (COG)** is a GeoTIFF file with an internal organization that enables more efficient workflows in the cloud environment.  It does this by leveraging the ability of clients issuing HTTP GET range requests to ask for just the parts of a file they need.
 *Geek Hint:* Use rio info and gdalinfo to see the innards of a COG and the overviews associated with a COG.
 For more info talk to THE GOOGLE.
 
