@@ -99,3 +99,4 @@ $ scp bob_ross.PNG ubuntu@`resolv hweb`:.
 - American Express Developer Relations
 
 ![](https://americanexpress.io/_post_assets/yak-shaving/img/yak-shaving-small.png =200x)
+<img src="https://americanexpress.io/_post_assets/yak-shaving/img/yak-shaving-small.png" width="40%">
