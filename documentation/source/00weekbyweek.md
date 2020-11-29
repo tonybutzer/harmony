@@ -29,6 +29,7 @@
 		- the littleist jupyter hub - intro
 	- Neal wanted a kanban too/also
 	- SEE DEVOPS WEEKLY
+		- [DEVOPS LINK](http://10.12.69.216/27etops.html?highlight=devops)
 
 ## Teams Note
 Hey Class: - the course website is starting to take shape and is here:
