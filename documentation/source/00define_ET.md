@@ -246,7 +246,7 @@ So, there are several aspects that I'm interested in.
 - People complain about human silos and fiefdoms - in the cloud and with tools like M$ Teams we have the ability to complain by creating a healthy collaborative space free from over management and segmentation.
 - Thanks for sitting in on these classes/discussions its important that we span some of the natural chasms in an organization
 
-### Qiang
+### Qiang (chi-ong)
 
 ### Neal
 - Understand the differences of GEE and AWS opensource
