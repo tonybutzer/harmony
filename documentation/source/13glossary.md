@@ -44,7 +44,7 @@ For more info talk to THE GOOGLE.
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
 
 
-- Jupyter (Notebook and Hub)
+- **Jupyter (Notebook and Hub)**
 
 - **PANGEO**
 
