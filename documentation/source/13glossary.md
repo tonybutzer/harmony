@@ -1,8 +1,10 @@
 # Glossary
 
+---
 - **Agency Problem:**
 > The **agency problem** is a conflict of interest inherent in any relationship where one party is expected to act in another's best interests. In corporate finance, the agency problem usually refers to a conflict of interest between a company's management and the company's stockholders.  ['Windows OS', 'Kubernetes?']
 
+---
 - **COG**
 > What are Cloud Optimized GeoTIFFs (COGs)?
 
@@ -10,8 +12,10 @@
 *Geek Hint:* Use rio info and gdalinfo to see the innards of a COG and the overviews associated with a COG.
 For more info talk to THE GOOGLE.
 
+---
 - **Data Lake**
 
+---
 - **DataOps**
 > DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics. While DataOps began as a set of best practices, it has now matured to become a new and independent approach to data analytics. - Cassandra Ladino USGS ACIO has experience in DataOps
 ---
@@ -28,6 +32,7 @@ For more info talk to THE GOOGLE.
     - Clear measurement, monitoring and transparency of results
 
 
+---
 - **Dark Repository**
 
 
@@ -44,12 +49,15 @@ For more info talk to THE GOOGLE.
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
 
 
+---
 - **Jupyter (Notebook and Hub)**
 
+---
 - **PANGEO**
 
 
 
+---
 - **STAC**
 > STAC is a standardized way to expose collections of spatial temporal data. ... It can be used for external access to your holdings, exposing your information to search engines and to a growing ecosystem of tools.
 ---
@@ -57,6 +65,7 @@ For more info talk to THE GOOGLE.
 ---
 > Chris Holmes Product Architect @ Planet, Board Member @ Open Geospatial Consortium, Technical Fellow @ Radiant.Earth -- Chris's medium articles contain well-written descriptuions of these cloud optimized ecosystems that can be exploited to simplify science.
 
+---
 - **terraform**
 
 > Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provision data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON. Terraform manages external resources with "providers"
