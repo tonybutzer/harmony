@@ -48,7 +48,7 @@ For more info talk to THE GOOGLE.
 
 > Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provision data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON. Terraform manages external resources with "providers"
 
-> **terraform** creates infrastructure out of thin air - **teraform** allows tony to feel like Bob Ross painting infrastucture "lets have a nice litte server here next to our little network here and a lovely little data bucket over there."
+> **terraform** creates infrastructure out of thin air - **teraform** allows tony to feel like Bob Ross painting infrastucture "lets have a nice litte server here ... next to our little network here and a lovely little data bucket over there."
 ```
 $ scp bob_ross.PNG ubuntu@`resolv hweb`:.
 ```
