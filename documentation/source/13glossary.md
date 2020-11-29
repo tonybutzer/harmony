@@ -52,4 +52,4 @@ For more info talk to THE GOOGLE.
 ```
 $ scp bob_ross.PNG ubuntu@`resolv hweb`:.
 ```
-![](Assets/bob_ross.PNG)
+![](./Assets/bob_ross.PNG)
