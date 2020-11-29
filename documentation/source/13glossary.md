@@ -10,6 +10,22 @@
 *Geek Hint:* Use rio info and gdalinfo to see the innards of a COG and the overviews associated with a COG.
 For more info talk to THE GOOGLE.
 
+- **DataOps**
+> DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics. While DataOps began as a set of best practices, it has now matured to become a new and independent approach to data analytics. - Cassandra Ladino USGS ACIO has experience in DataOps
+---
+> What is DataOps?
+
+> DataOps is a collection of technical practices, workflows, cultural norms, and architectural patterns that enable:
+
+    - Rapid innovation and experimentation, delivering new insights to customers with increasing velocity
+
+    - Extremely high quality and very low error rates
+
+    - Collaboration across complex arrays of people, technology, and environments
+
+    - Clear measurement, monitoring and transparency of results
+
+
 - **DevOps**
 > DevOps Model Defined
 
