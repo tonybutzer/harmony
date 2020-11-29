@@ -10,6 +10,8 @@
 *Geek Hint:* Use rio info and gdalinfo to see the innards of a COG and the overviews associated with a COG.
 For more info talk to THE GOOGLE.
 
+- **Data Lake**
+
 - **DataOps**
 > DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics. While DataOps began as a set of best practices, it has now matured to become a new and independent approach to data analytics. - Cassandra Ladino USGS ACIO has experience in DataOps
 ---
@@ -26,6 +28,10 @@ For more info talk to THE GOOGLE.
     - Clear measurement, monitoring and transparency of results
 
 
+- **Dark Repository**
+
+
+
 - **DevOps**
 > DevOps Model Defined
 
@@ -36,6 +42,13 @@ For more info talk to THE GOOGLE.
 
 - **Imposter Syndrome:**
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
+
+
+- Jupyter (Notebook and Hub)
+
+- **PANGEO**
+
+
 
 - **STAC**
 > STAC is a standardized way to expose collections of spatial temporal data. ... It can be used for external access to your holdings, exposing your information to search engines and to a growing ecosystem of tools.
