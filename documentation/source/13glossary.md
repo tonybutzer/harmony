@@ -10,6 +10,14 @@
 *Geek Hint:* Use rio info and gdalinfo to see the innards of a COG and the overviews associated with a COG.
 For more info talk to THE GOOGLE.
 
+- **DevOps**
+> DevOps Model Defined
+
+---
+> DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. [https://aws.amazon.com/devops/what-is-devops/](https://aws.amazon.com/devops/what-is-devops/)
+
+
+
 - **Imposter Syndrome:**
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
 
