@@ -15,5 +15,7 @@ For more info talk to THE GOOGLE.
 
 - **STAC**
 > STAC is a standardized way to expose collections of spatial temporal data. ... It can be used for external access to your holdings, exposing your information to search engines and to a growing ecosystem of tools.
+---
 > "So STAC itself has no aim to provide one single index, but to encourage the basic unit of information from which a variety of indexes can be built. For STAC that basic unit is the actual geospatial asset and a JSON description of the core fields. This mirrors the design of the web as a whole: html pages are the basic unit of information, and companies like Google build the global search index. Creating a great geospatial search index is left to others to innovate on, but the STAC spec aims to encourage software implementations and data providers to expose their holdings in a way that everyone can understand." - Chris Holmes
+---
 > Chris Holmes Product Architect @ Planet, Board Member @ Open Geospatial Consortium, Technical Fellow @ Radiant.Earth -- Chris's medium articles contain well-written descriptuions of these cloud optimized ecosystems that can be exploited to simplify science.
