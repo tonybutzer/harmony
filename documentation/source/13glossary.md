@@ -43,3 +43,9 @@ For more info talk to THE GOOGLE.
 > "So STAC itself has no aim to provide one single index, but to encourage the basic unit of information from which a variety of indexes can be built. For STAC that basic unit is the actual geospatial asset and a JSON description of the core fields. This mirrors the design of the web as a whole: html pages are the basic unit of information, and companies like Google build the global search index. Creating a great geospatial search index is left to others to innovate on, but the STAC spec aims to encourage software implementations and data providers to expose their holdings in a way that everyone can understand." - Chris Holmes
 ---
 > Chris Holmes Product Architect @ Planet, Board Member @ Open Geospatial Consortium, Technical Fellow @ Radiant.Earth -- Chris's medium articles contain well-written descriptuions of these cloud optimized ecosystems that can be exploited to simplify science.
+
+- **terraform**
+
+> Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provision data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON. Terraform manages external resources with "providers"
+
+> **terraform** creates infrastructure out of thin air - **teraform** allows tony to feel like Bob Ross painting infrastucture "lets have a nice litte server here next to our little network here and a lovely little data bucket over there."
