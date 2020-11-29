@@ -131,7 +131,7 @@ I am looking for people who do Python in Jupyter to Join Forces
 
 - ET Case Study
 
-- PANGEO
+- PANGEO - "Dedicated to easing the data and compute burdens for THE SCIENTIST"
 
 - Jupyter
 
