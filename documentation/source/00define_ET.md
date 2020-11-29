@@ -76,6 +76,7 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 
 ```
 
+---
 ## A Tale of Two Computers
 - We will use exactly **two** computers in this class - they will live happily in the CHS/AWS cloud
 	- until we terminate them - ha ha ha - these are cattle not pets - don't get attached - attachment leads to dukkha!
@@ -93,6 +94,7 @@ The INSTANCE butzer-harmony-neal-web is running -- t2.micro
 		- t3a-2xlarge - bigger and our workhorse
 		
 
+---
 ## Human Resources
 
 I am looking for people who do Python in Jupyter to Join Forces
