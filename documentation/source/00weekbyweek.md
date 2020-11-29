@@ -17,7 +17,13 @@
 
 # Week by Week Class Summaries
 
+# WEEK ONE
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
+	- Quick overview of this document
+		- added a glossary
+		- please skim
+		- if you have comments or questions - please use Teams/Chat to contact me
+			- I will likely post some of the converstaions in this document
 	- Neal's team won a free mini-pangeo
 		- terraform 
 		- the littleist jupyter hub - intro
