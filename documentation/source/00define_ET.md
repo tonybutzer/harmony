@@ -253,7 +253,7 @@ So, there are several aspects that I'm interested in.
 - Determine if Open Data Cube is useful to my science
 - Stay warm - but not too warm to melt my permafrost.
 - I am getting approval to stand up a CHS CUSTOM ACCOUNT - how do I effectively use that and can you help me with some of the devops and dataops aspects in AWS
-- I think AWS has a ton of services how do I wade through all that - It looks like decision fatigue to me.
+- I think AWS has a ton of services; how do I wade through all that? - It looks like decision fatigue to me.
 
 **RESPONSE**
 - Yes I can help you with many of the cloud questions you will have - both directly and by finding the right technical resource at the right time - this is disruptive technology and a little fast paced - EROS may need to adapt its staffing models accordingly; There could be some cultural change risk there.
