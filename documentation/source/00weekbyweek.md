@@ -47,6 +47,7 @@
 1. Project Kickoff and refinement of goals
 	- Is this anything? - trial and error Seinfeld
 		- doing this class is scary just must be like stand-up comedy
+		- this class is `new` sort of a science experiment in itself
 	- `PRIOR Experience`
 		- linux
 		- docker
