@@ -272,7 +272,7 @@ Open, Scalable, Framework, Reproducible, Architecture, Incubator, Lab, Cloud, An
 - My Evapo model runs pitifully slow in on-prem gear
 - The ARc tools are starting to show their age and they are expensive
 - I can't easily procure the tools and infrastructure I need to achieve my audacious goals.
-- My life is consumed with Data Wrangling - I would like to do more scinec - can you help me?
+- My life is consumed with Data Wrangling - I would like to do more science - can you help me?
 
 **RESPONSE**
 - Problem solved - next problem - "Ross Perot"
