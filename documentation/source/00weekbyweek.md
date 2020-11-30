@@ -40,7 +40,7 @@
 		- [https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke](https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke)
 		- [https://github.com/tonybutzer/notebook](https://github.com/tonybutzer/notebook)
 		- Tony can help you find just the right example or create it for you.
-		- We wil use some of these example in class and the Labs
+		- We wil use some of these examples in class and the Labs
 - future todo - feedback based
 	- create very small notebook snippets that illustrate concepts
 	- refine sections of this "paper" and build examples
