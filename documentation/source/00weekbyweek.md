@@ -36,6 +36,10 @@
 	- focus here will be primarily mini-pangeo scope - a group of 13 students
 - Self-directed study hints
 	- notebook repo - past pangeo training
+	- github link - needs pruning - notebook repo here: 
+		- [https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke](https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke)
+		- [https://github.com/tonybutzer/notebook](https://github.com/tonybutzer/notebook)
+		- Tony can help you find just the right example or create it for you.
 - future todo - feedback based
 	- create very small notebook snippets that illustrate concepts
 	- refine sections of this "paper" and build examples
