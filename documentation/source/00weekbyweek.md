@@ -24,9 +24,9 @@
 - Contact Tony Butzer for cloud questions
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
-		- [AWS on-boarding website paper](http://10.12.69.216)
+		- [AWS on-boarding website paper --LINK](http://10.12.69.216)
 	- mini-pangeo 10.12.69.233 harmony
-		- [mini-pangeo](http://10.12.69.233)
+		- [mini-pangeo --LINK](http://10.12.69.233)
 
 - Point to the website - nginx/sphinx driven
 - Point to the github - 
