@@ -5,7 +5,7 @@
 # AWS Onboarding Overview
 
 
-# Introduction
+## Introduction
 
 > The purpose of this "class" and more important this community of scientists is to examine AWS by playing with the CHS AWS cloud.
 
@@ -26,8 +26,19 @@ This document is organized as follows:
 - I expect to sand off some of the rough edges based on the actual facts from my classmates.
 - The above sections are aspirational with no guarantee of completion
 
+## Background
 
-# Expected Audience 
+My name is Tony Butzer and I work with the Open Data Cube and PANGEO communities to help make science easy and fun.
+
+I just completed 9 month project to move the EvapoTranspiration VegET model from on-prem desktops to the cloud.
+This team was pleased with the perfomance improvements afforded by AWS S3. However; there is still much work to do on all of our parts to make the PANGEO experience useful to a broad class of scientific needs.
+
+I want to build relationships with the science teams and help understand and fill any gaps in the PANGEO solution.
+
+This document and "class" will improve the toolkit and perhaps ease the on-boarding for some folks wanting to explore AWS, PANGEO as an option for science models and science sharing.
+
+
+## Expected Audience 
 
 - A scientist that wants Landsat and/or Sentinel at their findertips and wants to provide their output/product to a wide range of customers
 - A scientist that wants to easily share models and papers with individuals inside and ouside of USGS.
