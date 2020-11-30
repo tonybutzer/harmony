@@ -1,4 +1,4 @@
-## Cloud
+# Cloud
 
 ## Unpacking the AWS Cloud
 
@@ -35,6 +35,13 @@
 
 1. s3 is $.02 per month per gigabyte
 2. some instance types are free
+
+` need to write a whole section here`
+- point to a notebook and aws cost analyzer
+- simple mitigation strategies
+	- reserved instances?
+	- spot instances
+- cloudchecker - is that what ist called - gov and contractor - have and have nots
 
 ## Cattle versus Pets
 
