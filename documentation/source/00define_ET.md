@@ -255,6 +255,9 @@ Anthony, Michelle (Contractor) L
 ### Tony
 - I want to demystify the cloud.
 - I want to accelerate science to keep up with the earth and human challenges we face
+- I will be asking you folks lots of questions about the effectiveness of Jupyter and how to work with such a diverse group of folks.
+- Should folks be trained on linux, python, jupyter, docker? -- Can I help with that training?
+- Techniques to reduce Data Wrangling?
 
 **RESPONSE**
 
