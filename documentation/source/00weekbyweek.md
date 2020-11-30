@@ -20,9 +20,17 @@
 ## Week by Week Class Summaries
 
 ## WEEK ONE
-#### Week One Objectives
+# ### Week One Objectives
+
 - Discuss the goals for this class - success criteria - move one more science project to the cloud
 - Comments and viewpoint of Neal Pastick
+- Demos
+	
+	- [nginx on cloud server](http://10.12.69.188)
+	- [jupyter notebook without the code](http://10.12.69.188/pie)
+	- [time series panel demo - little code](http://10.12.69.233/user/harmony/notebooks/notebook/00-Viz/panel-timeseries-get-x-y-and-plot.ipynb)
+
+	- I will move some of these to Neal's interim web servers
 - Discuss the Student cross section
 	- http://10.12.69.216/00define_ET.html#students
 	- http://10.12.69.216/00define_ET.html#student-individual-goals
@@ -119,6 +127,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- https://nbviewer.jupyter.org/github/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
 ---
 	- See you all on tuesday December 1st at 12 NOON 
+	- See you next week for an open lab
+	- The week after that I will look at Areas of Interest and how they relate to ET modeling
 ---
 1. WEEK TWO - Lab & Random Cloud Questions
 2. WEEK THREE - Delaware River Basin AOI
