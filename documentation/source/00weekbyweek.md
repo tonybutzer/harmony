@@ -31,6 +31,8 @@
 	- `I want to build a notebook that radar charts the students`
 	- Class questionnaire - via email
 	- Communication preference of each student
+	- efficiency and boredom mitigation
+		- perhaps split each 1 hour into - concepts and practice - allow folks to bail at 1/2 way point
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary

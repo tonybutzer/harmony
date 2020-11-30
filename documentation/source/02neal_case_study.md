@@ -29,11 +29,11 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 - let stand and enjoy with German chocolate and dark red wine.
 
 
-# Neal's Project Plan and WBS
+## Neal's Project Plan and WBS
 
-## Project Setup and Conceptualizing
+### Project Setup and Conceptualizing
 
-## Project Initiation - Neal
+### Project Initiation - Neal
 1. Develop Charter
 2. Get Staffing Aligned
 3. Initial low cost base infrastructure
@@ -43,9 +43,9 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 	- Using Randy Sunne's process = some approval gates will happen **sigh** 
 	- mapped to my projects budget - however that accounting stuff works
 
-## Project Simple View
+### Project Simple View
 
-### Infrastructure Devops - Tony
+#### Infrastructure Devops - Tony
 - create github `new` repo `always begin with a fresh github repo`
 - create web host
 	- create website  `- DONE!!!`
@@ -59,7 +59,7 @@ Neal is the lead scientist for a group of folks ... yada yada yada
 			- use any repository you feel comfortable
 			- does repository rhyme with suppository?
 
-## Veget Project drb 10 degree tile
+### Veget Project drb 10 degree tile
 ### Define AOI
 - shapefiles
 - geojson files
