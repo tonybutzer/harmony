@@ -148,6 +148,7 @@ I am looking for people who do Python in Jupyter to Join Forces
 	- even if they don't see/love the notebook
 	- by creating codeless dashboards and better desktop integrations
 
+> `NOTE: I think our organizational structure can make it challenging to get the right birds-of-a-feather together`
 ---
 ## github
 
