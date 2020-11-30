@@ -24,9 +24,9 @@
 - Contact Tony Butzer for cloud questions
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
-		- [mini-pangeo](http:10.12.69.216)
+		- [mini-pangeo](http://10.12.69.216)
 	- mini-pangeo 10.12.69.233 harmony
-		- [mini-pangeo](http:10.12.69.233)
+		- [mini-pangeo](http://10.12.69.233)
 
 - Point to the website - nginx/sphinx driven
 - Point to the github - 
