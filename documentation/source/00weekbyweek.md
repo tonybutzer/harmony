@@ -29,7 +29,9 @@
 		- [mini-pangeo --LINK](http://10.12.69.233)
 
 - Point to the website - nginx/sphinx driven
+	- [AWS on-boarding The website paper --LINK](http://10.12.69.216)
 - Point to the github - 
+	- [https://github.com/tonybutzer/harmony](https://github.com/tonybutzer/harmony)
 - Quick Jupyter Session - jupyter fitting from single jupyter -- to self scaling hubs
 	- focus here will be primarily mini-pangeo scope - a group of 13 students
 - Self-directed study hints
