@@ -35,6 +35,15 @@
 		- [AWS on-boarding website paper --LINK](http://10.12.69.216)
 	- mini-pangeo 10.12.69.233 harmony
 		- [mini-pangeo --LINK](http://10.12.69.233)
+- Computer Access Methods
+	- Jupyter via browser and url and `VPN`
+	- Terminal inside Jupyter
+	- direct ssh and scp access - public key
+	- open ports allowed via firewalls
+		- 80, 8080 http
+		- 443, 8443 https
+		- 22 ssh,scp
+	- use of tmux for session preservation across network/VPN failures/timeouts - long running jobs
 
 - Point to the website - nginx/sphinx driven
 	- [AWS on-boarding The website paper --LINK](http://10.12.69.216)
