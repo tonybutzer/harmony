@@ -33,6 +33,9 @@
 	- Communication preference of each student
 	- efficiency and boredom mitigation
 		- perhaps split each 1 hour into - concepts and practice - allow folks to bail at 1/2 way point
+	- I want Neal to drive most of the agenda and deep dive talks - at least initially - people can opt out
+		- for example I could write a chapter on costs in AWS
+			-perhaps most would be interested - I know Neal is
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary
