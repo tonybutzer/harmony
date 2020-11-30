@@ -41,6 +41,8 @@
 	- Jupyter via browser and url and `VPN`
 	- Terminal inside Jupyter
 	- direct ssh and scp access - public key
+		- ssh ubuntu@10.12.69.216
+		- ssh ubuntu@10.12.69.233
 	- open ports allowed via firewalls
 		- 80, 8080 http
 		- 443, 8443 https
