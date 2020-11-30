@@ -29,6 +29,8 @@
 		- python
 		- jupyter
 	- `I want to build a notebook that radar charts the students`
+	- Class questionnaire - via email
+	- Communication preference of each student
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary

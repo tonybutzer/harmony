@@ -38,6 +38,7 @@ I want to build relationships with the science teams and help understand and fil
 
 This document and "class" will improve the toolkit and perhaps ease the on-boarding for some folks wanting to explore AWS, PANGEO as an option for science models and science sharing.
 
+I want to organize all the aspects of building xarrays in one place and point folks to this using the myriad of communication channels we have today.
 
 ## Expected Audience 
 
