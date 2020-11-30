@@ -22,6 +22,13 @@
 ## WEEK ONE
 1. Project Kickoff and refinement of goals
 	- Is this anything? - trial and error
+	- `PRIOR Experience`
+		- linux
+		- docker
+		- AWS
+		- python
+		- jupyter
+	- `I want to build a notebook that radar charts the students`
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary
