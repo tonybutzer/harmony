@@ -43,3 +43,10 @@
 	- great for a case study using pandas  dataframe automations!
 	- we also have a huc-12 spreadsheet that could be pandas and a direct viz app as well.
 - take the student notbook and add another class based on snow-white and the 7 dwarfs - then rework as a dashboard to illustrate apps for the jupyter-shy tribe.
+- Collaborate with Rich Signell on Scalable Analysis Framework for the Earth (SAFE)
+    Open, Scalable, Framework, Reproducible, Architecture, Incubator, Lab, Cloud, Analysis, Visualization
+
+    Scalable Analysis Framework for the Earth (SAFE)
+
+    Scalable Cloud Architecture
+
