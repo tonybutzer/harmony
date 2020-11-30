@@ -28,6 +28,7 @@
 	
 	- [nginx on cloud server](http://10.12.69.188)
 	- [jupyter notebook without the code](http://10.12.69.188/pie)
+	- [ET Viewer Side by Side no timeseries sad](http://10.12.69.233/user/harmony/notebooks/notebook/00-Viz/96-hvplot-experiment-image-annual-et-viewer-decorator-version.ipynb)
 	- [time series panel demo - little code](http://10.12.69.233/user/harmony/notebooks/notebook/00-Viz/panel-timeseries-get-x-y-and-plot.ipynb)
 
 	- I will move some of these to Neal's interim web servers
