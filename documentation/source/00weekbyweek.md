@@ -21,22 +21,22 @@
 
 ## WEEK ONE
 #### Week One Objectives
-	- Contact Tony Butzer for cloud questions
-	- Point to the two computers - field any questions
-		- web 10.12.69.216 hweb
-			- [mini-pangeo](http:10.12.69.216)
-		- mini-pangeo 10.12.69.233 harmony
-			- [mini-pangeo](http:10.12.69.233)
+- Contact Tony Butzer for cloud questions
+- Point to the two computers - field any questions
+	- web 10.12.69.216 hweb
+		- [mini-pangeo](http:10.12.69.216)
+	- mini-pangeo 10.12.69.233 harmony
+		- [mini-pangeo](http:10.12.69.233)
 
-	- Point to the website - nginx/sphinx driven
-	- Point to the github - 
-	- Quick Jupyter Session - jupyter fitting from single jupyter -- to self scaling hubs
-		- focus here will be primarily mini-pangeo scope - a group of 13 students
-	- Self-directed study hints
-		- notebook repo - past pangeo training
-	- future todo - feedback based
-		- create very small notebook snippets that illustrate concepts
-		- refine sections of this "paper" and build examples
+- Point to the website - nginx/sphinx driven
+- Point to the github - 
+- Quick Jupyter Session - jupyter fitting from single jupyter -- to self scaling hubs
+	- focus here will be primarily mini-pangeo scope - a group of 13 students
+- Self-directed study hints
+	- notebook repo - past pangeo training
+- future todo - feedback based
+	- create very small notebook snippets that illustrate concepts
+	- refine sections of this "paper" and build examples
 1. Project Kickoff and refinement of goals
 	- Is this anything? - trial and error Seinfeld
 	- `PRIOR Experience`
