@@ -24,7 +24,7 @@
 - Contact Tony Butzer for cloud questions
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
-		- [mini-pangeo](http://10.12.69.216)
+		- [AWS on-boarding website paper](http://10.12.69.216)
 	- mini-pangeo 10.12.69.233 harmony
 		- [mini-pangeo](http://10.12.69.233)
 
