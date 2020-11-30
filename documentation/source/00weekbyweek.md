@@ -20,6 +20,8 @@
 ## Week by Week Class Summaries
 
 ## WEEK ONE
+1. Project Kickoff and refinement of goals
+	- Is this anything? - trial and error
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary
