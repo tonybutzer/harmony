@@ -19,6 +19,7 @@ This document is organized as follows:
 3. [Infrastructure DevOps Cookbook](http://10.12.69.216/27DEVOPS.html?highlight=infrastructure%20devops%20cookbook)
 4. Data Science CookBook
 5. DataOps Cookbook
+6. [Glossary](http://10.12.69.216/13glossary.html)
 
 
 **Disclaimer**
