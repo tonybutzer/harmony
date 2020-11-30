@@ -15,7 +15,7 @@
 
 This document is organized as follows:
 1. AWS Onboarding Overview
-2. Class Syllabus
+2. [Class Syllabus](http://10.12.69.216/00weekbyweek.html?highlight=class%20syllabus)
 3. Infrastructure DevOps Cookbook
 4. Data Science CookBook
 5. DataOps Cookbook
