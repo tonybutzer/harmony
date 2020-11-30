@@ -1,5 +1,7 @@
 <u>Week by Week</u>
 
+# Class Syllabus
+
 # Prerequisites - Suggested Reading/Viewing
 
 ## Pangeo, COGS and maybe Stac
@@ -15,9 +17,9 @@
 - https://medium.com/planet-stories/cloud-native-geospatial-part-2-the-cloud-optimized-geotiff-6b3f15c696ed
 - https://medium.com/planet-stories/towards-on-demand-analysis-ready-data-f94d6eb226fc
 
-# Week by Week Class Summaries
+## Week by Week Class Summaries
 
-# WEEK ONE
+## WEEK ONE
 1. Week ONE - DEC 1,2020 Introduction and Basic Cloud Tour 
 	- Quick overview of this document
 		- added a glossary
