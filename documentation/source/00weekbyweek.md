@@ -21,6 +21,8 @@
 
 ## WEEK ONE
 #### Week One Objectives
+- Discuss the goals for this class - success criteria - move one more science project to the cloud
+- Comments and viewpoint of Neal Pastick
 - Discuss the Student cross section
 	- http://10.12.69.216/00define_ET.html#students
 	- http://10.12.69.216/00define_ET.html#student-individual-goals
