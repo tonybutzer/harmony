@@ -28,6 +28,7 @@
 	- Evapo
 	- permaFrost
 - Contact Tony Butzer for cloud questions
+- Discuss notebook love hate meter
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
 		- [AWS on-boarding website paper --LINK](http://10.12.69.216)
@@ -62,7 +63,7 @@
 		- jupyter
 		- management/leadership
 	- `I want to build a notebook that radar charts the students`
-	- Class questionnaire - via email
+	- Class questionnaire - via email - or maybe a notebook
 	- Communication preference of each student
 	- efficiency and boredom mitigation
 		- perhaps split each 1 hour into - concepts and practice - allow folks to bail at 1/2 way point
