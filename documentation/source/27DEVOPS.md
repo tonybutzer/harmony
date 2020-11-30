@@ -1,9 +1,10 @@
-# DEVOPS details
+# Infrastructure DevOps Cookbook
+## DEVOPS details
 
 - you don't have to be a cloud devops engineer - just have one on your team
 	- or phone a friend - tony butzer
 
-# DEVOPS WEEKLY
+## DEVOPS WEEKLY
 
 - Class number 1
 	- create mini-pangeo

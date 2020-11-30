@@ -24,6 +24,7 @@ This document is organized as follows:
 **Disclaimer**
 - `This document is a rough work-in-progress drafty draft`
 - I expect to sand off some of the rough edges based on the actual facts from my classmates.
+- The above sections are aspirational with no guarantee of completion
 
 
 # Expected Audience 
