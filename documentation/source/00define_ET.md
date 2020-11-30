@@ -83,7 +83,7 @@ This document is organized as follows:
 - "Day in the Life of a New Cloud Science Project"
 - " ET Case Study"
 - "permaFrost case study"
-- "The Cloud? ... Is this Anything?; Are we on to something here?"
+- "The Cloud? ... Is this Anything?; Are we onto something here?"
 - Ten things to do immediately with your new CHS CUSTOM ACCOUNT
 
 
