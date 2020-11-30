@@ -12,11 +12,10 @@
 ## Create Mini-Pangeo
 
 - add devops/tfinfra to git repo harmony `done`
-- terraform apply butzer-neal-mini-pangeo
-- create another-one  butzer-neal-mini-pangeo-demo-only-nuke-me
-- like the cooking show - where one is already baked
-- tljh install 
-- create users from notebook
+- terraform apply butzer-neal-mini-pangeo -- from github harmont devops tfinfra `in test`
+- create another-one  butzer-neal-mini-pangeo-demo-only-nuke-me `skip`
+- tljh install -- the littleist jupyter hub := mini-pangeo
+- create users plus harmony user from notebook `do in class`
 	- http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
 
 

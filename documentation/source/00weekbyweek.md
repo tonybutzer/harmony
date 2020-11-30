@@ -33,6 +33,14 @@
 	- Communication preference of each student
 	- efficiency and boredom mitigation
 		- perhaps split each 1 hour into - concepts and practice - allow folks to bail at 1/2 way point
+		- perhaps - threads or channels
+			- jupyter thread
+			- linux thread
+			- docker thread
+			- devops thread
+			- python thread
+			- management leadership - steering committee thread for PANGEO - strategy
+
 	- I want Neal to drive most of the agenda and deep dive talks - at least initially - people can opt out
 		- for example I could write a chapter on costs in AWS
 			-perhaps most would be interested - I know Neal is
