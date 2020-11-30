@@ -18,7 +18,7 @@ For more info talk to THE GOOGLE.
 ---
 - **Data Wrangling**
 
-- Transferring, organizing, reprojecting, verifying, locating, formatting, netcdf, geotiff, hdf, ascii, json, mtl, xml
+- Transferring, organizing, reprojecting, verifying, locating, formatting, netcdf, geotiff, hdf, ascii, json, mtl, xml, storage, costs
 
 ---
 - **DataOps**
