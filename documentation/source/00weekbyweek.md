@@ -46,12 +46,14 @@
 	- refine sections of this "paper" and build examples
 1. Project Kickoff and refinement of goals
 	- Is this anything? - trial and error Seinfeld
+		- doing this class is scary just must be like stand-up comedy
 	- `PRIOR Experience`
 		- linux
 		- docker
 		- AWS
 		- python
 		- jupyter
+		- management/leadership
 	- `I want to build a notebook that radar charts the students`
 	- Class questionnaire - via email
 	- Communication preference of each student
