@@ -28,7 +28,8 @@
 	- Evapo
 	- permaFrost
 - Contact Tony Butzer for cloud questions
-- Discuss notebook love hate meter
+- Discuss notebook love hate meter - any notebook shy/sensitive folks?
+	- its just a tool; "you're a tool tony"
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
 		- [AWS on-boarding website paper --LINK](http://10.12.69.216)
