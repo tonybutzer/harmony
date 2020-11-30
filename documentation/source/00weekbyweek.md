@@ -94,25 +94,25 @@ we will fill in more color/detail as we go through our CASE Studies.
 - leverage others work
 - collaborate like hell
 
-# Why
+## Why
 
-## For selfish reasons
+### For selfish reasons
 
 - Impress your friends
 - looks nice on the resume
 - its more fun
 - you don't have to deal with people you don't like
 
-## Headlines
+### Headlines
 
 - Netflix Delivers Billions of Hours of Content Globally by Running on AWS 
 - Steffi Kagone does 150 days of work in just THREE!
 
-## Procurement delays not applicable
+### Procurement delays not applicable
 
-## Scalability
+### Scalability
 
-## USGS/DOI Efficiencies
+### USGS/DOI Efficiencies
 - Remember DCOI threats
 - Remember Cloud First
 - Used to be mandates as a top down push
@@ -120,10 +120,10 @@ we will fill in more color/detail as we go through our CASE Studies.
 - cost efficiencies
 - It is irresponsible not to use the cloud
 
-## Open Source Advantages
+### Open Source Advantages
 - numerous articles on why open source
 
-## Python Momentum
+### Python Momentum
 
-## My favorite - less data wrangling - MORE SCIENCE
+### My favorite - less data wrangling - MORE SCIENCE
 
