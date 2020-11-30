@@ -21,6 +21,12 @@
 
 ## WEEK ONE
 #### Week One Objectives
+- Discuss the Student cross section
+	- http://10.12.69.216/00define_ET.html#students
+	- http://10.12.69.216/00define_ET.html#student-individual-goals
+- Discuss two Case Studies - Commonalities and Not
+	- Evapo
+	- permaFrost
 - Contact Tony Butzer for cloud questions
 - Point to the two computers - field any questions
 	- web 10.12.69.216 hweb
