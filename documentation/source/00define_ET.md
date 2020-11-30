@@ -1,5 +1,25 @@
 ---
-<u>define</u>
+<u>DRAFT</u>
+`DRAFT`
+
+# AWS Onboarding Overview
+
+
+# Introduction
+
+> The purpose of this "class" and more important this community of scientists is to examine AWS by playing with the CHS AWS cloud.
+
+> A secondary purpose is to promote the concept of shared science and shared data using the PANGEO reference architecture
+
+> There are many tertiary goals for this project hinted at in the pages of this document/web-page.
+
+This document is organized as follows:
+1. AWS Onboarding Overview
+2. Class Syllabus
+3. Infrastructure DevOps Cookbook
+4. Data Science CookBook
+5. DataOps Cookbook
+
 
 # Expected Audience 
 
@@ -266,18 +286,21 @@ So, there are several aspects that I'm interested in.
 ### Qiang (chi-ong)
 
 ### Neal
+- Understand AWS services and service costs
+- Compare methods and ease of use of the AWS cloud versus other platforms - HPC and GEE
 - Understand the differences of GEE and AWS opensource
 - Determine if Open Data Cube is useful to my science
 - Stay warm - but not too warm to melt my permafrost.
 - I am getting approval to stand up a CHS CUSTOM ACCOUNT - how do I effectively use that and can you help me with some of the devops and dataops aspects in AWS
 - I think AWS has a ton of services; how do I wade through all that? - It looks like decision fatigue to me.
+- I want to organize the right team to build AI/ML pipelines in AWS - Dev, Neal, Sujan Parajuli and Logan Megard. 
 
 **RESPONSE**
 - Yes I can help you with many of the cloud questions you will have - both directly and by finding the right technical resource at the right time - this is disruptive technology and a little fast paced - EROS may need to adapt its staffing models accordingly; There could be some cultural change risk there.
 - Another answer is lets jump in and find out - the cloud is pay as go and ephemeral - its not hard to start up or shutdown - try that with on-prem gear.
 - This class is really a project roadmap for your project and should help you answer some if not all the questions in the process. We will start with essentially one computer and one simple, scalable storage bucket and we can build and run your entire project with just these few elements. The AWS catalog is big and frightening - we will use just two services in my approach to the cloud.
 - Jupyter is a great communication tool and very versatile even without python.
-- My experience is that when efficient approaches are taken - those that remove too many choices - project milestones fall like dominoes. - Its easy to get distracted these days - so this requires discipline and intelligence.
+- My experience is that when efficient approaches are taken - those that remove several of the many choices - project milestones fall like dominoes. - Its easy to get distracted these days - so this requires discipline and intelligence.
 
 - And oh, Neal I have your web computer stood up - it took 2 minutes with terraform and docker - you're welcome
 - i'll get you logged in whenever you are ready - and give you a quick tour
