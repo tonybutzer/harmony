@@ -21,6 +21,11 @@ This document is organized as follows:
 5. DataOps Cookbook
 
 
+**Disclaimer**
+- `This document is a rough work-in-progress drafty draft`
+- I expect to sand off some of the rough edges based on the actual facts from my classmates.
+
+
 # Expected Audience 
 
 - A scientist that wants Landsat and/or Sentinel at their findertips and wants to provide their output/product to a wide range of customers
