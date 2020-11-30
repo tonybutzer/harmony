@@ -75,7 +75,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 
 ---
 
-# Project Initiation, Kickoff, and Approach
+## Project Initiation, Kickoff, and Approach
 
 - Jump in with both feet approach.
 - Gabriel Senay, Steffi Kagone - trail blazers
@@ -83,9 +83,9 @@ we will fill in more color/detail as we go through our CASE Studies.
 - Continuous Training - Train The trainer
     - Example Steffi and Gabe Parish now writing visualizations directly
 
-# Cloud Immersion Concept
+## Cloud Immersion Concept
 
-## Use the cloud for EVERYTHING
+### Use the cloud for EVERYTHING
 - website
 - kanban
 - jupyter hub  - mini-pangeos
