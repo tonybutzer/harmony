@@ -21,7 +21,7 @@
 ## Week by Week Class Summaries
 
 ## WEEK ONE
-# ### Week One Objectives
+#### Week One Objectives
 
 - Discuss the goals for this class - success criteria - move one more science project to the cloud
 - Comments and viewpoint of Neal Pastick
