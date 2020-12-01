@@ -56,6 +56,9 @@ For more info talk to THE GOOGLE.
 > Diffuse thinking happens when you let your mind wander freely, making connections at random. The diffuse mode of thinking does not happen in any one area of the brain, but rather all over. The challenge for all is to cultivate an efficient state of mind, depending on what we wish to accomplish.
 
 ---
+- **docker**
+![](https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/dockerVirtualization.png)
+---
 - **Imposter Syndrome:**
 > **Imposter syndrome** can be defined as a collection of feelings of inadequacy that persist despite evident success. 'Imposters' suffer from chronic self-doubt and a sense of intellectual fraudulence that override any feelings of success or external proof of their competence
 
