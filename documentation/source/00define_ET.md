@@ -230,6 +230,12 @@ I am looking for people who do Python in Jupyter to Join Forces
 - I will interview each student to find out how they want to apply this training
 	- essentially their personal/custom goals for the AWS cloud.
 
+
+---
+## What you will need for this class
+
+. A used chromebook
+![](./Assets/used_chromebook.PNG)
 ---
 
 - https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
