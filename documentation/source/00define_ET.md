@@ -179,6 +179,10 @@ I am looking for people who do Python in Jupyter to Join Forces
 
 - https://github.com/tonybutzer/harmony
 
+### Where are my assets?
+### Makefiles and Dockerfiles
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200">
+
 ---
 ## KANBAN - kanboard - tony?
 
