@@ -70,6 +70,7 @@
 	- focus here will be primarily mini-pangeo scope - a group of 13 students
 - Self-directed study hints
 	- notebook repo - past pangeo training
+		- If you need one on one jupyter training I can arrange an hour with you
 	- github link - needs pruning - notebook repo here: 
 		- [https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke](https://github.com/tonybutzer/notebook/tree/master/00-Tutorial/00-Jupyter-Notebook-Pieschke)
 		- [https://github.com/tonybutzer/notebook](https://github.com/tonybutzer/notebook)
