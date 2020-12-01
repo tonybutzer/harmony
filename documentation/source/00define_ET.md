@@ -140,6 +140,7 @@ If the cloud is at the top of Mount McKinley - ("those HPC bastards already stol
 - " ET Case Study"
 - "permafrost case study"
 - "The Cloud? ... Is this Anything?; Are we onto something here?"
+- "A firehose of info - followed by an epiphany and several zen moments."
 - Ten things to do immediately with your new CHS CUSTOM ACCOUNT
 
 
