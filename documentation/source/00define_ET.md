@@ -12,6 +12,15 @@
 
 > Offer available for a limited time only. 
 
+### Deliverables
+- A self directed jupyter/python center of excellence
+- A set of poorly written Cookbooks for doing science
+- A repository of very useful jupyter notebooks and libraries
+- A refined, SMALL, list of winning technologies that accelerate science and cool decision fatigue fever.
+- A cloud Sherpa informal help-desk.
+- An instance of end-to-end science in the cloud - COGs in --> COGs out
+- A model recipe how to path for moving to the cloud - likely rapidly.
+
 ## Introduction
 
 > The purpose of this "class" and more important this community of scientists is to examine AWS by playing with the CHS AWS cloud.
