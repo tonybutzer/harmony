@@ -9,6 +9,10 @@
 ![](https://github.com/tonybutzer/etscrum/raw/main/00-presentation/ard/abernathey-is-right.PNG)
 
 ---
+
+![](https://raw.githubusercontent.com/tonybutzer/etscrum/main/00-presentation/ard/new-arch.PNG)
+
+---
 - The Future of Data-driven Discovery in the Cloud - Ryan Abernathey (Columbia University)
 	- https://www.youtube.com/watch?v=7kDYfUe0Zhw
 	- `The above youtube is worth watching - 14 minutes`
