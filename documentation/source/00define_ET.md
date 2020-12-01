@@ -243,7 +243,10 @@ I am looking for people who do Python in Jupyter to Join Forces
 
 . A used chromebook
 ![](./Assets/used_chromebook.PNG)
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200">
 ---
+- a chromebook and the right github repo is worth $200,000 a year.
 
 - https://github.com/tonybutzer/harmony/blob/main/class/06-Instructor/01-Students.ipynb
 - http://10.12.69.216:8080/notebooks/jovyan/06-Instructor/01-Students.ipynb
