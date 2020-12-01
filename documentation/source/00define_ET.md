@@ -19,8 +19,8 @@
 - A refined, SMALL, list of winning technologies that accelerate science and cool decision fatigue fever.
 - A cloud Sherpa informal help-desk.
 - An instance of end-to-end science in the cloud - COGs in --> COGs out
-- A model recipe how to path for moving to the cloud - likely rapidly.
-- A "Frontline" like docuseries on "Behind the enemy lines of a covert DevOps Expert"
+- A model recipe, "HowTo/TL;DR" path for moving to the cloud - likely rapidly.
+- A "Frontline" like docuseries on "Behind the Enemy Lines of a Covert DevOps Expert"
 
 ## Introduction
 
