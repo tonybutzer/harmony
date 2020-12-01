@@ -40,6 +40,30 @@ This document and "class" will improve the toolkit and perhaps ease the on-board
 
 I want to organize all the aspects of building xarrays in one place and point folks to this using the myriad of communication channels we have today.
 
+## Scientists will rule the world
+
+> For a few years now, I have been saying that compute is free for those who have a viable science model.
+
+Most people look at me like I am crazy when I say this.
+
+But I have seen compute evolve from this.
+
+
+
+TO THIS
+![](https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/fernson.jpg)
+
+TO THIS
+![](https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/dispose.jpg)
+
+Compute is commodidty and no where is this more true than the kingdom of the cloud.
+
+Don't fret over costs in the cloud. Because it will impeed your progress to getting there.
+
+If the cloud is at the top of Mount McKinley - ("those HPC bastards already stole the name Denali - what a great name.) then this class should be like finding a secret elevator in the middle of the mountain.
+
+[](https://www.nps.gov/dena/planyourvisit/images/Denali_EM_03.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
+
 ## Expected Audience 
 
 - A scientist that wants Landsat and/or Sentinel at their findertips and wants to provide their output/product to a wide range of customers
