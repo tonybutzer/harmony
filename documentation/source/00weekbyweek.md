@@ -11,6 +11,7 @@
 ---
 - The Future of Data-driven Discovery in the Cloud - Ryan Abernathey (Columbia University)
 	- https://www.youtube.com/watch?v=7kDYfUe0Zhw
+	- `The above youtube is worth watching - 14 minutes`
 
 
 ### COGs and ARD
