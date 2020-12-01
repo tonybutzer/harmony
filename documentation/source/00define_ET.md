@@ -63,7 +63,7 @@ Don't fret over costs in the cloud. Because it will impeed your progress to gett
 
 If the cloud is at the top of Mount McKinley - ("those HPC bastards already stole the name Denali - what a great name.) then this class should be like finding a secret elevator in the middle of the mountain.
 
-[](https://www.nps.gov/dena/planyourvisit/images/Denali_EM_03.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
+![](https://www.nps.gov/dena/planyourvisit/images/Denali_EM_03.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
 
 ## Expected Audience 
 
