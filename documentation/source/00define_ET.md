@@ -49,7 +49,7 @@ Most people look at me like I am crazy when I say this.
 But I have seen compute evolve from this.
 
 
-
+<img src="https://raw.githubusercontent.com/tonybutzer/etscrum/4ee703e185b2953be80ab993d47b2b6ac77f9561/00-presentation/ard/cdc6600.PNG" width='40%'>
 
 TO THIS
 <img src="https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/fernson.jpg" width="40%">
