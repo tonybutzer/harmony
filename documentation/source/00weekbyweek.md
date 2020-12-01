@@ -60,7 +60,7 @@
 		- 80, 8080 http
 		- 443, 8443 https
 		- 22 ssh,scp
-	- use of tmux for session preservation across network/VPN failures/timeouts - long running jobs
+	- use of `tmux` for session preservation across network/VPN failures/timeouts - long running jobs
 
 - Point to the website - nginx/sphinx driven
 	- [AWS on-boarding The website paper --LINK](http://10.12.69.216)
