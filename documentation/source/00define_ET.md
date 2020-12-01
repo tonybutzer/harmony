@@ -50,13 +50,14 @@ But I have seen compute evolve from this.
 
 
 
+
 TO THIS
-![](https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/fernson.jpg)
+<img src="https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/fernson.jpg" width="40%">
 
 TO THIS
 ![](https://raw.githubusercontent.com/tonybutzer/data-curation/master/dataDog/eng/assets/dispose.jpg)
 
-Compute is commodidty and no where is this more true than the kingdom of the cloud.
+Compute is commodidty and nowhere is this more true than the kingdom of the cloud.
 
 Don't fret over costs in the cloud. Because it will impeed your progress to getting there.
 

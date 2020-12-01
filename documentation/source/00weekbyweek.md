@@ -35,6 +35,8 @@
 - Discuss the Student cross section
 	- http://10.12.69.216/00define_ET.html#students
 	- http://10.12.69.216/00define_ET.html#student-individual-goals
+<img src="https://raw.githubusercontent.com/tonybutzer/etscrum/main/00-presentation/bonus-slides/case-study-1.PNG">
+
 - Discuss two Case Studies - Commonalities and Not
 	- Evapo
 	- permaFrost
