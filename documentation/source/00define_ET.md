@@ -20,6 +20,7 @@
 - A cloud Sherpa informal help-desk.
 - An instance of end-to-end science in the cloud - COGs in --> COGs out
 - A model recipe how to path for moving to the cloud - likely rapidly.
+- A "Frontline" like docuseries on "Behind the enemy lines of a covert DevOps Expert"
 
 ## Introduction
 
