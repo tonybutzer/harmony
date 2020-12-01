@@ -4,6 +4,13 @@
 
 # AWS On-boarding Overview
 
+## Executive Summary
+
+#### You really should be using the cloud.
+. I can help you with all the details.
+. Let's get started!
+
+> Offer available for a limited time only. 
 
 ## Introduction
 
