@@ -23,6 +23,7 @@
 ## WEEK ONE
 #### Week One Objectives
 
+- FEEDBACK - send me direct chats with pithy comments that might improve our mission
 - Discuss the goals for this class - success criteria - move one more science project to the cloud
 - Comments and viewpoint of Neal Pastick
 - Demos
