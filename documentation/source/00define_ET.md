@@ -2,6 +2,8 @@
 <u>DRAFT</u>
 `DRAFT`
 
+`[miniPangeo BUTTON](http://10.12.69.233)`
+
 # AWS On-boarding Overview
 
 ## Executive Summary
