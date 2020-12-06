@@ -142,7 +142,9 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- See you next week for an open lab
 	- The week after that I will look at Areas of Interest and how they relate to ET modeling
 ---
-# WEEK TWO Welcome to the JupyterHub and Pangeo
+# WEEK TWO 
+
+## Welcome to the JupyterHub and Pangeo
 
 ## Outline
 - Review last Week
