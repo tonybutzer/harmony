@@ -284,8 +284,8 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ## Science should be done with pandas and xarray
 ### XARRAY 
-- I'm doing science with xarray
-- everything else is just glue
+- I'm doing science with `xarray`
+- everything else is just *glue*
 
 ## Notebook Drive By 
 
