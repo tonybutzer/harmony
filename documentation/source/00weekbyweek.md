@@ -227,6 +227,11 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ---
 ---
+## Rules of Behaviour and IT Security
+
+- its a priviledge to work in a sponsored cloud
+- Be Responsible not malicious
+- Save the Planet with Science - Please!
 ---
 
 ## How to cheat at Markdown
