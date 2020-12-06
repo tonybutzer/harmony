@@ -144,7 +144,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 ---
 # WEEK TWO 
 
-## Welcome to the JupyterHub and Pangeo
+### Welcome to the JupyterHub and Pangeo - extraordinary week 2
 
 ## Outline
 - `Deep Thoughts` by Neal Pastick
