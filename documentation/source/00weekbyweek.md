@@ -298,7 +298,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - teleports people with a simple browser right inside their free computer
 - AWS onboarding enabler - view the cloud - see the grand canyon without getting hurt
 - terminal and bash access
-- poor mans powerpoint tool
+- poor man's powerpoint tool
 - and for `Science` - well that is what it was **born for** - for those that realize it anyway
 - ... and so much more ...  "A lot of people say this Jupyter thing is going to be huge -- its fantastic! -- who knew?" 
 
