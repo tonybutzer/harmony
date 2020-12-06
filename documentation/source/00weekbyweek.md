@@ -212,6 +212,12 @@ science_joy = 1 * ec2 + docker * 1e3
 
 <img src="https://dolly.roslin.ed.ac.uk/wp-content/uploads/2016/01/Dolly-and-surrogate-mother-768x915.jpg" width=10% style="vertical-align:middle">
 
+
+## Just use group login:
+
+- http://10.12.69.233
+- harmony
+- harmony
 ---
 
 
