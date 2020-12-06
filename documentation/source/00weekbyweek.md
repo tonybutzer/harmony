@@ -24,7 +24,7 @@
 
 ## Week by Week Class Summaries
 
-## WEEK ONE
+### WEEK ONE
 #### Week One Objectives
 
 - FEEDBACK - send me direct chats with pithy comments that might improve our mission
@@ -142,6 +142,38 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- See you next week for an open lab
 	- The week after that I will look at Areas of Interest and how they relate to ET modeling
 ---
+# WEEK TWO Welcome to the JupyterHub and Pangeo
+
+## Outline
+- Review last Week
+	- pangeo is great
+	- cloud is great
+	- public data assets stored in the cloud is a game changing paradigm
+		- you MUST start to use these - or be left behind
+		- L8
+		- Collection02
+		- Sentinel
+		- HLS ...bump ...bump ... YES
+		- Evporation Model Outputs - after they go ScienceBase validatione
+	- one computer to rule them all - t3a.2xlarge
+		- https://aws.amazon.com/ec2/instance-types/t3/
+		- 8 CPU, 32Gig Memory, 200Gig local-ebs-elastic-block-storage  - with S3 access
+	- technology zen equation
+```python
+science_joy = 1 * ec2 + docker * 1e3
+```
+
+- "Hey Tony; can I have an account on Neal's mini-pangeo"
+	- - "Yep, Yes, trueDat, Si, qui, Ja"
+- ## हो   
+- ## Hō
+
+---
+
+
+
+
+
 1. WEEK TWO - Lab & Random Cloud Questions
 2. WEEK THREE - Delaware River Basin AOI
 	- How to display AOI in Jupyter
