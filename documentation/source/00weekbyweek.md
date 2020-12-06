@@ -147,6 +147,9 @@ we will fill in more color/detail as we go through our CASE Studies.
 ## Welcome to the JupyterHub and Pangeo
 
 ## Outline
+- `Deep Thoughts` by Neal Pastick
+	- Key takeawys from last week
+	- Motivating words to inspire the troops to forge ahead.
 - Review last Week
 	- pangeo is great
 	- cloud is great
@@ -165,6 +168,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 science_joy = 1 * ec2 + docker * 1e3
 ```
 
+### Special Recognition for Kelcy (AWS CHS Credentials)
+
 ### "Hey Tony; can I have an account on Neal's mini-pangeo?"
 - "Yep, Yes, trueDat, Si, qui, Ja"
 - ## हो   
@@ -173,6 +178,30 @@ science_joy = 1 * ec2 + docker * 1e3
 ---
 
 
+## Student Getting Started Instructions
+#### Signing into the jupyterhub-mini-pangeo
+
+- 10.12.69.233
+    - username is '[LASTNAME]'
+    - password is `harmony`
+
+
+### git repo clone
+
+- clone our notebook repo
+- next week we will do a `git pull` for updates
+
+### Instructions
+
+#### open a terminal in jupyter
+    - find Home Page - browser tab - or middle click jupyterhub above - tony to demo
+    - [new] button - terminal
+    - pwd ; ls; 
+---
+- mkdir opt
+- cd opt
+- git clone http://github.com/tonybutzer/notebook
+---
 
 
 
