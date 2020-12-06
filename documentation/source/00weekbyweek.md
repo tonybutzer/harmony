@@ -294,6 +294,8 @@ science_joy = 1 * ec2 + docker * 1e3
 - the point is that when we move the Scientist to the data
 	- everyone wins because so much more science and collaboration can be done
 
+#### [pine-lake](http://10.12.69.233/user/harmony/notebooks/notebook/01-Everything-but-harmony/10-DEMO-lite-stac-xarray-all-sandbox/000-demo-pine-lake.ipynb)
+
 
 
 
@@ -319,6 +321,12 @@ science_joy = 1 * ec2 + docker * 1e3
 	- How to display AOI in Jupyter
 		- geojson and shapefile
 		- folium
+- docker 
+```
+FROM developmentseed/geolambda:full
+WORKDIR /home/geolambda
+```
+
 2. LAB
 3. Organizing our DATA Inputs in the Cloud
 	- Fundamentals of S3
