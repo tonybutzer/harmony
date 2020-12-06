@@ -153,8 +153,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 - Review last Week
 	- pangeo is great
 	- cloud is great
-	- public data assets stored in the cloud is a game changing paradigm
-		- you MUST start to use these - or be left behind
+	- public data assets stored in the cloud == game changing paradigm
+		- you MUST start to use remote sensing assets - or be left behind
 		- L8
 		- Collection02
 		- Sentinel
