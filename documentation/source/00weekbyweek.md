@@ -193,6 +193,8 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ### Instructions
 
+![](./Assets/new-term.PNG)
+
 #### open a terminal in jupyter
     - find Home Page - browser tab - or middle click jupyterhub above - tony to demo
     - [new] button - terminal
