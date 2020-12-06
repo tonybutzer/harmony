@@ -205,6 +205,15 @@ science_joy = 1 * ec2 + docker * 1e3
 - git clone http://github.com/tonybutzer/notebook
 ---
 
+### Don't feel like cloning sheep
+---
+
+<img src="https://dolly.roslin.ed.ac.uk/wp-content/uploads/2016/01/Dolly-and-surrogate-mother-768x915.jpg" width=10% style="vertical-align:middle">
+
+<img src="https://dolly.roslin.ed.ac.uk/wp-content/uploads/2016/01/Dolly-and-surrogate-mother-768x915.jpg" width=10%style="vertical-align:middle">
+
+---
+
 
 
 1. WEEK TWO - Lab & Random Cloud Questions
