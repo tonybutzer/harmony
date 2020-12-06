@@ -222,7 +222,10 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ## Winner Winner Chicken Dinner
 - that is all I wanted to get accomplished
--
+- Everything else this week is a bonus!
+
+## How to cheat at Markdown
+- Markdown is another zen item in the technology universe.
 
 ```
 | sign | poet-line |
