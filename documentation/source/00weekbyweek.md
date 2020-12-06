@@ -258,10 +258,32 @@ science_joy = 1 * ec2 + docker * 1e3
 - [https://jonschlinkert.github.io/remarkable/demo/](https://jonschlinkert.github.io/remarkable/demo/)
 - try the above text in the remarkable wysiwig tool
 
+---
+
+## Notebook Drive By 
 
 
-1. WEEK TWO - Lab & Random Cloud Questions
+
+
+## Jupyter Roles/Features/Capabilities
+- text editor
+- python coding and exploring
+- teaching tool - commands and output in the same place - writes text books as you go
+- file transfer agent - upload and download files 
+- web app development accelerator - panel package
+- teleports people with a simple browser right inside their free computer
+- AWS onboarding enabler - view the cloud - see the grand canyon without getting hurt
+- terminal and bash access
+- poor mans powerpoint tool
+- and for `Science` - well that is what it was **born for** - for those that realize it anyway
+- ... and so much ... 
+
+
+
+
+
 2. WEEK THREE - Delaware River Basin AOI
+	- https://panel.holoviz.org/reference/widgets/FileDownload.html
 	- How to display AOI in Jupyter
 		- geojson and shapefile
 		- folium
