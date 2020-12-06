@@ -224,6 +224,11 @@ science_joy = 1 * ec2 + docker * 1e3
 - that is all I wanted to get accomplished
 - Everything else this week is a bonus!
 
+
+---
+---
+---
+
 ## How to cheat at Markdown
 - Markdown is another zen item in the technology universe.
 - below are two simple tables in markdown
