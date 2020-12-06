@@ -292,7 +292,7 @@ science_joy = 1 * ec2 + docker * 1e3
 ## Jupyter Roles/Features/Capabilities
 - text editor
 - python coding and exploring
-- teaching tool - commands and output in the same place - writes text books as you go
+- teaching/collaborating tool - commands and output in the same place - writes text books as you go
 - file transfer agent - upload and download files 
 - web app development accelerator - panel package
 - teleports people with a simple browser right inside their free computer
