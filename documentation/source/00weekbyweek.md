@@ -228,6 +228,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - Markdown is another zen item in the technology universe.
 - below are two simple tables in markdown
 - and a great editor for learning markdown in 10 minutes
+	- [https://jonschlinkert.github.io/remarkable/demo/](https://jonschlinkert.github.io/remarkable/demo/)
 - and as always all you need is a browser
 	- We don't need no education
 	- We don't need no thought control
