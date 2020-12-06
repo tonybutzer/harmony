@@ -148,7 +148,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 
 ## Outline
 - `Deep Thoughts` by Neal Pastick
-	- Key takeawys from last week
+	- Key takeaways from last week
 	- Motivating words to inspire the troops to forge ahead.
 - Review last Week
 	- pangeo is great
