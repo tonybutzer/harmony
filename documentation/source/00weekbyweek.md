@@ -225,14 +225,16 @@ science_joy = 1 * ec2 + docker * 1e3
 -
 
 ```
-> When the Star Belly Sneetches had frankfurter roasts
-> Or picnics or parties or marshmallow toasts,
-> They never invited the Plain-Belly Sneetches
-> They left them out cold, in the dark of the beaches.
-> They kept them away. 
-> Neverlet them come near.
-> And that’s how they treated them year after year
-> -- Dr. Seuss --
+| sign | poet-line |
+| ------:| -----------:|
+| > | When the Star Belly Sneetches had frankfurter roasts
+| > | Or picnics or parties or marshmallow toasts,
+| > | They never invited the Plain-Belly Sneetches
+| > | They left them out cold, in the dark of the beaches.
+| > | They kept them away. 
+| > | Never let them come near.
+| > | And that’s how they treated them year after year.
+| > | -- Dr. Seuss --
 ```
 
 ### https://jonschlinkert.github.io/remarkable/demo/  -- [Clear] - 
