@@ -165,8 +165,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 science_joy = 1 * ec2 + docker * 1e3
 ```
 
-- "Hey Tony; can I have an account on Neal's mini-pangeo"
-	- - "Yep, Yes, trueDat, Si, qui, Ja"
+### "Hey Tony; can I have an account on Neal's mini-pangeo?"
+- "Yep, Yes, trueDat, Si, qui, Ja"
 - ## हो   
 - ## Hō
 
