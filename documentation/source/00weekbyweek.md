@@ -232,6 +232,8 @@ science_joy = 1 * ec2 + docker * 1e3
 - its a priviledge to work in a sponsored cloud
 - Be Responsible not malicious
 - Save the Planet with Science - Please!
+
+- oh and if computer or language things break - use the TEAMS-CHAT - to tonybutzer
 ---
 
 ## How to cheat at Markdown
@@ -277,6 +279,10 @@ science_joy = 1 * ec2 + docker * 1e3
 - try the above text in the remarkable wysiwig tool
 
 ---
+
+## Science should be done with pandas and xarray
+- I'm doing science with xarray
+- everything else is just glue
 
 ## Notebook Drive By 
 
