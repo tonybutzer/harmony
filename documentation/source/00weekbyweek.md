@@ -220,6 +220,19 @@ science_joy = 1 * ec2 + docker * 1e3
 - harmony
 ---
 
+## Winner Winner Chicken Dinner
+- that is all I wanted to get accomplished
+-
+
+> When the Star Belly Sneetches had frankfurter roasts
+> Or picnics or parties or marshmallow toasts,
+> They never invited the Plain-Belly Sneetchesi
+> They left them out cold, in the dark of the beaches.
+> They kept them away. 
+> Neverlet them come near.
+> And that’s how they treated them year after year
+> -- Dr. Seuss --
+
 
 
 1. WEEK TWO - Lab & Random Cloud Questions
