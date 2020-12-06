@@ -289,7 +289,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - terminal and bash access
 - poor mans powerpoint tool
 - and for `Science` - well that is what it was **born for** - for those that realize it anyway
-- ... and so much ... 
+- ... and so much more ...  "A lot of people say this Jupyter thing is going to be huge -- its fantastic! -- who knew?" 
 
 
 
