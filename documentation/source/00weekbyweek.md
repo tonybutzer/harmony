@@ -252,6 +252,7 @@ science_joy = 1 * ec2 + docker * 1e3
 
 
 ### https://jonschlinkert.github.io/remarkable/demo/  -- [Clear] - 
+- [https://jonschlinkert.github.io/remarkable/demo/](https://jonschlinkert.github.io/remarkable/demo/)
 - try the above text in the remarkable wysiwig tool
 
 
