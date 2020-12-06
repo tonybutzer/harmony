@@ -289,6 +289,11 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ## Notebook Drive By 
 
+### Pangeo, Xarray, Public Data Assets and Panda
+- this notebook was featured by tony butzer at AR19
+- the point is that when we move the Scientist to the data
+	- everyone wins because so much more science and collaboration can be done
+
 
 
 
