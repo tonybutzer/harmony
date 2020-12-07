@@ -293,6 +293,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - this notebook was featured by tony butzer at AR19
 - the point is that when we move the Scientist to the data
 	- everyone wins because so much more science and collaboration can be done
+- Can xarray, pangeo and python help automate change detection pipelines for tree regrowth for Dr. Zhou?
 
 #### [pine-lake](http://10.12.69.233/user/harmony/notebooks/notebook/01-Everything-but-harmony/10-DEMO-lite-stac-xarray-all-sandbox/000-demo-pine-lake.ipynb)
 
