@@ -161,7 +161,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 
 ### For Neal's Project
 1. Acquire a CHS CUSTOM ACCOUNT and a Project VPC `[DONE]`
-2. Setup 2 computers - a tiny admin box and 
+2. Setup 2 computers - a tiny admin box and jupyterHub micro-pangeo
 3. Project Management steps rapidly developed via a sphinx website - backed up in git
 4. Spin up a jupyter hub for coding and engineering collaboration
 5. layout the data pipline big steps and refine a simple WBS to work from
@@ -197,7 +197,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- Data Viz applets
 		- widgets
 		- graph display libraries
-		- SDSU viz expert team - comming soon
+		- SDSU viz expert team - coming soon
 - Gradually these classes should become more democratic - with lots of individuals taking the mic.
 - Review last Week
 	- pangeo is great
