@@ -158,6 +158,13 @@ we will fill in more color/detail as we go through our CASE Studies.
 - let the fun begin
 
 ## Outline
+> [Yesterday 4:11 PM] Pastick, Neal (Contractor) J
+    Those data wrangling, pre-processing steps (e.g. re-projection if needed, spatial extent alignment), and database development are all that needed before performing modelling in this simple example. That is, once I have the tabular database developed through extraction of geospatial at each field plot, I can commence model calibration/validation/deployment. 
+​[Yesterday 4:18 PM] Pastick, Neal (Contractor) J
+    Guess I was a little vague w/ the raster pre-processing steps - can't recall what the resolution or projection is of all those datasets. The biggest thing might be to clip the data to a common extent - using a shapefile that we upload - and reprojecting and resampling things. No hard core per-pixel compositing methods needed here.
+​[Yesterday 4:20 PM] Pastick, Neal (Contractor) J
+    Could also stack all those data into a giant xarray for model inference later on - might be overkill as I should be able to point the models to the individual datasets
+
 - `Deep Thoughts` by Neal Pastick
 	- Key takeaways from last week
 	- Motivating words to inspire the troops to forge ahead.
