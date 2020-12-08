@@ -164,7 +164,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 2. Setup 2 computers - a tiny admin box and jupyterHub micro-pangeo
 3. Project Management steps rapidly developed via a sphinx website - backed up in git
 4. Spin up a jupyter hub for coding and engineering collaboration
-5. layout the data pipline big steps and refine a simple WBS to work from
+5. layout the data pipline big steps and refine a simple WBS/todo-list to work from
 6. Spin up a quick Kanboard to track actions and report progress to Neal
 
 <!--
