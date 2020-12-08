@@ -362,10 +362,10 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ### My best notebook to date
 
-[zen](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/03-zen.ipynb)
+#### [zen](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/03-zen.ipynb)
 
 ### Xarray Basic - hello xarray
-[gentle intro to xarray](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/01-gentle-intro-to-XARRAY.ipynb)
+#### [gentle intro to xarray](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/01-gentle-intro-to-XARRAY.ipynb)
 
 
 ### A word on public data assets
@@ -381,8 +381,6 @@ science_joy = 1 * ec2 + docker * 1e3
 
 #### [pine-lake](http://10.12.69.233/user/harmony/notebooks/notebook/01-Everything-but-harmony/10-DEMO-lite-stac-xarray-all-sandbox/000-demo-pine-lake.ipynb)
 
-
-#### [navigation example one]()
 
 
 
