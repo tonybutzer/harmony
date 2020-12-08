@@ -206,6 +206,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 		- you MUST start to use cloud, readily available (fingertips), analysis ready remote sensing data assets - or be left behind
 		- L8
 		- Collection02
+			- [landsat-commercial-cloud-data-access](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-commercial-cloud-data-access)
 		- Sentinel
 		- HLS ...bump ...bump ... YES
 		- Evporation Model Outputs - after they go thru ScienceBase validation - but maybe even raw for evaluation
