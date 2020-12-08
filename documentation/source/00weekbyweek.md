@@ -146,12 +146,12 @@ we will fill in more color/detail as we go through our CASE Studies.
 
 ## Preface
 
-### The cross communication is way more important than the technology lessons
+### The cross organization and cross project communication is way more important than the technology lessons
 - working together and sharing talent
 - moving to the cloud where its natural to share everything
 - creating libraries and documentation for the common good of the data center
 - allowing our hard work in science to be broadcasted to the widest possible audience
-- removing data and people silos where ever and when ever we can
+- removing data and people silos wherever and whenever we can
 
 ### Welcome to the JupyterHub and Pangeo 
 - extraordinary week 2
@@ -181,7 +181,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- Account status
 		- next steps
 	- Phases for the Data and Processing from:
-		- portal scraping, ftp transfers to buckets
+		- portal scraping, ftp transfers to buckets `this is mostly a solved problem`
+			- this is also easier in the cloud - can be done in parallel -- multithreaded
 		- ...
 		- SageMaker ML and voila moments
 - Michelle Anthony - any thoughts or questions about how this **disruptive** technology might vector your mid-term roadmap?
