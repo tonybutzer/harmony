@@ -188,6 +188,8 @@ we will fill in more color/detail as we go through our CASE Studies.
 - Michelle Anthony - any thoughts or questions about how this **disruptive** technology might vector your mid-term roadmap?
 - Matt Rigge - can you talk about your role and your team and your pipeline you are targeting for cloud operation.
 - Dev Dahal - talk about logging into Jupyter - opening a terminal and cloning a repo and what you hope to use this class for in your real job
+- Tree Regrowth
+- #### [seaborn plot gallery](https://seaborn.pydata.org/examples/index.html)
 - Anyone else?
 	- We talked about a bunch of stuff in week 1
 	- Anything we need to clarify about the cloud, AWS or CHS?
