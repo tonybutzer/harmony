@@ -158,6 +158,16 @@ we will fill in more color/detail as we go through our CASE Studies.
 - let the fun begin
 
 ## Outline
+
+### For Neal's Project
+1. Acquire a CHS CUSTOM ACCOUNT and a Project VPC `[DONE]`
+2. Setup 2 computers - a tiny admin box and 
+3. Project Management steps rapidly developed via a sphinx website - backed up in git
+4. Spin up a jupyter hub for coding and engineering collaboration
+5. layout the data pipline big steps and refine a simple WBS to work from
+6. Spin up a quick Kanboard to track actions and report progress to Neal
+
+#### Details Example
 > [Yesterday 4:11 PM] Pastick, Neal (Contractor) J
     Those data wrangling, pre-processing steps (e.g. re-projection if needed, spatial extent alignment), and database development are all that needed before performing modelling in this simple example. That is, once I have the tabular database developed through extraction of geospatial at each field plot, I can commence model calibration/validation/deployment. 
 ​[Yesterday 4:18 PM] Pastick, Neal (Contractor) J
