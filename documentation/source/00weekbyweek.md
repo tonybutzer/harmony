@@ -159,7 +159,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 
 ## Outline
 
-### For Neal's Project
+### For Neal's Project ( Case study one projects journey into the clouds )
 1. Acquire a CHS CUSTOM ACCOUNT and a Project VPC `[DONE]`
 2. Setup 2 computers - a tiny admin box and jupyterHub micro-pangeo
 3. Project Management steps rapidly developed via a sphinx website - backed up in git
