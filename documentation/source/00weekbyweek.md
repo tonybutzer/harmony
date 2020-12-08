@@ -367,6 +367,11 @@ science_joy = 1 * ec2 + docker * 1e3
 ### Xarray Basic - hello xarray
 [gentle intro to xarray](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/01-gentle-intro-to-XARRAY.ipynb)
 
+
+### A word on public data assets
+- public - that sounds nice
+- planet really pushed this pangeo world - thanks planet
+- [https://registry.opendata.aws/landsat-8/](https://registry.opendata.aws/landsat-8/)
 ### Notebook illustrates Pangeo, Xarray, Public Data Assets and Panda
 - this notebook was featured by tony butzer at AR19
 - the point is that when we move the Scientist to the data
