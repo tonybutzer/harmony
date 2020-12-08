@@ -241,7 +241,7 @@ science_joy = 1 * ec2 + docker * 1e3
 
 
 ---
-## One on one sessions and jupytertours available
+## One on one sessions and jupyter tours available
 
 - just open a chat with tony butzer for custom notebook tour relevant to your technology interests
 ---
@@ -303,7 +303,7 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/600px-Pandas_logo.svg.png)
 
-![]http://xarray.pydata.org/en/stable/_static/dataset-diagram-logo.png)
+![](http://xarray.pydata.org/en/stable/_static/dataset-diagram-logo.png)
 
 ### XARRAY 
 - I'm doing science with `xarray`
