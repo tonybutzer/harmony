@@ -152,16 +152,28 @@ we will fill in more color/detail as we go through our CASE Studies.
 - `Deep Thoughts` by Neal Pastick
 	- Key takeaways from last week
 	- Motivating words to inspire the troops to forge ahead.
+	- Account status
+		- next steps
+	- Phases for the Data and Processing from:
+		- portal scraping, ftp transfers to buckets
+		- ...
+		- SageMaker ML and voila moments
+- Michelle Anthony - any thoughts or questions about how this **disruptive** technology might vector your mid-term roadmap?
+- Matt Rigge - can you talk about your role and your team and your pipeline you are targeting for cloud operation.
+- Example panel based applictions
+	- Glaciers
+	- Data Viz applets
+- Gradually these classes should become more democratic - with lots of individuals taking the mic.
 - Review last Week
 	- pangeo is great
 	- cloud is great
 	- public data assets stored in the cloud == game changing paradigm
-		- you MUST start to use remote sensing assets - or be left behind
+		- you MUST start to use cloud, readily available (fingertips), analysis ready remote sensing data assets - or be left behind
 		- L8
 		- Collection02
 		- Sentinel
 		- HLS ...bump ...bump ... YES
-		- Evporation Model Outputs - after they go ScienceBase validatione
+		- Evporation Model Outputs - after they go thru ScienceBase validation - but maybe even raw for evaluation
 	- one computer to rule them all - t3a.2xlarge
 		- [https://aws.amazon.com/ec2/instance-types/t3/](https://aws.amazon.com/ec2/instance-types/t3/)
 		- 8 CPU, 32Gig Memory, 200Gig local-ebs-elastic-block-storage  - with S3 access
@@ -171,6 +183,7 @@ science_joy = 1 * ec2 + docker * 1e3
 ```
 
 ### Special Recognition for Kelcy (AWS CHS Credentials)
+- implications for data movent to and from buckets directly from servers on-prem at EROS
 
 ### "Hey Tony; can I have an account on Neal's mini-pangeo?"
 - "Yep, Yes, trueDat, Si, qui, Ja"
@@ -228,6 +241,9 @@ science_joy = 1 * ec2 + docker * 1e3
 
 
 ---
+## One on one sessions and jupytertours available
+
+- just open a chat with tony butzer for custom notebook tour relevant to your technology interests
 ---
 ## Rules of Behaviour and IT Security
 
@@ -282,14 +298,20 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ---
 
+
 ## Science should be done with pandas and xarray
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/600px-Pandas_logo.svg.png)
+
+![]http://xarray.pydata.org/en/stable/_static/dataset-diagram-logo.png)
+
 ### XARRAY 
 - I'm doing science with `xarray`
 - everything else is just **glue**
 
 ## Notebook Drive By 
 
-### Pangeo, Xarray, Public Data Assets and Panda
+### Notbook Pangeo, Xarray, Public Data Assets and Panda
 - this notebook was featured by tony butzer at AR19
 - the point is that when we move the Scientist to the data
 	- everyone wins because so much more science and collaboration can be done
