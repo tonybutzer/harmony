@@ -193,7 +193,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 		- HLS ...bump ...bump ... YES
 		- Evporation Model Outputs - after they go thru ScienceBase validation - but maybe even raw for evaluation
 	- one computer to rule them all - t3a.2xlarge
-		- [https://aws.amazon.com/ec2/instance-types/t3/](https://aws.amazon.com/ec2/instance-types/t3/)
+		- [https://aws.amazon.com/ec2/instance-types/t3/](https://aws.amazon.com/ec2/instance-types/)
 		- 8 CPU, 32Gig Memory, 200Gig local-ebs-elastic-block-storage  - with S3 access
 	- technology zen equation
 ```python
