@@ -180,8 +180,9 @@ we will fill in more color/detail as we go through our CASE Studies.
 - `Deep Thoughts` by Neal Pastick
 	- Key takeaways from last week
 	- Motivating words to inspire the troops to forge ahead.
-	- Account status
+	- CHS CUSTOM Account status
 		- next steps
+		- [terraform](http://10.12.69.216/13glossary.html?highlight=terraform)
 	- Phases for the Data and Processing from:
 		- portal scraping, ftp transfers to buckets `this is mostly a solved problem`
 			- this is also easier in the cloud - can be done in parallel -- multithreaded
