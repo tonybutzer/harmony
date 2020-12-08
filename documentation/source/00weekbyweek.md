@@ -401,6 +401,10 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ---
 ## END OF WEEK2
+
+### Thank You Everyone
+
+- i will sort out week 3 now!
 ---
 
 
