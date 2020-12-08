@@ -160,9 +160,18 @@ we will fill in more color/detail as we go through our CASE Studies.
 		- SageMaker ML and voila moments
 - Michelle Anthony - any thoughts or questions about how this **disruptive** technology might vector your mid-term roadmap?
 - Matt Rigge - can you talk about your role and your team and your pipeline you are targeting for cloud operation.
-- Example panel based applictions
+- Dev Dahal - talk about logging into Jupyter - opening a terminal and cloning a repo and what you hope to use this class for in your real job
+- Anyone else?
+	- We talked about a bunch of stuff in week 1
+	- Anything we need to clarify about the cloud, AWS or CHS?
+- Example panel based applications
 	- Glaciers
+		- https://edu.oggm.org/en/latest/explorer.html
+		- similar to some of our WMS apps with far less backend engineering - scaffolding
 	- Data Viz applets
+		- widgets
+		- graph display libraries
+		- SDSU viz expert team - comming soon
 - Gradually these classes should become more democratic - with lots of individuals taking the mic.
 - Review last Week
 	- pangeo is great
@@ -244,6 +253,9 @@ science_joy = 1 * ec2 + docker * 1e3
 ## One on one sessions and jupyter tours available
 
 - just open a chat with tony butzer for custom notebook tour relevant to your technology interests
+
+## If I can Help you to the cloud - just ask
+- its free free free - I am funded by OpenDataCube
 ---
 ## Rules of Behaviour and IT Security
 
@@ -307,18 +319,33 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ### XARRAY 
 - I'm doing science with `xarray`
-- everything else is just **glue**
+	- xarray is like the Chicago airport - its not your final destination - but you can get anywhere from there
+- everything else in python is just **glue**
 
 ## Notebook Drive By 
 
-### Notbook Pangeo, Xarray, Public Data Assets and Panda
+## Notebooks are:
+- like storyboards for the real movie
+- teaching vehicle to illustrate code and its outputs
+- tool for rapid application development and collaboration
+- the on-ramp to exciting panel applications
+- a way to quickly teleport to your cloud computer with just a browser - even from the beach
+
+### My best notebook to date
+
+[zen](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/03-zen.ipynb)
+
+### Notebook illustrates Pangeo, Xarray, Public Data Assets and Panda
 - this notebook was featured by tony butzer at AR19
 - the point is that when we move the Scientist to the data
 	- everyone wins because so much more science and collaboration can be done
 - Can xarray, pangeo and python help automate change detection pipelines for tree regrowth for Dr. Zhou?
+- 
 
 #### [pine-lake](http://10.12.69.233/user/harmony/notebooks/notebook/01-Everything-but-harmony/10-DEMO-lite-stac-xarray-all-sandbox/000-demo-pine-lake.ipynb)
 
+
+#### [navigation example one]()
 
 
 
@@ -336,6 +363,10 @@ science_joy = 1 * ec2 + docker * 1e3
 - ... and so much more ...  "A lot of people say this Jupyter thing is going to be huge -- its fantastic! -- who knew?" 
 
 
+---
+## END OF WEEK2
+---
+
 
 
 
@@ -349,6 +380,9 @@ science_joy = 1 * ec2 + docker * 1e3
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
 ```
+
+## Rich Signell Influence, Experience and Why Cloud
+
 
 2. LAB
 3. Organizing our DATA Inputs in the Cloud
