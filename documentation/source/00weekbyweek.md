@@ -175,7 +175,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- Anything we need to clarify about the cloud, AWS or CHS?
 - Example panel based applications
 	- Glaciers
-		- [https://edu.oggm.org/en/latest/explorer.html]([https://edu.oggm.org/en/latest/explorer.html])
+		- [https://edu.oggm.org/en/latest/explorer.html](https://edu.oggm.org/en/latest/explorer.html)
 		- similar to some of our WMS apps with far less backend engineering - scaffolding
 	- Data Viz applets
 		- widgets
