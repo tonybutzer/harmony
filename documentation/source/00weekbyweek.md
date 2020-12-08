@@ -240,7 +240,7 @@ science_joy = 1 * ec2 + docker * 1e3
 ### Special Recognition for Kelcy (AWS CHS Credentials)
 - implications for data movent to and from buckets directly from servers on-prem at EROS
 
-### "Hey Tony; can I have an account on Neal's mini-pangeo?"
+### "Hey Tony; can I have an account on AWS onboard mini-pangeo?"
 - "Yep, Yes, trueDat, Si, qui, Ja"
 - ## हो   
 - ## Hō
