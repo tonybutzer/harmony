@@ -361,6 +361,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - a way to quickly teleport to your cloud computer with just a browser - even from the beach
 
 ### My best notebook to date
+- and i have written hundreds of notebooks
 
 #### [zen](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/03-zen.ipynb)
 
