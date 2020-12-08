@@ -247,7 +247,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - implications for data movent to and from buckets directly from servers on-prem at EROS
 
 ### "Hey Tony; can I have an account on AWS onboard mini-pangeo?"
-- "Yep, Yes, trueDat, Si, qui, Ja"
+- "Yep, Yes, Si, qui, Ja"
 - ## हो   
 - ## Hō
 
