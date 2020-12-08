@@ -421,6 +421,9 @@ FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
 ```
 
+## Final Projects
+https://earth-env-data-science.github.io/projects.html
+
 ## Rich Signell Influence, Experience and Why Cloud
 
 Tony, I discovered something by Accident today.   If you add use "panel" as your urlpath in binder, it displays all your notebooks with Panel as apps.    Check out the last binder link here: 
