@@ -309,7 +309,7 @@ science_joy = 1 * ec2 + docker * 1e3
 ## If I can Help you to the cloud - just ask
 - its free free free - I am funded by OpenDataCube
 ---
-## Rules of Behaviour and IT Security
+## Rules of Behaviour and IT Security Training
 
 - its a priviledge to work in a sponsored cloud
 - Be Responsible not malicious
