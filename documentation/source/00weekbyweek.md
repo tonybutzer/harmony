@@ -196,6 +196,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 - Anyone else?
 	- We talked about a bunch of stuff in week 1
 	- Anything we need to clarify about the cloud, AWS or CHS?
+	- feedback ... or ... takeaways?
 - Example panel based applications
 	- Glaciers
 		- [https://edu.oggm.org/en/latest/explorer.html](https://edu.oggm.org/en/latest/explorer.html)
