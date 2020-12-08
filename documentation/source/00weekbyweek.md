@@ -144,6 +144,15 @@ we will fill in more color/detail as we go through our CASE Studies.
 ---
 # WEEK TWO 
 
+## Preface
+
+### The cross communication is way more important than the technology lessons
+- working together and sharing talent
+- moving to the cloud where its natural to share everything
+- creating libraries and documentation for the common good of the data center
+- allowing our hard work in science to be broadcasted to the widest possible audience
+- removing data and people silos where ever and when ever we can
+
 ### Welcome to the JupyterHub and Pangeo 
 - extraordinary week 2
 - let the fun begin
@@ -334,6 +343,9 @@ science_joy = 1 * ec2 + docker * 1e3
 ### My best notebook to date
 
 [zen](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/03-zen.ipynb)
+
+### Xarray Basic - hello xarray
+[gentle intro to xarray](http://10.12.69.233/user/harmony/notebooks/notebook/00-Harmony/02-week2/01-gentle-intro-to-XARRAY.ipynb)
 
 ### Notebook illustrates Pangeo, Xarray, Public Data Assets and Panda
 - this notebook was featured by tony butzer at AR19
