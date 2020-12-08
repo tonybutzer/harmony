@@ -200,6 +200,26 @@ we will fill in more color/detail as we go through our CASE Studies.
 science_joy = 1 * ec2 + docker * 1e3
 ```
 
+### A World of Twos
+- two computers
+	- t2.micro
+	- t3a-2xlarge
+- two infrastructure elements
+	- ec2
+	- docker
+- two technology companions
+	- jupyter
+	- python
+- two science - image processing packages; fundamental building blocks.
+	- xarray
+	- pandas
+- two people - who are "ALL IN" on the Cloud!
+	- tony butzer
+	- Rich Signell
+- two barriers toward cloud acceptance
+	- jargon
+	- complexity
+
 ### Special Recognition for Kelcy (AWS CHS Credentials)
 - implications for data movent to and from buckets directly from servers on-prem at EROS
 
