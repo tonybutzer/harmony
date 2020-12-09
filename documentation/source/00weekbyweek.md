@@ -142,7 +142,7 @@ we will fill in more color/detail as we go through our CASE Studies.
 	- See you next week for an open lab
 	- The week after that I will look at Areas of Interest and how they relate to ET modeling
 ---
-# WEEK TWO 
+## WEEK TWO 
 
 ## Preface
 
@@ -433,6 +433,20 @@ science_joy = 1 * ec2 + docker * 1e3
 ---
 
 
+
+# WEEK 3 - Meet Logan
+
+## Logan is a Senior GIS DevOps Dude 
+- Logan works on science projects in the loud
+- currently invasives and then permafrost
+- Logan is a full-stack engineer - still honing his skills but he has a high aptitude and a thirst for knowledge
+- Lets follow Logan with his new AWS account as he sets his project up for success
+
+## A day in the life of Logan the data slayer
+
+### Logan sets up his git repo
+
+### Logan startup his new server
 
 
 2. WEEK THREE - Delaware River Basin AOI
