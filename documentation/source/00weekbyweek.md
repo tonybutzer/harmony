@@ -484,7 +484,7 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 ## Logan now wants to train his users 
 - and the scientists on his team are a tough crowd
 
-## Logan borrows som material from USGS Workshops
+## Logan borrows some material from USGS Workshops
 ### Scientific Software Environment of the Future
 
     USGS:​
@@ -505,6 +505,13 @@ Chat: gitter.im/pangeo-data
 
 
 ## Logan starts to look at Data Wrangling - 1st stop portal scraping
+
+- Logan sighs and wishes everything was just in COGs and used STAC - but you can't change the science world overnight
+- Logan shoots Dev a quick email with links to his favorite public data sets:
+- GA will compare our Collection02 STAC work against these public data assets:
+	- [https://registry.opendata.aws/sentinel-2/](https://registry.opendata.aws/sentinel-2/)
+	- [https://registry.opendata.aws/landsat-8/](https://registry.opendata.aws/landsat-8/)
+- Then its back to work.
 
 ### Logan 00-notebooks/00-portal-scraping
 
