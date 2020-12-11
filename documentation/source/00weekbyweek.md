@@ -436,8 +436,24 @@ science_joy = 1 * ec2 + docker * 1e3
 
 # WEEK 3 - Meet Logan
 
+## Since this class is about case studies
+- This week lets switch to following our Invasive ML AWS Project
+
+## Objectives - 
+1. Answer some of the staffing needs in the cloud.
+	- The pace of technology means skill workers need to constantly tune-up their skills.
+	- This means a steady diet of self training via
+		- Google
+		- Youtube
+		- and classes like this one :-)
+2. Look At Data Wrangling 
+	- Current State 
+	- Future State
+3. Cool Notebook of the week and WHY its cool!
+
+
 ## Logan is a Senior GIS DevOps Dude 
-- Logan works on science projects in the loud
+- Logan works on science projects in the cloud
 - currently invasives and then permafrost
 - Logan is a full-stack engineer - still honing his skills but he has a high aptitude and a thirst for knowledge
 - Lets follow Logan with his new AWS account as he sets his project up for success
@@ -446,7 +462,53 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ### Logan sets up his git repo
 
-### Logan startup his new server
+### Logan creates his new server
+
+#### Selects t3a.xlarge with 400 Gig of disk
+
+- [https://calculator.aws/#/](https://calculator.aws/#/)
+- his t3a machine will cost $141.79 - Logan doubles that for his boss and says $300/month
+- Logan remembers that the desktop tax they used to projects charge was $4000/year - 
+- Logan also notes this will be for 4-5 science users
+- Logan wonders if he should bring up reserved instances and decides - well I'll have that in my pocket
+- Logan ok so for a standrad reserved and everything up to on-demand it would be $100 to $111 to $141
+	- Logan decides it will cost more to meet on this than the dollars it saves.
+
+Now that logan has determined his main ec2 computer and calculated the costs its time to spin up the system and bring up some foundation technologies.
+
+#### Terraform Init & Apply
+
+- Demo Here?
+
+
+## Logan now wants to train his users 
+- and the scientists on his team are a tough crowd
+
+## Logan borrows som material from USGS Workshops
+### Scientific Software Environment of the Future
+
+    USGS:​
+
+Try: https://pangeo.chs.usgs.gov​
+
+Examples: https://code.chs.usgs.gov/pangeo/notebooks​
+
+Join: USGS Pangeo Team: GS-Pangeo
+
+## Larger Community:​
+
+Follow: medium.com/pangeo​
+
+Discuss: discourse.pangeo.io​
+
+Chat: gitter.im/pangeo-data
+
+
+## Logan starts to look at Data Wrangling - 1st stop portal scraping
+
+- Logan notices some of these files are absolutely HUGE i
+	- wonders about costs of storing
+	- studies this S3 document - [AmazonS3](https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html)
 
 
 2. WEEK THREE - Delaware River Basin AOI
@@ -459,6 +521,10 @@ science_joy = 1 * ec2 + docker * 1e3
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
 ```
+
+# WEEK 4
+
+
 
 ## Final Projects
 https://earth-env-data-science.github.io/projects.html
