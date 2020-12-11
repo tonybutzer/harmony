@@ -506,7 +506,11 @@ Chat: gitter.im/pangeo-data
 
 ## Logan starts to look at Data Wrangling - 1st stop portal scraping
 
-- Logan notices some of these files are absolutely HUGE i
+### Logan 00-notebooks/00-portal-scraping
+
+#### github
+
+- Logan notices some of these files are absolutely HUGE 
 	- wonders about costs of storing
 	- studies this S3 document - [AmazonS3](https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html)
 
@@ -525,6 +529,11 @@ WORKDIR /home/geolambda
 # WEEK 4
 
 
+
+## More Resources - to be sorted
+https://code.chs.usgs.gov/pangeo/notebooks/landsat/-/tree/master/Advanced%20Tutorial
+
+https://code.chs.usgs.gov/pangeo/notebooks
 
 ## Final Projects
 https://earth-env-data-science.github.io/projects.html
