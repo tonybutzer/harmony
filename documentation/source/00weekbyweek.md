@@ -471,8 +471,10 @@ science_joy = 1 * ec2 + docker * 1e3
 - Logan remembers that the desktop tax they used to projects charge was $4000/year - 
 - Logan also notes this will be for 4-5 science users
 - Logan wonders if he should bring up reserved instances and decides - well I'll have that in my pocket
-- Logan ok so for a standrad reserved and everything up to on-demand it would be $100 to $111 to $141
+- Logan ok so for a standard-reserved and everything up to on-demand it would be $100 to $111 to $141
 	- Logan decides it will cost more to meet on this than the dollars it saves.
+	- Logan thinks about this decision and again Logani decides
+		- it will cost more to meet on this than the dollars it saves.
 
 Now that logan has determined his main ec2 computer and calculated the costs its time to spin up the system and bring up some foundation technologies.
 
