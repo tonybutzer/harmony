@@ -623,6 +623,12 @@ top
 		- geojson and shapefile
 		- folium
 	- docker 
+
+
+## Logan uses Jupyter to "bread-board" his python
+- then he creates python libraries/packages with setuptools and setup.py
+- Logan wants to show his fellow scientist how this is done 
+- and don't foget building and orchestrating docker containers - Logan makes a mental note
 ```
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
