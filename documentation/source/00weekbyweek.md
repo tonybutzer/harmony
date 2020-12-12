@@ -436,6 +436,22 @@ science_joy = 1 * ec2 + docker * 1e3
 
 # WEEK 3 - Meet Logan
 
+## Summary 
+- This week we demonstrate how easy it ist to work with geojson and quickly display extents:
+- Our huge source files that are 1/2 of CONUS
+- Our semi-big general Area of Interest (AOI)
+- Our smaller school/class size imagery to be stuffed in an Xarray - what else?
+
+### We also explore command tools for
+- GDAL window slurping accross the net
+- rio for getting the extent bounds into a geojson
+- aws s3 ls (plus cp, mv, cat) for seeing things in our buckets
+- vsicurl and vsis3 and s3:// 
+
+### We will also build onthings we learned in week one and week two 
+<img src='https://carboncostume.com/wordpress/wp-content/uploads/2013/09/Thing-One-and-Thing-Two.jpg' width=20%>
+
+
 ## Since this class is about case studies
 - This week lets switch to following our Invasive ML AWS Project
 
