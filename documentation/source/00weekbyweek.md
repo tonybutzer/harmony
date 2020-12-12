@@ -529,12 +529,12 @@ Commands:
 
 - [https://calculator.aws/#/](https://calculator.aws/#/)
 - his t3a machine will cost $141.79 - Logan doubles that for his boss and says $300/month
-- Logan remembers that the desktop tax they used to projects charge was $4000/year - 
+- Logan remembers that the desktop tax they used to charge projects was $4000/year - 
 - Logan also notes this will be for 4-5 science users
 - Logan wonders if he should bring up reserved instances and decides - well I'll have that in my pocket
 - Logan ok so for a standard-reserved and everything up to on-demand it would be $100 to $111 to $141
 	- Logan decides it will cost more to meet on this than the dollars it saves.
-	- Logan thinks about this decision and again Logani decides
+	- Logan thinks about this decision and again Logan decides ...
 		- it will cost more to meet on this than the dollars it saves.
 
 Now that logan has determined his main ec2 computer and calculated the costs its time to spin up the system and bring up some foundation technologies.
@@ -556,21 +556,21 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 ## Logan borrows some material from USGS Workshops
 ### Scientific Software Environment of the Future
 
-    USGS:​
+### USGS:
 
-Try: https://pangeo.chs.usgs.gov​
+- Try: https://pangeo.chs.usgs.gov
 
-Examples: https://code.chs.usgs.gov/pangeo/notebooks​
+- Examples: https://code.chs.usgs.gov/pangeo/notebooks
 
-Join: USGS Pangeo Team: GS-Pangeo
+- Join: USGS Pangeo Team: GS-Pangeo
 
-## Larger Community:​
+## Larger Community:
 
-Follow: medium.com/pangeo​
+- Follow: medium.com/pangeo
 
-Discuss: discourse.pangeo.io​
+- Discuss: discourse.pangeo.io
 
-Chat: gitter.im/pangeo-data
+- Chat: gitter.im/pangeo-data
 
 
 ## Logan starts to look at Data Wrangling - 1st stop portal scraping
