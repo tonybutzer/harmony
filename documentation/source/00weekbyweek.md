@@ -448,7 +448,7 @@ science_joy = 1 * ec2 + docker * 1e3
 - GDAL window slurping accross the net
 - rio for getting the extent bounds into a geojson
 - aws s3 ls (plus cp, mv, rm, cat) for seeing things in our s3 buckets
-	- Logan notices the s3 commands are a direct corollary/map to the LINUX commands for files
+	- Logan notices the `s3 commands` are a direct corollary/map to the `LINUX commands` for files
 - vsicurl and vsis3 and s3:// 
 
 ### We will also build on things we learned in week one and week two 
