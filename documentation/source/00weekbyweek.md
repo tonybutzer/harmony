@@ -448,12 +448,57 @@ science_joy = 1 * ec2 + docker * 1e3
 - aws s3 ls (plus cp, mv, cat) for seeing things in our buckets
 - vsicurl and vsis3 and s3:// 
 
-### We will also build onthings we learned in week one and week two 
+### We will also build on things we learned in week one and week two 
 <img src='https://carboncostume.com/wordpress/wp-content/uploads/2013/09/Thing-One-and-Thing-Two.jpg' width=20%>
 
 
 ## Since this class is about case studies
-- This week lets switch to following our Invasive ML AWS Project
+- This week lets switch to following our Invasive Machine-Learning (SageMaker) AWS Project
+- Neal is working with CHS to get his cloud space started up with a very small server
+- Then Logan will create and destroy on-demand computers at will for Neal and the Team
+
+## Quick a word about rio
+
+- ! rio --help
+
+```
+Usage: rio [OPTIONS] COMMAND [ARGS]...
+
+  Rasterio command line interface.
+
+Options:
+  -v, --verbose           Increase verbosity.
+  -q, --quiet             Decrease verbosity.
+  --aws-profile TEXT      Select a profile from the AWS credentials file
+  --aws-no-sign-requests  Make requests anonymously
+  --aws-requester-pays    Requester pays data transfer costs
+  --version               Show the version and exit.
+  --gdal-version
+  --help                  Show this message and exit.
+
+Commands:
+  blocks     Write dataset blocks as GeoJSON features.
+  bounds     Write bounding boxes to stdout as GeoJSON.
+  calc       Raster data calculator.
+  clip       Clip a raster to given bounds.
+  convert    Copy and convert raster dataset.
+  edit-info  Edit dataset metadata.
+  env        Print information about the Rasterio environment.
+  gcps       Print ground control points as GeoJSON.
+  info       Print information about a data file.
+  insp       Open a data file and start an interpreter.
+  mask       Mask in raster using features.
+  merge      Merge a stack of raster datasets.
+  overview   Construct overviews in an existing dataset.
+  rasterize  Rasterize features.
+  rm         Delete a dataset.
+  sample     Sample a dataset.
+  shapes     Write shapes extracted from bands or masks.
+  stack      Stack a number of bands into a multiband dataset.
+  transform  Transform coordinates.
+  warp       Warp a raster dataset.
+```
+
 
 ## Objectives - 
 1. Answer some of the staffing needs in the cloud.
