@@ -590,13 +590,22 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 	- wonders about costs of storing
 	- studies this S3 document - [AmazonS3](https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html)
 
-
-2. WEEK THREE - Delaware River Basin AOI
-	- https://panel.holoviz.org/reference/widgets/FileDownload.html
+	- Logan needs to use these linux commands
+```
+ls -lh
+du -hd 2 .
+df -h .
+free -h
+lscpu
+uptime
+top
+```
+	- He thinks his students should play with those commands in the terminal
+		- He also thinks he himself should get familiar with those in case people ask him to explain this Linux stuff
 	- How to display AOI in Jupyter
 		- geojson and shapefile
 		- folium
-- docker 
+	- docker 
 ```
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
@@ -605,6 +614,9 @@ WORKDIR /home/geolambda
 # WEEK 4
 
 
+
+2. WEEK whenever - Delaware River Basin AOI
+	- https://panel.holoviz.org/reference/widgets/FileDownload.html
 
 ## More Resources - to be sorted
 https://code.chs.usgs.gov/pangeo/notebooks/landsat/-/tree/master/Advanced%20Tutorial
