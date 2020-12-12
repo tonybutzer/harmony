@@ -522,6 +522,15 @@ Commands:
 ## A day in the life of Logan the data slayer
 
 ### Logan sets up his git repo
+[https://github.com/tonybutzer/logan](https://github.com/tonybutzer/logan)
+[https://github.com/tonybutzer/logan/tree/main/00-notebooks/00-portal-scraping](https://github.com/tonybutzer/logan/tree/main/00-notebooks/00-portal-scraping)
+
+- logan reviews Neal-Bruce-Dev-Rigge-et-al-half-of-eros-paper-here
+	- [exotic phenology](https://github.com/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/Characterizing_Land_Surface_Phenology_and_Exotic_A.pdf)
+
+## Logan's coolest notebooks
+[readme notebook](https://github.com/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/00-readme.ipynb)
+
 
 ### Logan creates his new server
 
