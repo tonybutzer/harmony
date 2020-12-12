@@ -2,7 +2,7 @@
 
 # ET Case Study Project Charter
 
-[](./Assets/VegET-DRB-Rouze.PNG)
+![](./Assets/VegET-DRB-Rouze.PNG)
 
 ## Prior Art
 ### Science Focused Detailed Training
