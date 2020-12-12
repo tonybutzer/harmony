@@ -485,6 +485,12 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 
 ## Logan now wants to train his users 
 - and the scientists on his team are a tough crowd
+- logan does not like propietary formats
+	- ERDAS IMAGINE
+	- ESRI Shapefile
+- logan likes geojson and geotiff files - FOR EVERYTHING
+- logan can create and download geojson files using this site
+	- [http://geojson.io](http://geojson.io)
 
 ## Logan borrows some material from USGS Workshops
 ### Scientific Software Environment of the Future
