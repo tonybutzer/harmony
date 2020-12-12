@@ -443,7 +443,8 @@ science_joy = 1 * ec2 + docker * 1e3
 		- Our semi-big general Area of Interest (AOI)
 		- Our smaller school/class size imagery to be stuffed in an Xarray - what else?
 
-### We also explore command tools for
+### We also explore command line tools for
+- gotta learn to love the cli if you want to be a power user - of just about any tool
 - GDAL window slurping accross the net
 - rio for getting the extent bounds into a geojson
 - aws s3 ls (plus cp, mv, cat) for seeing things in our buckets
