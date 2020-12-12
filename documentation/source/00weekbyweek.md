@@ -543,7 +543,7 @@ Commands:
 - his t3a machine will cost $141.79 - Logan doubles that for his boss and says $300/month
 - Logan remembers that the desktop tax they used to charge projects was $4000/year - 
 - Logan also notes this will be for 4-5 science users
-- Logan wonders if he should bring up reserved instances and decides - well I'll have that in my pocket
+- Logan wonders if he should bring up reserved instances and decides - "well I'll have that in my pocket"
 - Logan ok so for a standard-reserved and everything up to on-demand it would be $100 to $111 to $141
 	- Logan decides it will cost more to meet on this than the dollars it saves.
 	- Logan thinks about this decision and again Logan decides ...
