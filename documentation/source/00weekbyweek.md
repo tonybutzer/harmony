@@ -554,7 +554,7 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 	- [http://geojson.io](http://geojson.io)
 
 ## Logan borrows some material from USGS Workshops
-### Scientific Software Environment of the Future
+### Scientific Software Environment of the Future - Rich Signell
 
 ### USGS:
 
