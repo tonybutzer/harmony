@@ -437,10 +437,11 @@ science_joy = 1 * ec2 + docker * 1e3
 # WEEK 3 - Meet Logan
 
 ## Summary 
-- This week we demonstrate how easy it ist to work with geojson and quickly display extents:
-- Our huge source files that are 1/2 of CONUS
-- Our semi-big general Area of Interest (AOI)
-- Our smaller school/class size imagery to be stuffed in an Xarray - what else?
+- This week we demonstrate how easy it is to work in the cloud i
+	-  with geojson and quickly display extents:
+		- Our huge source files that are 1/2 of CONUS
+		- Our semi-big general Area of Interest (AOI)
+		- Our smaller school/class size imagery to be stuffed in an Xarray - what else?
 
 ### We also explore command tools for
 - GDAL window slurping accross the net
