@@ -437,8 +437,8 @@ science_joy = 1 * ec2 + docker * 1e3
 # WEEK 3 - Meet Logan
 
 ## Summary 
-- This week we demonstrate how easy it is to work in the cloud i
-	-  with geojson and quickly display extents:
+- This week we demonstrate how easy it is to work in the cloud
+	-  by using geojson to quickly display extents:
 		- Our huge source files that are 1/2 of CONUS
 		- Our semi-big general Area of Interest (AOI)
 		- Our smaller school/class size imagery to be stuffed in an Xarray - what else?
@@ -453,6 +453,12 @@ science_joy = 1 * ec2 + docker * 1e3
 
 ### We will also build on things we learned in week one and week two 
 <img src='https://carboncostume.com/wordpress/wp-content/uploads/2013/09/Thing-One-and-Thing-Two.jpg' width=20%>
+
+### Finally; we will explore a bucket of portal scraped inputs
+
+```
+aws s3 ls s3://dev-et-data/logan/in/raw/
+```
 
 
 ## Since this class is about case studies
@@ -540,7 +546,7 @@ Commands:
 #### Selects t3a.xlarge with 400 Gig of disk
 
 - [https://calculator.aws/#/](https://calculator.aws/#/)
-- his t3a machine will cost $141.79 - Logan doubles that for his boss and says $300/month
+- his t3a `[t3a.xlarge]` machine will cost $141.79 - Logan doubles that for his boss and says $300/month
 - Logan remembers that the desktop tax they used to charge projects was $4000/year - 
 - Logan also notes this will be for 4-5 science users
 - Logan wonders if he should bring up reserved instances and decides - "well I'll have that in my pocket"
