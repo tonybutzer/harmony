@@ -630,17 +630,41 @@ top
 		- folium
 	- docker 
 
+## Featured Notebooks
+### nbviewer.jupyter.org
+- https://nbviewer.jupyter.org/github/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/00-geojson-using-lib-logans-extents-displayed.ipynb
+
+
+
+### Runable as user harmony
+
+- http://10.12.69.233/user/harmony/notebooks/opt/logan/00-notebooks/00-portal-scraping/00-geojson-using-lib-logans-extents-displayed.ipynb
+- http://10.12.69.233/user/harmony/notebooks/opt/logan/00-notebooks/00-portal-scraping/01-download-trials-annual-herbacious.ipynb
+
+- http://10.12.69.233/user/harmony/notebooks/opt/logan/00-notebooks/00-portal-scraping/01-xarray-101.ipynb#Later-we-choose-some-cmaps---palletes---here-are-some-of-the-options
+
+
 
 ## Logan uses Jupyter to "bread-board" his python
 - then he creates python libraries/packages with setuptools and setup.py
 - Logan wants to show his fellow scientist how this is done 
 - and don't foget building and orchestrating docker containers - Logan makes a mental note
+
+
+
+---
+
+## END OF WEEK 3
+
+- next week we will look at more xarray code - and Logan's additional wrangling steps
+---
+
+# WEEK 4
 ```
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
 ```
 
-# WEEK 4
 
 
 
