@@ -444,6 +444,10 @@ science_joy = 1 * ec2 + docker * 1e3
 > [10:13 AM] Megard, Logan J
 > Looks like to convert the .img you can either use  [gdal_translate -of GTiff Test.img New.tif] or [rio convert Test.img rio.tif]
 
+- Matt Rigge is correct unzipping is an extra burden
+- Also did I mention proprietary data formats are an extra pain
+	- we don't like vendor lockin strategies in an Open Systems World
+
 
 ## Review
 ### You should work in the cloud
