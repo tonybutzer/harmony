@@ -439,7 +439,10 @@ science_joy = 1 * ec2 + docker * 1e3
 ## Logan's assignment:
 ### Data Wrangling --> Portal Scraping
 
-- Logan needs to download Neal's invasive AOI
+- Logan needs to download Neal's invasive AOI input data
+	- This week he will load rangeland cover v2.0 
+		- Band 1 --> annual forb and grass
+			- forb - herbaceous flowering plants
 - Fortunately Neal only needs Band 1 from the image and a small subset windowed
 	- else its half of CONUS and 136 Gigabytes per file
 - Also fortunately the web site has a Readme file with an example `gdal_translate` command
