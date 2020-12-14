@@ -487,6 +487,9 @@ aws s3 ls s3://dev-et-data/logan/in/raw/
 
 ## Quick a word about rio
 
+- `rio is the command line tool - swiss army knife for data wranglers`
+- like gdal for dummies; build on rasterio/gdal
+
 - ! rio --help
 
 ```
@@ -671,6 +674,9 @@ Logan tryes these commands by bringig up a terminal
 - then he creates python libraries/packages with setuptools and setup.py
 - Logan wants to show his fellow scientist how this is done 
 - and don't foget building and orchestrating docker containers - Logan makes a mental note
+
+- [Makefile](https://github.com/tonybutzer/logan/blob/main/api/Makefile)
+- [wr_rangeland.py](https://github.com/tonybutzer/logan/blob/main/api/wr_rangeland.py)
 
 
 
