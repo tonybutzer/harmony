@@ -653,11 +653,21 @@ Logan tryes these commands by bringig up a terminal
 	- folium
 	- docker 
 
+---
+## Why Libraries/packages
+- code reuse is easier
+- keep notebooks smaller and they flow better for the reader
+- abstact complex code
+- installable with `pip`
+- example library
+	- [https://github.com/tonybutzer/logan/blob/main/loganLib/loganLib/fm_map.py](https://github.com/tonybutzer/logan/blob/main/loganLib/loganLib/fm_map.py)
+
+---
 ## Featured Notebooks
 ### nbviewer.jupyter.org
 - [geojson extent1](https://nbviewer.jupyter.org/github/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/00-geojson-using-lib-logans-extents-displayed.ipynb)
-- 
 
+---
 
 
 ### Runable as user harmony
