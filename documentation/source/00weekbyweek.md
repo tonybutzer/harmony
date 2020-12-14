@@ -623,11 +623,12 @@ lscpu
 uptime
 top
 ```
-	- He thinks his students should play with those commands in the terminal
-		- He also thinks he himself should get familiar with those in case people ask him to explain this Linux stuff
-	- How to display AOI in Jupyter
-		- geojson and shapefile
-		- folium
+Logan tryes these commands by bringig up a terminal
+- He thinks his students should play with those commands in the terminal
+	- He also thinks he himself should get familiar with those in case people ask him to explain this Linux stuff
+- How to display AOI in Jupyter
+	- geojson and shapefile
+	- folium
 	- docker 
 
 ## Featured Notebooks
