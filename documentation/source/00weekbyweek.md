@@ -632,7 +632,8 @@ Now that logan has determined his main ec2 computer and calculated the costs its
 - Chat: gitter.im/pangeo-data
 
 
-## Logan starts to look at Data Wrangling - 1st stop portal scraping
+## Logan starts to look at Data Wrangling 
+- ### 1st stop portal scraping
 
 - Logan sighs and wishes everything was just in COGs and used STAC - but you can't change the science world overnight
 - Logan shoots Dev Dahal a quick email with links to his favorite public data sets:
