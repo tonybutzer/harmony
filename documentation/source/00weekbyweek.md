@@ -436,6 +436,15 @@ science_joy = 1 * ec2 + docker * 1e3
 
 # WEEK 3 - Meet Logan
 
+## Crowd Source
+
+- http://10.12.69.233/user/harmony/tree/opt/logan/00-notebooks/00-portal-scraping/00-MRLC-Notebooks/IMG
+
+### Logan Writes
+> [10:13 AM] Megard, Logan J
+> Looks like to convert the .img you can either use  [gdal_translate -of GTiff Test.img New.tif] or [rio convert Test.img rio.tif]
+
+
 ## Review
 ### You should work in the cloud
 - A CHS CUSTOM account is useful
