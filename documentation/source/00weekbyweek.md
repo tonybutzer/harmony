@@ -660,7 +660,7 @@ lscpu
 uptime
 top
 ```
-Logan tryes these commands by bringig up a terminal
+Logan trys these commands by bringig up a terminal
 - He thinks his students should play with those commands in the terminal
 	- He also thinks he himself should get familiar with those in case people ask him to explain this Linux stuff
 - How to display AOI in Jupyter
@@ -713,6 +713,8 @@ Logan tryes these commands by bringig up a terminal
 ---
 
 # WEEK 4
+
+### more work by logan
 ```
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
@@ -733,6 +735,8 @@ https://code.chs.usgs.gov/pangeo/notebooks
 https://earth-env-data-science.github.io/projects.html
 
 ## Rich Signell Influence, Experience and Why Cloud
+
+https://medium.com/pangeo/cloud-performant-netcdf4-hdf5-with-zarr-fsspec-and-intake-3d3a3e7cb935
 
 Tony, I discovered something by Accident today.   If you add use "panel" as your urlpath in binder, it displays all your notebooks with Panel as apps.    Check out the last binder link here: 
 https://github.com/reproducible-notebooks/Holoviz-Demos#holoviz-demos
