@@ -712,7 +712,13 @@ Logan trys these commands by bringig up a terminal
 - next week we will look at more xarray code - and Logan's additional wrangling steps
 ---
 
-# WEEK 4
+# WEEK 4 - Standing up Your First Instance in the Cloud
+
+## Related Efforts 
+
+- Project Thundercloud
+
+![](Assets/thunder_cloud.PNG)
 
 ### more work by logan
 ```
