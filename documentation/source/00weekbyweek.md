@@ -720,6 +720,13 @@ Logan trys these commands by bringig up a terminal
 
 ![](Assets/thunder_cloud.PNG)
 
+https://marine.usgs.gov/coastalchangehazardsportal/
+
+>  Science, not operations.  Changing, not fixed.   And the world, not local.   We want to get to a flexible computing platform that lets us pay only for what we use, but lets us use whatever we want.  Lets us experiment, lets us scale, lets us not wait in queues, and lets us do our research as efficiently and effectively as we can.  And a platform where can join other agencies and partners from around the world to share data, tools and approaches to help understand and protect our planet.  This is what the Cloud has to offer.  -- Dr. Rob Thieler
+
+
+![rob](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/side_image/public/thumbnails/image/Rob-Thieler.jpg)
+
 ### more work by logan
 ```
 FROM developmentseed/geolambda:full
