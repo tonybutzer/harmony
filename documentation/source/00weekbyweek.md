@@ -433,7 +433,7 @@ science_joy = 1 * ec2 + docker * 1e3
 ---
 
 
-# WEEK 3 - Meet Logan
+## WEEK 3 - Meet Logan
 
 
 ## Logan's assignment:
@@ -722,10 +722,15 @@ Logan trys these commands by bringig up a terminal
 
 https://marine.usgs.gov/coastalchangehazardsportal/
 
->  Science, not operations.  Changing, not fixed.   And the world, not local.   We want to get to a flexible computing platform that lets us pay only for what we use, but lets us use whatever we want.  Lets us experiment, lets us scale, lets us not wait in queues, and lets us do our research as efficiently and effectively as we can.  And a platform where can join other agencies and partners from around the world to share data, tools and approaches to help understand and protect our planet.  This is what the Cloud has to offer.  -- Dr. Rob Thieler
+>  *"Science, not operations.  Changing, not fixed.   And the world, not local.   We want to get to a flexible computing platform that lets us pay only for what we use, but lets us use whatever we want.  Lets us experiment, lets us scale, lets us not wait in queues, and lets us do our research as efficiently and effectively as we can.  And a platform where can join other agencies and partners from around the world to share data, tools and approaches to help understand and protect our planet.  This is what the Cloud has to offer."  -- Dr. Rob Thieler*
 
 
 ![rob](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/side_image/public/thumbnails/image/Rob-Thieler.jpg)
+
+## Data Wrangling Tip of The Week 
+	- Jennifer Rover and Kelcy Smith
+	- Pixel location it varies - especially in proprietary data format headers
+	- know what your pipeline creates - lest you be a propagator of garbage
 
 ### more work by logan
 ```
