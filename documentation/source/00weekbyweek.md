@@ -739,6 +739,54 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 - GIS Expert 
 - Emerging DevOps Cloud Engineer
 
+```bash
+1. Create ssh-keygen to make an ssh key for your command prompt
+	Save the ssh key so the key can be added to your instance
+		so you can log onto it once its added
+
+2. Log onto aws console. Select region (Oregon West), 
+	Go to dashboard and EC2.
+	create key pairs (Save keypair)
+
+3. Launch instance, free tier only
+	ubuntu 18
+	t2 micro
+	Need a vpc and subnet
+	storage
+	tags
+	Security
+	review and launch
+	add key pair (one I already have)
+
+4. connect via .pem location
+	need to be in file location
+	launch initial instance
+
+5. set up new keygen
+	cat authorized_keys or cat ~/.ssh/authorized_keys
+	vi authorized_key
+
+6. cd /opt
+	git clone https://github.com/tonybutzer/logan
+	ls
+	dir
+	
+7. sudo apt update
+	sudo apt install python3
+
+8. ping 8.8.8.8
+	history
+	lscpu
+	uptime
+	
+9. logout
+	stop instance
+	terminate instance
+
+Done :)
+		
+```
+
 ![aws](Assets/aws_console.PNG)
 
 ---
