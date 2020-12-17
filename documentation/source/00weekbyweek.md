@@ -739,6 +739,10 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 - GIS Expert 
 - Emerging DevOps Cloud Engineer
 
+### Picture of the AWS Console
+![aws](Assets/aws_console.PNG)
+
+
 ```bash
 1. Create ssh-keygen to make an ssh key for your command prompt
 	Save the ssh key so the key can be added to your instance
@@ -787,7 +791,94 @@ Done :)
 		
 ```
 
-![aws](Assets/aws_console.PNG)
+---
+
+## Logan captures great notes to be used as a cheat sheet
+### Logan heard that Steffi Kagone has some notes as well
+
+---
+```bash
+Names:
+ssh -i megard-uswest-keypair.pem ubuntu@10.12.68.132
+	log into inital instance for Ec2
+	need the .pem key to log on the first time
+
+cat authorized_keys or cat ~/.ssh/authorized_keys
+	shows .pem and other ssh keys added
+
+ssh-keygen
+	creates ssh key for your cmd (keep a copy to add to the server)
+
+ssh-rsa
+	shows key
+
+vi authorized_key
+	adds 
+
+ssh ubuntu@[ip_address]
+	log into ip address (Ec2 instance)
+
+uptime
+	shows time for ec2 instance
+
+lscpu
+	shows build of ec2 instance (cpu, memory ...)
+
+who
+	shows who is on the server
+
+w
+	shows how much cpu and memory is being used and by what
+
+ping 8.8.8.8
+	shows speed test of server (ctr+d or ctr+c to exit)
+
+
+
+logout
+	leave server (Ec2 instance)
+
+sudo apt update
+	looks for update for packages
+
+sudo apt install [python3]
+	installs package
+
+pwd
+	print working directory
+
+cd
+	moves into the folder
+
+git clone [http address]
+	Copies git folder to current directory
+
+ls
+	shows whats in current directory
+
+dir 
+	shows everything in directory
+
+more [file]
+	shows information about file
+
+cat [file]
+	looks inside folder
+
+history
+	prints out full history of commands in session
+
+
+
+Custom:
+
+pinstance
+	- status - shows all ec2 instances in the VPC #eco in this case.
+	- start - starts an instance - spins it up
+	- stop - stops an instance - spins it down - #AWS does not charge money for spun down instances
+
+pin - bash alias for pinstance status | grep -A1 megard
+```
 
 ---
 ## END of WEEK 4 - Happy Holidays
