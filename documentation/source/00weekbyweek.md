@@ -860,10 +860,11 @@ dir
 	shows everything in directory
 
 more [file]
-	shows information about file
+	displays a text file stopping at a page of the screen
 
 cat [file]
-	looks inside folder
+	stands for concatinate and print to screen - same as more but does not use a PAGER
+
 
 history
 	prints out full history of commands in session
