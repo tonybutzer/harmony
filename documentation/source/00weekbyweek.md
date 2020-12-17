@@ -735,9 +735,10 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 ## Using the AWS Console to Create 
 
 ### Introducing Logan Megard 
-- #### GIS Expert 
-- #### Emerging DevOps Cloud Engineer
+- GIS Expert 
+- Emerging DevOps Cloud Engineer
 
+![aws](Assets/aws_console.PNG)
 
 ---
 ## END of WEEK 4 - Happy Holidays
