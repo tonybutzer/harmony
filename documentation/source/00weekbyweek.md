@@ -728,11 +728,21 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 ![rob](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/side_image/public/thumbnails/image/Rob-Thieler.jpg)
 
 ## Data Wrangling Tip of The Week 
-	- Jennifer Rover and Kelcy Smith
+- Jennifer Rover and Kelcy Smith
 	- Pixel location it varies - especially in proprietary data format headers
 	- know what your pipeline creates - lest you be a propagator of garbage
 
-### more work by logan
+## Using the AWS Console to Create 
+
+### Introducing Logan Megard - GIS Expert - Emerging DevOps Cloud Engineer
+
+
+---
+## END of WEEK 4 - Happy Holidays
+---
+
+
+
 ```
 FROM developmentseed/geolambda:full
 WORKDIR /home/geolambda
