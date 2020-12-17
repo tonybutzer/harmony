@@ -729,8 +729,9 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 
 ## Data Wrangling Tip of The Week 
 - Jennifer Rover and Kelcy Smith
-	- Pixel location it varies - especially in proprietary data format headers
+	- Pixel location --> it varies - especially in proprietary data format headers
 	- know what your pipeline creates - lest you be a propagator of garbage
+	- nudge a pixel if its off center and not alligned with the rest of your data friends
 
 ## Using the AWS Console to Create 
 
