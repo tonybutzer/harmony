@@ -886,7 +886,7 @@ pin - bash alias for pinstance status | grep -A1 megard
 ---
 
 ---
-### Interstitual
+### Interstitial
 
 <img src="https://miro.medium.com/max/1200/1*M9Clwvz95IGShrVqQ-4VIw.png" width=50%>
 
