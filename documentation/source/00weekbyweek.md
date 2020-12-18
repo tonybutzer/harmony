@@ -885,6 +885,17 @@ pin - bash alias for pinstance status | grep -A1 megard
 ## END of WEEK 4 - Happy Holidays
 ---
 
+---
+### Interstitual
+
+![](https://miro.medium.com/max/1200/1*M9Clwvz95IGShrVqQ-4VIw.png)
+
+Examples of common forbs: 
+- poison oak (top left), -
+- western ragweed (top right), 
+- silverleaf croton (bottom left) 
+- and green briar (bottom right)
+
 
 
 ```
