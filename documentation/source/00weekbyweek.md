@@ -660,7 +660,7 @@ lscpu
 uptime
 top
 ```
-Logan trys these commands by bringig up a terminal
+Logan trys these commands by bringing up a terminal
 - He thinks his students should play with those commands in the terminal
 	- He also thinks he himself should get familiar with those in case people ask him to explain this Linux stuff
 - How to display AOI in Jupyter
@@ -881,6 +881,10 @@ pinstance
 pin - bash alias for pinstance status | grep -A1 megard
 ```
 
+## PANGEO MISSION STATEMENT
+
+> *Our mission is to cultivate an ecosystem in which the next generation of open-source analysis tools for ocean, atmosphere and climate science can be developed, distributed, and sustained. These tools must be scalable in order to meet the current and future challenges of big data, and these solutions should leverage the existing expertise outside of the geoscience community.*
+
 ---
 ## END of WEEK 4 - Happy Holidays
 ---
@@ -897,6 +901,80 @@ Examples of common forbs:
 - and green briar (bottom right)
 
 
+
+# WEEK 5
+
+## IAM
+
+- aws iam list-attached-role-policies --role-name lsds-developer-ec2
+
+
+```
+{
+    "AttachedPolicies": [
+        {
+            "PolicyName": "ReadOnlyAccess",
+            "PolicyArn": "arn:aws:iam::aws:policy/ReadOnlyAccess"
+        },
+        {
+            "PolicyName": "lsds-developer-app-integration",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-app-integration"
+        },
+        {
+            "PolicyName": "lsds-developer-management-tools",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-management-tools"
+        },
+        {
+            "PolicyName": "lsds-developer-compute-containers",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-compute-containers"
+        },
+        {
+            "PolicyName": "lsds-developer-compute-ec2",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-compute-ec2"
+        },
+        {
+            "PolicyName": "lsds-developer-compute-misc",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-compute-misc"
+        },
+        {
+            "PolicyName": "lsds-developer-beta-dms",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-beta-dms"
+        },
+        {
+            "PolicyName": "lsds-developer-alpha-ecr",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-alpha-ecr"
+        },
+        {
+            "PolicyName": "lsds-developer-analytics",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-analytics"
+        },
+        {
+            "PolicyName": "lsds-developer-storage",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-storage"
+        },
+        {
+            "PolicyName": "csr-Developer-Permissions-Boundary",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/csr-Developer-Permissions-Boundary"
+        },
+        {
+            "PolicyName": "lsds-developer-database",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-database"
+        },
+        {
+            "PolicyName": "lsds-developer-permission-boundary",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-permission-boundary"
+        },
+        {
+            "PolicyName": "lsds-developer-security-id-compliance",
+            "PolicyArn": "arn:aws:iam::574826924367:policy/lsds-developer-security-id-compliance"
+        }
+    ]
+}
+
+```
+---
+
+---
 
 ```
 FROM developmentseed/geolambda:full
