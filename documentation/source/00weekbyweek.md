@@ -886,6 +886,12 @@ pin - bash alias for pinstance status | grep -A1 megard
 > *Our mission is to cultivate an ecosystem in which the next generation of open-source analysis tools for ocean, atmosphere and climate science can be developed, distributed, and sustained. These tools must be scalable in order to meet the current and future challenges of big data, and these solutions should leverage the existing expertise outside of the geoscience community.*
 
 ---
+
+## Stuart Udahl
+
+> *Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.*
+
+---
 ## END of WEEK 4 - Happy Holidays
 ---
 
