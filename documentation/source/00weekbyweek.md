@@ -714,6 +714,8 @@ Logan trys these commands by bringing up a terminal
 
 # WEEK 4 - Standing up Your First Instance in the Cloud
 
+## You really should be doing science in `the cloud`
+
 ## Related Efforts 
 
 - Project Thundercloud
@@ -732,6 +734,18 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 	- Pixel location --> it varies - especially in proprietary data format headers
 	- know what your pipeline creates - lest you be a propagator of garbage
 	- nudge a pixel if its off center and not alligned with the rest of your data friends
+
+
+## Network tip of the week
+- pushing data to the cloud is faster from EROS OA then thu the VPN - duh!
+	- the 152.61.40.0 network is called the Office Automation Network 
+		- it has access to the cloud CHS
+	- the 137.227.0.0/16 address space is via the VPN and its considerably slower  
+- Logan pointed out that the speed of then net was faster from his VDI
+	- so we used putty, puttygen, pageant, filezilla and port 22 to xfer files up
+	- after we created another t3a-2xlarge with terraform out of thin air.
+
+### So use the VDI and FileZilla for pre-wrangled data on a windows network share Y: W: ...
 
 ## Using the AWS Console to Create 
 
