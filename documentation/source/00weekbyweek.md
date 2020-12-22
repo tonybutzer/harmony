@@ -739,7 +739,7 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 
 
 ## Network tip of the week
-- pushing data to the cloud is faster from EROS OA then thu the VPN - duh!
+- pushing data to the cloud is faster from EROS OA then thru the VPN - duh!
 	- the 152.61.40.0 network is called the Office Automation Network 
 		- it has access to the cloud CHS
 	- the 137.227.0.0/16 address space is via the VPN and its considerably slower  
