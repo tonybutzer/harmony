@@ -716,6 +716,8 @@ Logan trys these commands by bringing up a terminal
 
 ## You really should be doing science in `the cloud`
 
+## LCMAP to move to the cloud and use S3 and Xarray - Jon Morton
+
 ## Related Efforts 
 
 - Project Thundercloud
@@ -749,7 +751,9 @@ https://marine.usgs.gov/coastalchangehazardsportal/
 
 ## Using the AWS Console to Create 
 
-### Introducing Logan Megard 
+### Introducing Logan Megard by Neal Pastick
+- What's going on in your project Neal
+- Only One week with AWS and we already have our instances up
 - GIS Expert 
 - Emerging DevOps Cloud Engineer
 
