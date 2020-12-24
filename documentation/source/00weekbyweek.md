@@ -988,7 +988,7 @@ Cheers,
 
 
 **My friend once told me "You must be the most pedantic person in the entire world."**
-"Third most, actually." -- :-)
+- "Third most, actually." -- :-)
 
 ---
 
