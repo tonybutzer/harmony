@@ -970,7 +970,7 @@ Below is a summary of the compression ratios of each method in the worst case:
 
 Hey Tony
 
-And hey Jeff and Jon
+And hey Jeff [Briden] and Jon [Morton] of {LCMAP FAME}
 
 Happy to talk about how we do ODC work in the cloud, including doing continental-scale data processing work.
 
