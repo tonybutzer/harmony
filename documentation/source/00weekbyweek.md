@@ -1008,6 +1008,7 @@ Cheers,
 - but if you do there's an app for that - I mean a Jupyter Notebook for that!
 
 - aws iam list-attached-role-policies --role-name lsds-developer-ec2
+- Jupyter notebooks simplify every complex concept :-)
 
 
 ```
