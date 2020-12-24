@@ -712,7 +712,7 @@ Logan trys these commands by bringing up a terminal
 - next week we will look at more xarray code - and Logan's additional wrangling steps
 ---
 
-# WEEK 4 - Standing up Your First Instance in the Cloud
+## WEEK 4 - Standing up Your First Instance in the Cloud
 
 ## You really should be doing science in `the cloud`
 
@@ -1004,9 +1004,8 @@ Cheers,
 
 ## Logan Data Wrangling, S3 and early validation notebooks
 
-## IAM - things you will never - need
+## IAM - things you will never, ever, need to know - Whew!
 - but if you do there's an app for that - I mean a Jupyter Notebook for that!
-
 - aws iam list-attached-role-policies --role-name lsds-developer-ec2
 - Jupyter notebooks simplify every complex concept :-)
 
