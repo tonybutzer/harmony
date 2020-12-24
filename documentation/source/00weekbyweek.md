@@ -926,7 +926,24 @@ Examples of common forbs:
 
 
 
-# WEEK 5
+# WEEK 5 - Data Wrangling is Underway - Understanding S3
+
+## Understanding COGs and NonCOGs
+
+
+### A word about Data Compression
+
+Below is a summary of the compression ratios of each method in the worst case: 10-meter Sentinel-2 bands, internal tiling and overviews.
+Method 	Compression ratio 	Reasons to use
+| method | Compression Ration | Reason to use |
+| ------| -----------| ---------------------|
+| LZW 	| 1.16:1 | Quick to run and easy to adopt |
+| DEFLATE | 1.38:1 | A slower but better performing alternative to LZW |
+| ZSTD 	| 1.45:1 | Promising, CPU intensive but not mature |
+
+    Table. Summary of the results of the different compression algorithms
+
+
 
 
 ### Email from my OpenDataCube Tasmania Friend
