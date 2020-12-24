@@ -980,6 +980,9 @@ Cheers,
 
 ---
 
+### The Oregon Conundrum - perhaps we should move to us-east-1
+- because that is in Virginia
+
 ![](Assets/AURA-gun.PNG)
 
 
