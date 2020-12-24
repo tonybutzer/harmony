@@ -976,7 +976,7 @@ Happy to talk about how we do ODC work in the cloud, including doing continental
 
 We have some neat new examples using AWS tools like their Simple Queue Service along with Kubernetes to run a whole of Africa pixel quality analysis (so just visiting Sentinel-2's SCL band, over all pixels over Africa) and we're able to process that on 5 large EC2 instances in ~20 minutes, which is fun! Costs us $20 USD.
 
-Our land cover folks are doing something similar in Australia with LCCS, and I could bring them along. They're science users, and are happy working with Python and the ODC along with Kubernetes and job queues to run through that analysis, including iterating quite fast. I'm not sure about the costings of that, but it's been really successful this year!
+Our land cover folks are doing something similar in Australia with LCCS, and I could bring them along. `They're science users, and are happy working with Python and the ODC` along with Kubernetes and job queues to run through that analysis, including iterating quite fast. I'm not sure about the costings of that, but it's been really successful this year!
 
 So yes, happy to talk some time in the new year. Might need to be late Jan when we're all back on board!
 
