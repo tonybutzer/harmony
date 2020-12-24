@@ -933,7 +933,11 @@ Examples of common forbs:
 
 ### A word about Data Compression
 
-Below is a summary of the compression ratios of each method in the worst case: 10-meter Sentinel-2 bands, internal tiling and overviews.
+---
+
+Below is a summary of the compression ratios of each method in the worst case: 
+- 10-meter Sentinel-2 bands, 
+- internal tiling and overviews.
 ---
 
 | method | Compression Ration | Reason to use |
