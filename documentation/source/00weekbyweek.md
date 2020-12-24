@@ -978,6 +978,12 @@ So yes, happy to talk some time in the new year. Might need to be late Jan when 
 
 Cheers,
 
+---
+
+![](Assets/AURA-gun.PNG)
+
+---
+
 
 ## IAM
 
