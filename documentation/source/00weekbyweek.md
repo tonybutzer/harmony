@@ -935,6 +935,7 @@ Examples of common forbs:
 
 Below is a summary of the compression ratios of each method in the worst case: 10-meter Sentinel-2 bands, internal tiling and overviews.
 Method 	Compression ratio 	Reasons to use
+
 | method | Compression Ration | Reason to use |
 | ------| -----------| ---------------------|
 | LZW 	| 1.16:1 | Quick to run and easy to adopt |
@@ -942,6 +943,18 @@ Method 	Compression ratio 	Reasons to use
 | ZSTD 	| 1.45:1 | Promising, CPU intensive but not mature |
 
     Table. Summary of the results of the different compression algorithms
+
+---
+| sign | poet-line |
+| ------| -----------|
+| > | When the Star Belly Sneetches had frankfurter roasts
+| > | Or picnics or parties or marshmallow toasts,
+| > | They never invited the Plain-Belly Sneetches
+| > | They left them out cold, in the dark of the beaches.
+| > | They kept them away.
+| > | Never let them come near.
+| > | And that’s how they treated them year after year.
+
 
 
 
