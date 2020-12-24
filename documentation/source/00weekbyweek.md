@@ -946,7 +946,7 @@ Below is a summary of the compression ratios of each method in the worst case: 1
 
 ---
 
-### Sneetches
+### Sneetches - Markdown Creates Tables.
 
 | sign | poet-line |
 | ------| -----------|
@@ -962,9 +962,7 @@ Below is a summary of the compression ratios of each method in the worst case: 1
 
 
 
-
-
-### Email from my OpenDataCube Tasmania Friend
+### Email from my OpenDataCube Tasmanian Friend
 
 Hey Tony
 
