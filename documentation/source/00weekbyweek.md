@@ -945,16 +945,19 @@ Below is a summary of the compression ratios of each method in the worst case: 1
     Table. Summary of the results of the different compression algorithms
 
 ---
+
 ### Sneetches
+
 | sign | poet-line |
 | ------| -----------|
-| > | When the Star Belly Sneetches had frankfurter roasts
-| > | Or picnics or parties or marshmallow toasts,
-| > | They never invited the Plain-Belly Sneetches
-| > | They left them out cold, in the dark of the beaches.
-| > | They kept them away.
-| > | Never let them come near.
-| > | And that’s how they treated them year after year.
+| > | When the Star Belly Sneetches had frankfurter roasts |
+| > | Or picnics or parties or marshmallow toasts, |
+| > | They never invited the Plain-Belly Sneetches |
+| > | They left them out cold, in the dark of the beaches. |
+| > | They kept them away. |
+| > | Never let them come near. |
+| > | And that’s how they treated them year after year. |
+
 ---
 
 
