@@ -982,6 +982,8 @@ Cheers,
 
 ### The Oregon Conundrum - perhaps we should move to us-east-1
 - because that is in Virginia
+- I found out the 53% of the folks use the fake-pronunciation for Oregon
+	- I am glad I am in the 12% who actually get it right. :-)
 
 ![](Assets/AURA-gun.PNG)
 
