@@ -934,7 +934,7 @@ Examples of common forbs:
 ### A word about Data Compression
 
 Below is a summary of the compression ratios of each method in the worst case: 10-meter Sentinel-2 bands, internal tiling and overviews.
-Method 	Compression ratio 	Reasons to use
+---
 
 | method | Compression Ration | Reason to use |
 | ------| -----------| ---------------------|
@@ -945,6 +945,7 @@ Method 	Compression ratio 	Reasons to use
     Table. Summary of the results of the different compression algorithms
 
 ---
+### Sneetches
 | sign | poet-line |
 | ------| -----------|
 | > | When the Star Belly Sneetches had frankfurter roasts
@@ -954,6 +955,7 @@ Method 	Compression ratio 	Reasons to use
 | > | They kept them away.
 | > | Never let them come near.
 | > | And that’s how they treated them year after year.
+---
 
 
 
