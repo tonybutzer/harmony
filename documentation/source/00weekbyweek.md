@@ -1002,8 +1002,10 @@ Cheers,
 
 ---
 
+## Logan Data Wrangling, S3 and early validation notebooks
 
-## IAM
+## IAM - things you will never - need
+- but if you do there's an app for that - I mean a Jupyter Notebook for that!
 
 - aws iam list-attached-role-policies --role-name lsds-developer-ec2
 
