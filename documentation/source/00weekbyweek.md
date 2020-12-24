@@ -974,7 +974,7 @@ And hey Jeff [Briden] and Jon [Morton] of {LCMAP FAME}
 
 Happy to talk about how we do ODC work in the cloud, including doing continental-scale data processing work.
 
-We have some neat new examples using AWS tools like their Simple Queue Service along with Kubernetes to run a whole of Africa pixel quality analysis (so just visiting Sentinel-2's SCL band, over all pixels over Africa) and we're able to process that on 5 large EC2 instances in `*~20 minutes, which is fun! Costs us $20 USD.*`
+We have some neat new examples using AWS tools like their Simple Queue Service along with Kubernetes to run a whole of Africa pixel quality analysis (so just visiting Sentinel-2's SCL band, over all pixels over Africa) and we're able to process that on 5 large EC2 instances in `~20 minutes, which is fun! Costs us $20 USD.`
 
 Our land cover folks are doing something similar in Australia with LCCS, and I could bring them along. `They're science users, and are happy working with Python and the ODC` along with Kubernetes and job queues to run through that analysis, including iterating quite fast. I'm not sure about the costings of that, but it's been really successful this year!
 
@@ -1003,6 +1003,9 @@ Cheers,
 ---
 
 ## Logan Data Wrangling, S3 and early validation notebooks
+- S3 buckets view from the AWS Console
+- Quick Sanity Check of NED Data
+- in0 --> in1 (COGs) Model Ready Data Perhaps   `s3://eco-w1/in0/rapv2`; etc ....
 
 ## IAM - things you will never, ever, need to know - Whew!
 - but if you do there's an app for that - I mean a Jupyter Notebook for that!
