@@ -44,13 +44,12 @@ Cheers,
 
 ## IT Security and Compliance Part II
 
-- plan week 5 IT securiity and compliance
-	- lower server footprint and vulnerability attack surface
-	- reduce user numbers in mini-pangeo
-	- migrate users to big pangeo; teach cookbook examples in the Big Pangeo
-	- migrate eco users to the eco VPC mini-pangeo
-	- add encryption where i have to - or decomission less important services
-	- kelcy - where do you author notebooks - use teams
+- lower server footprint and vulnerability attack surface
+- reduce user numbers in mini-pangeo
+- migrate users to big pangeo; teach cookbook examples in the Big Pangeo
+- migrate eco users to the eco VPC mini-pangeo
+- add encryption where i have to - or decomission less important services
+- kelcy - where do you author notebooks? - use teams
 
 ---
 
@@ -77,11 +76,24 @@ Cheers,
 - Quick Sanity Check of NED Data
 - in0 --> in1 (COGs) Model Ready Data Perhaps   `s3://eco-w1/in0/rapv2`; etc ....
 
+## Featured Notebook in Big Pangeo pangeo.chs.usgs.gov
+
+- Steve Labahn got a Pangeo account at the click of a button
+- This is a managed service and there are benefits - since many items are taken care of.
+- I think you can request a bucket to go with your user ???
+- You can definitely play with notebooks here
+
+[ simple example plots big pangeo here](https://pangeo.chs.usgs.gov/user/butzer@contractor.usgs.gov/notebooks/opt/Oldstuff/notebook/00-Tutorial/01-Basic-Plotting-Python/00-example-plots-tony.ipynb)
+
 ## IAM - things you will never, ever, need to know - Whew!
 - but if you do there's an app for that - I mean a Jupyter Notebook for that!
 - aws iam list-attached-role-policies --role-name lsds-developer-ec2
 - Jupyter notebooks simplify every complex concept :-)
 
+---
+
+## END of WEEK 5
+---
 
 ```
 {
