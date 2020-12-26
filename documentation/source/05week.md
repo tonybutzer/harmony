@@ -76,6 +76,12 @@ Cheers,
 - Quick Sanity Check of NED Data
 - in0 --> in1 (COGs) Model Ready Data Perhaps   `s3://eco-w1/in0/rapv2`; etc ....
 
+## Wrangle rapv2 and mrlc_zip
+- next week we will use the cloud to create COGs from these in parallel - via docker orchestration
+
+- https://github.com/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/00-MRLC-Notebooks/00-data-scraping-grab-zips.ipynb
+- [LINK HERE](https://github.com/tonybutzer/logan/blob/main/00-notebooks/00-portal-scraping/00-MRLC-Notebooks/00-data-scraping-grab-zips.ipynb)
+
 ## Featured Notebook in Big Pangeo pangeo.chs.usgs.gov
 
 - Steve Labahn got a Pangeo account at the click of a button
