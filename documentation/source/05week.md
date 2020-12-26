@@ -1,6 +1,11 @@
 
 # WEEK 5 - Data Wrangling is Underway - Understanding S3
 
+## No silos; No Silos; NO SILOS!
+- lets work together
+- "many hands make light work"
+
+
 ## Understanding COGs and NonCOGs
 
 
@@ -45,11 +50,14 @@ Cheers,
 ## IT Security and Compliance Part II
 
 - lower server footprint and vulnerability attack surface
-- reduce user numbers in mini-pangeo
+- reduce user numbers in my Landsat mini-pangeos
 - migrate users to big pangeo; teach cookbook examples in the Big Pangeo
 - migrate eco users to the eco VPC mini-pangeo
 - add encryption where i have to - or decomission less important services
 - kelcy - where do you author notebooks? - use teams
+
+### IT Security Goal
+> Improve IT Security Compliance - with minor impacts to creativity, scaling and science
 
 ---
 
