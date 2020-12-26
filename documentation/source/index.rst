@@ -13,6 +13,8 @@ Welcome to AWS -- PANGEO Onboarding Training
    00define_ET.md
    00weekbyweek.md
    05week.md
+   06week.md
+   07week.md
    01project_charter.md
    02neal_case_study.md
    10project_plan
