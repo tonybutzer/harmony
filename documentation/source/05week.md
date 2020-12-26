@@ -7,6 +7,7 @@
 
 
 ## Understanding COGs and NonCOGs
+- data sizes and overviews
 
 
 ### A word about Data Compression
