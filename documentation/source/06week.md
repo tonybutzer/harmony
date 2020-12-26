@@ -1,7 +1,10 @@
 
 ## WEEK 6
 
-### Data Piplines and Orchestration
+### Data Pipelines and Orchestration
+
+
+## Docker
 
 
 ```
