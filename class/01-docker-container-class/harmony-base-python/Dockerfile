@@ -1,7 +1,7 @@
 FROM python
 
 ENV VERS=RUNN
-ENV TONY=1.0
+ENV TONY=1.1
 
 RUN apt-get update && \
         apt-get install -y vim && \

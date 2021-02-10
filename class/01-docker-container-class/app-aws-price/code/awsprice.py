@@ -3,6 +3,11 @@ import pickle
 import pandas as pd
 import sys
 
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', None)
+pd.set_option('display.max_colwidth', None)
+
 person='butz'
 try:
     person=sys.argv[1]
@@ -45,8 +50,13 @@ for i in range(len(response["Reservations"])):
             #print(key)
             #print(value_name)
             name=value_name
+            break
     if name.startswith(person):
-        ip = response['Reservations'][i]['Instances'][0]['PrivateIpAddress']
+        ip='x.x.x.x'
+        try:
+            ip = response['Reservations'][i]['Instances'][0]['PrivateIpAddress']
+        except:
+            pass
         i_type = response['Reservations'][i]['Instances'][0]['InstanceType']
         hr_cost = return_price(df, i_type)
         state=response['Reservations'][i]['Instances'][0]['State']['Name']
